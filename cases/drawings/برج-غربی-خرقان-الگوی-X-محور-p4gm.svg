@@ -1,0 +1,128 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" width="1450" height="920" viewBox="0 0 1450 920" role="img" aria-labelledby="t d">
+<title id="t">برج خرقان غربی — گونهٔ Xمحور chopstick با تقارن p4gm، Figure 11</title>
+<desc id="d">طرح هندسی تفسیری بر اساس توصیف Figure 11 مقالهٔ Makovicky 2023. این نقش در پنل ENE برج غربی قرار دارد و از نوع X-based chopstick version of p4gm است. طرح، منطق تقارن را نشان می‌دهد نه جانمایی دقیق آجرهای اجراشده.</desc>
+<defs><style>
+.bg{fill:#fbfaf7}.panel{fill:#fff;stroke:#c9c2b6;stroke-width:2}.h1{font-family:Vazirmatn,'Noto Sans Arabic',sans-serif;font-size:30px;font-weight:700;fill:#252b2e}.h2{font-family:Vazirmatn,'Noto Sans Arabic',sans-serif;font-size:21px;font-weight:700;fill:#30383c}.body{font-family:Vazirmatn,'Noto Sans Arabic',sans-serif;font-size:17px;fill:#30383c}.small{font-family:Vazirmatn,'Noto Sans Arabic',sans-serif;font-size:14px;fill:#60686a}.tiny{font-family:Vazirmatn,'Noto Sans Arabic',sans-serif;font-size:12px;fill:#697174}.bar{fill:#e9dece;stroke:#6a5949;stroke-width:2}.axis{stroke:#9c907d;stroke-width:1.2;stroke-dasharray:6 6}.note{fill:#f1eee7;stroke:#c9c0b2;stroke-width:1.5}
+</style></defs>
+<rect width="1450" height="920" class="bg"/>
+<text x="725" y="50" text-anchor="middle" class="h1">برج غربی خرقان — نقش Xمحورِ chopstick</text>
+<text x="725" y="82" text-anchor="middle" class="body">گونهٔ p4gm در پنل ENE؛ بازنمایی هندسیِ منطق نقش، نه نقشهٔ اجرایی آجرچینی</text>
+<rect x="45" y="120" width="1360" height="680" rx="10" class="panel"/>
+<text x="80" y="165" class="h2">۱. آرایش Xمحور و تکرار چهارگانه</text>
+<text x="1365" y="165" text-anchor="end" class="small">مبنای گونه‌شناختی: Figure 11, Makovicky 2023</text>
+<g>
+<g transform="translate(260 300)">
+ <path d="M-78 -9 L-60 -9 L78 9 L60 9 Z" class="bar"/>
+ <path d="M-78 9 L-60 9 L78 -9 L60 -9 Z" class="bar"/>
+ <path d="M-57 -57 L-45 -57 L-21 57 L-33 57 Z" class="bar" opacity=".0"/>
+ <circle cx="0" cy="0" r="5" fill="#6a5949"/>
+ </g><g transform="translate(465 300)">
+ <path d="M-78 -9 L-60 -9 L78 9 L60 9 Z" class="bar"/>
+ <path d="M-78 9 L-60 9 L78 -9 L60 -9 Z" class="bar"/>
+ <path d="M-57 -57 L-45 -57 L-21 57 L-33 57 Z" class="bar" opacity=".0"/>
+ <circle cx="0" cy="0" r="5" fill="#6a5949"/>
+ </g><g transform="translate(670 300)">
+ <path d="M-78 -9 L-60 -9 L78 9 L60 9 Z" class="bar"/>
+ <path d="M-78 9 L-60 9 L78 -9 L60 -9 Z" class="bar"/>
+ <path d="M-57 -57 L-45 -57 L-21 57 L-33 57 Z" class="bar" opacity=".0"/>
+ <circle cx="0" cy="0" r="5" fill="#6a5949"/>
+ </g><g transform="translate(875 300)">
+ <path d="M-78 -9 L-60 -9 L78 9 L60 9 Z" class="bar"/>
+ <path d="M-78 9 L-60 9 L78 -9 L60 -9 Z" class="bar"/>
+ <path d="M-57 -57 L-45 -57 L-21 57 L-33 57 Z" class="bar" opacity=".0"/>
+ <circle cx="0" cy="0" r="5" fill="#6a5949"/>
+ </g><g transform="translate(1080 300)">
+ <path d="M-78 -9 L-60 -9 L78 9 L60 9 Z" class="bar"/>
+ <path d="M-78 9 L-60 9 L78 -9 L60 -9 Z" class="bar"/>
+ <path d="M-57 -57 L-45 -57 L-21 57 L-33 57 Z" class="bar" opacity=".0"/>
+ <circle cx="0" cy="0" r="5" fill="#6a5949"/>
+ </g><g transform="translate(360 425)">
+ <path d="M-78 -9 L-60 -9 L78 9 L60 9 Z" class="bar"/>
+ <path d="M-78 9 L-60 9 L78 -9 L60 -9 Z" class="bar"/>
+ <path d="M-57 -57 L-45 -57 L-21 57 L-33 57 Z" class="bar" opacity=".0"/>
+ <circle cx="0" cy="0" r="5" fill="#6a5949"/>
+ </g><g transform="translate(565 425)">
+ <path d="M-78 -9 L-60 -9 L78 9 L60 9 Z" class="bar"/>
+ <path d="M-78 9 L-60 9 L78 -9 L60 -9 Z" class="bar"/>
+ <path d="M-57 -57 L-45 -57 L-21 57 L-33 57 Z" class="bar" opacity=".0"/>
+ <circle cx="0" cy="0" r="5" fill="#6a5949"/>
+ </g><g transform="translate(770 425)">
+ <path d="M-78 -9 L-60 -9 L78 9 L60 9 Z" class="bar"/>
+ <path d="M-78 9 L-60 9 L78 -9 L60 -9 Z" class="bar"/>
+ <path d="M-57 -57 L-45 -57 L-21 57 L-33 57 Z" class="bar" opacity=".0"/>
+ <circle cx="0" cy="0" r="5" fill="#6a5949"/>
+ </g><g transform="translate(975 425)">
+ <path d="M-78 -9 L-60 -9 L78 9 L60 9 Z" class="bar"/>
+ <path d="M-78 9 L-60 9 L78 -9 L60 -9 Z" class="bar"/>
+ <path d="M-57 -57 L-45 -57 L-21 57 L-33 57 Z" class="bar" opacity=".0"/>
+ <circle cx="0" cy="0" r="5" fill="#6a5949"/>
+ </g><g transform="translate(1180 425)">
+ <path d="M-78 -9 L-60 -9 L78 9 L60 9 Z" class="bar"/>
+ <path d="M-78 9 L-60 9 L78 -9 L60 -9 Z" class="bar"/>
+ <path d="M-57 -57 L-45 -57 L-21 57 L-33 57 Z" class="bar" opacity=".0"/>
+ <circle cx="0" cy="0" r="5" fill="#6a5949"/>
+ </g><g transform="translate(260 550)">
+ <path d="M-78 -9 L-60 -9 L78 9 L60 9 Z" class="bar"/>
+ <path d="M-78 9 L-60 9 L78 -9 L60 -9 Z" class="bar"/>
+ <path d="M-57 -57 L-45 -57 L-21 57 L-33 57 Z" class="bar" opacity=".0"/>
+ <circle cx="0" cy="0" r="5" fill="#6a5949"/>
+ </g><g transform="translate(465 550)">
+ <path d="M-78 -9 L-60 -9 L78 9 L60 9 Z" class="bar"/>
+ <path d="M-78 9 L-60 9 L78 -9 L60 -9 Z" class="bar"/>
+ <path d="M-57 -57 L-45 -57 L-21 57 L-33 57 Z" class="bar" opacity=".0"/>
+ <circle cx="0" cy="0" r="5" fill="#6a5949"/>
+ </g><g transform="translate(670 550)">
+ <path d="M-78 -9 L-60 -9 L78 9 L60 9 Z" class="bar"/>
+ <path d="M-78 9 L-60 9 L78 -9 L60 -9 Z" class="bar"/>
+ <path d="M-57 -57 L-45 -57 L-21 57 L-33 57 Z" class="bar" opacity=".0"/>
+ <circle cx="0" cy="0" r="5" fill="#6a5949"/>
+ </g><g transform="translate(875 550)">
+ <path d="M-78 -9 L-60 -9 L78 9 L60 9 Z" class="bar"/>
+ <path d="M-78 9 L-60 9 L78 -9 L60 -9 Z" class="bar"/>
+ <path d="M-57 -57 L-45 -57 L-21 57 L-33 57 Z" class="bar" opacity=".0"/>
+ <circle cx="0" cy="0" r="5" fill="#6a5949"/>
+ </g><g transform="translate(1080 550)">
+ <path d="M-78 -9 L-60 -9 L78 9 L60 9 Z" class="bar"/>
+ <path d="M-78 9 L-60 9 L78 -9 L60 -9 Z" class="bar"/>
+ <path d="M-57 -57 L-45 -57 L-21 57 L-33 57 Z" class="bar" opacity=".0"/>
+ <circle cx="0" cy="0" r="5" fill="#6a5949"/>
+ </g><g transform="translate(360 675)">
+ <path d="M-78 -9 L-60 -9 L78 9 L60 9 Z" class="bar"/>
+ <path d="M-78 9 L-60 9 L78 -9 L60 -9 Z" class="bar"/>
+ <path d="M-57 -57 L-45 -57 L-21 57 L-33 57 Z" class="bar" opacity=".0"/>
+ <circle cx="0" cy="0" r="5" fill="#6a5949"/>
+ </g><g transform="translate(565 675)">
+ <path d="M-78 -9 L-60 -9 L78 9 L60 9 Z" class="bar"/>
+ <path d="M-78 9 L-60 9 L78 -9 L60 -9 Z" class="bar"/>
+ <path d="M-57 -57 L-45 -57 L-21 57 L-33 57 Z" class="bar" opacity=".0"/>
+ <circle cx="0" cy="0" r="5" fill="#6a5949"/>
+ </g><g transform="translate(770 675)">
+ <path d="M-78 -9 L-60 -9 L78 9 L60 9 Z" class="bar"/>
+ <path d="M-78 9 L-60 9 L78 -9 L60 -9 Z" class="bar"/>
+ <path d="M-57 -57 L-45 -57 L-21 57 L-33 57 Z" class="bar" opacity=".0"/>
+ <circle cx="0" cy="0" r="5" fill="#6a5949"/>
+ </g><g transform="translate(975 675)">
+ <path d="M-78 -9 L-60 -9 L78 9 L60 9 Z" class="bar"/>
+ <path d="M-78 9 L-60 9 L78 -9 L60 -9 Z" class="bar"/>
+ <path d="M-57 -57 L-45 -57 L-21 57 L-33 57 Z" class="bar" opacity=".0"/>
+ <circle cx="0" cy="0" r="5" fill="#6a5949"/>
+ </g><g transform="translate(1180 675)">
+ <path d="M-78 -9 L-60 -9 L78 9 L60 9 Z" class="bar"/>
+ <path d="M-78 9 L-60 9 L78 -9 L60 -9 Z" class="bar"/>
+ <path d="M-57 -57 L-45 -57 L-21 57 L-33 57 Z" class="bar" opacity=".0"/>
+ <circle cx="0" cy="0" r="5" fill="#6a5949"/>
+ </g>
+</g>
+<g class="axis">
+<line x1="150" y1="300" x2="1300" y2="300"/>
+<line x1="150" y1="425" x2="1300" y2="425"/>
+<line x1="150" y1="550" x2="1300" y2="550"/>
+<line x1="150" y1="675" x2="1300" y2="675"/>
+</g>
+<text x="725" y="755" text-anchor="middle" class="tiny">نمونهٔ شماتیک از تکرار چهارگانهٔ X؛ اندازه، زاویهٔ پخ و فاصلهٔ آجرها از تصویر مقاله برداشت عددی نشده‌اند.</text>
+<rect x="45" y="820" width="1360" height="70" rx="8" class="note"/>
+<text x="80" y="860" class="body">منبع: Makovicky (2023), Figure 11 — «X-based chopstick version of the p4gm pattern», پنل ENE برج غربی خرقان.</text>
+<text x="725" y="910" text-anchor="middle" class="tiny">DOI: 10.1007/s12210-023-01171-3 — CC BY 4.0 — هندسهٔ تحلیلی، نه رونوشت اندازه‌دار</text>
+<a href="https://link.springer.com/article/10.1007/s12210-023-01171-3/figures/11"><text x="80" y="910" class="tiny">مشاهدهٔ عکس اصلی Figure 11</text></a>
+</svg>
