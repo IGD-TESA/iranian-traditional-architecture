@@ -1,11 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<svg xmlns="http://www.w3.org/2000/svg" width="640" height="430" viewBox="0 0 640 430" role="img" aria-labelledby="ttl dsc">
-<title id="ttl">ناودان — ترسیم شماتیک</title>
-<desc id="dsc">دیاگرام آموزشی ناودان در معماری سنتی ایران. این ترسیم شماتیک عمومی است، مقیاس ندارد و به بنای تاریخی مشخصی منتسب نیست.</desc>
-<defs><pattern id="hatch" width="8" height="8" patternUnits="userSpaceOnUse"><path d="M0 8 L8 0" stroke="#9ca3af" stroke-width=".8"/></pattern></defs><rect width="640" height="430" fill="#fff"/>
-<text x="320" y="34" text-anchor="middle" direction="rtl" font-family="Vazirmatn, Noto Sans Arabic, sans-serif" font-size="21" font-weight="600" fill="#20252b">ناودان</text>
-<line x1="44" y1="48" x2="596" y2="48" stroke="#d1d5db"/>
-<rect x="120" y="110" width="400" height="240" rx="0" fill="#e7e5df" stroke="#252525" stroke-width="1.5"/><line x1="170" y1="125" x2="170" y2="325" stroke="#285b78" stroke-width="2" stroke-dasharray="5 5"/><line x1="470" y1="125" x2="470" y2="325" stroke="#285b78" stroke-width="2" stroke-dasharray="5 5"/><path d="M170 300 H470" fill="none" stroke="#285b78" stroke-width="2" stroke-linejoin="round" stroke-linecap="round" />
-<line x1="44" y1="390" x2="596" y2="390" stroke="#d1d5db"/>
-<text x="320" y="414" text-anchor="middle" direction="rtl" font-family="Vazirmatn, Noto Sans Arabic, sans-serif" font-size="12" fill="#64748b">شماتیک آموزشی • فاقد مقیاس • گونهٔ عمومی</text>
-</svg>
+<svg xmlns="http://www.w3.org/2000/svg" width="640" height="430" viewBox="0 0 640 430" role="img" aria-labelledby="title desc">
+<title id="title">ناودان — ترسیم شماتیک بازبینی‌شده</title><desc id="desc">مقطع ناودان عمودی از لبهٔ بام تا تراز زمین، همراه با محل تخلیه؛ ابعاد و جنس لوله وابسته به نمونه است.</desc><rect width="640" height="430" fill="#fff"/>
+<text x="320" y="34" text-anchor="middle" direction="rtl" font-family="Vazirmatn, Noto Sans Arabic, sans-serif" font-size="21" font-weight="600" fill="#20252b">ناودان</text><line x1="44" y1="48" x2="596" y2="48" stroke="#d1d5db"/>
+<path d="M105 105 H405 L455 135" fill="none" stroke="#252525" stroke-width="5"/><rect x="405" y="135" width="110" height="210" fill="#e7e5df" stroke="#252525" stroke-width="2"/><path d="M430 140 Q470 145 470 175 V300 Q470 325 500 325" fill="none" stroke="#285b78" stroke-width="9"/><path d="M490 310 L500 325 L480 335" fill="none" stroke="#285b78" stroke-width="2"/><line x1="85" y1="345" x2="555" y2="345" stroke="#252525" stroke-width="3"/><path d="M470 325 H540 V345" fill="none" stroke="#285b78" stroke-width="2"/><line x1="44" y1="390" x2="596" y2="390" stroke="#d1d5db"/><text x="320" y="414" text-anchor="middle" direction="rtl" font-family="Vazirmatn, Noto Sans Arabic, sans-serif" font-size="12" fill="#64748b">شماتیک آموزشی • فاقد مقیاس • گونهٔ عمومی</text></svg>
