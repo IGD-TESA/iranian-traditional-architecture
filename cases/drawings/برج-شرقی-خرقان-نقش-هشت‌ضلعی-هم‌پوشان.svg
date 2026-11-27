@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" width="1500" height="980" viewBox="0 0 1500 980" role="img" aria-labelledby="t d">
+<title id="t">برج شرقی خرقان — بازسازی هندسی نقش هشت‌ضلعی‌های هم‌پوشان</title>
+<desc id="d">بازسازی تحلیلی بر اساس شرح شکل ۱۲ مقالهٔ Makovicky 2023. نویسنده نقش دنده‌ای درهم‌تنیدهٔ برج شرقی را دارای تقارن لایه‌ای p422 و متشکل از هشت‌ضلعی‌های هم‌پوشان معرفی می‌کند؛ چهار به‌علاوه چهار هشت‌ضلعی برای هر هشت‌ضلعی مرکزی. این طرح یک مدل هندسی تفسیری است، نه برداشت اندازه‌دارِ بندهای آجر.</desc>
+<defs><style>
+.bg{fill:#fbfaf7}.panel{fill:#fff;stroke:#c9c2b6;stroke-width:2}.h1{font-family:Vazirmatn,'Noto Sans Arabic',sans-serif;font-size:31px;font-weight:700;fill:#242a2d}.h2{font-family:Vazirmatn,'Noto Sans Arabic',sans-serif;font-size:22px;font-weight:700;fill:#30383c}.body{font-family:Vazirmatn,'Noto Sans Arabic',sans-serif;font-size:17px;fill:#30383c}.small{font-family:Vazirmatn,'Noto Sans Arabic',sans-serif;font-size:14px;fill:#60686a}.tiny{font-family:Vazirmatn,'Noto Sans Arabic',sans-serif;font-size:12px;fill:#6a7275}.note{fill:#f1eee7;stroke:#c9c0b2;stroke-width:1.5}.axis{stroke:#8e8170;stroke-width:1.5;stroke-dasharray:6 6}
+</style></defs>
+<rect width="1500" height="980" class="bg"/>
+<text x="750" y="52" text-anchor="middle" class="h1">برج شرقی خرقان — نقش دنده‌ایِ هشت‌ضلعی‌های هم‌پوشان</text>
+<text x="750" y="83" text-anchor="middle" class="body">بازسازی هندسیِ تفسیری از Figure 12؛ الگوی واقعیِ همان پنل، نه نقش عمومی آجرکاری ایرانی</text>
+
+<rect x="45" y="120" width="720" height="700" rx="10" class="panel"/>
+<text x="80" y="165" class="h2">۱. خوانش هندسیِ سازوکار ۴ + ۴</text>
+<text x="80" y="192" class="small">یک هشت‌ضلعی مرکزی و دو دستهٔ چهارگانهٔ هشت‌ضلعی‌های پیرامونی</text>
+<g stroke="#9a8c77" stroke-width="1.5" stroke-dasharray="6 7"><line x1="390" y1="180" x2="390" y2="590"/><line x1="185" y1="385" x2="595" y2="385"/><line x1="245" y1="240" x2="535" y2="530"/><line x1="535" y1="240" x2="245" y2="530"/></g>
+<polygon points="467.6,417.1 422.1,462.6 357.9,462.6 312.4,417.1 312.4,352.9 357.9,307.4 422.1,307.4 467.6,352.9" fill="#f2ece1" stroke="#2d3437" stroke-width="5"/>
+<polygon points="467.6,299.1 422.1,344.6 357.9,344.6 312.4,299.1 312.4,234.9 357.9,189.4 422.1,189.4 467.6,234.9" fill="none" stroke="#6c5b49" stroke-width="3.2"/>
+<polygon points="585.6,417.1 540.1,462.6 475.9,462.6 430.4,417.1 430.4,352.9 475.9,307.4 540.1,307.4 585.6,352.9" fill="none" stroke="#6c5b49" stroke-width="3.2"/>
+<polygon points="467.6,535.1 422.1,580.6 357.9,580.6 312.4,535.1 312.4,470.9 357.9,425.4 422.1,425.4 467.6,470.9" fill="none" stroke="#6c5b49" stroke-width="3.2"/>
+<polygon points="349.6,417.1 304.1,462.6 239.9,462.6 194.4,417.1 194.4,352.9 239.9,307.4 304.1,307.4 349.6,352.9" fill="none" stroke="#6c5b49" stroke-width="3.2"/>
+<polygon points="551.6,333.1 506.1,378.6 441.9,378.6 396.4,333.1 396.4,268.9 441.9,223.4 506.1,223.4 551.6,268.9" fill="none" stroke="#6c5b49" stroke-width="3.2"/>
+<polygon points="551.6,501.1 506.1,546.6 441.9,546.6 396.4,501.1 396.4,436.9 441.9,391.4 506.1,391.4 551.6,436.9" fill="none" stroke="#6c5b49" stroke-width="3.2"/>
+<polygon points="383.6,501.1 338.1,546.6 273.9,546.6 228.4,501.1 228.4,436.9 273.9,391.4 338.1,391.4 383.6,436.9" fill="none" stroke="#6c5b49" stroke-width="3.2"/>
+<polygon points="383.6,333.1 338.1,378.6 273.9,378.6 228.4,333.1 228.4,268.9 273.9,223.4 338.1,223.4 383.6,268.9" fill="none" stroke="#6c5b49" stroke-width="3.2"/>
+<text x="390" y="628" text-anchor="middle" class="body">هشت‌ضلعی مرکزی</text>
+<text x="390" y="658" text-anchor="middle" class="small">چهار موقعیت محوری + چهار موقعیت قطری</text>
+<text x="390" y="688" text-anchor="middle" class="tiny">تقارن‌های چهارگانه و محورهای قطری در مدل هندسی نشان داده شده‌اند.</text>
+
+<rect x="795" y="120" width="660" height="700" rx="10" class="panel"/>
+<text x="830" y="165" class="h2">۲. پنل واقعیِ برج شرقی</text>
+<text x="830" y="192" class="small">عکس منتشرشده در مقالهٔ Makovicky (2023)، Figure 12</text>
+<image href="https://media.springernature.com/full/springer-static/image/art%3A10.1007%2Fs12210-023-01171-3/MediaObjects/12210_2023_1171_Fig12_HTML.jpg" x="840" y="225" width="575" height="360" preserveAspectRatio="xMidYMid meet"/>
+<text x="840" y="620" class="small">شرح نویسنده: شبکهٔ دنده‌ایِ درهم‌تنیده با تقارن لایه‌ای p422؛</text>
+<text x="840" y="645" class="small">رزت‌های چهارگوش، در اصل از هشت‌ضلعی‌های هم‌پوشان شکل گرفته‌اند.</text>
+<a href="https://link.springer.com/article/10.1007/s12210-023-01171-3/figures/12"><text x="840" y="685" class="tiny">صفحهٔ رسمی Figure 12 و تصویر کامل</text></a>
+<a href="https://doi.org/10.1007/s12210-023-01171-3"><text x="840" y="710" class="tiny">مقالهٔ کامل و تحلیل تقارن</text></a>
+
+<rect x="45" y="845" width="1410" height="88" rx="8" class="note"/>
+<text x="80" y="880" class="body">محدودیت: جایگاه و اندازهٔ واقعی هر آجر از این بازسازی هندسی به دست نمی‌آید؛ الگوی برداری، خوانش ریاضیِ توصیف نویسنده است.</text>
+<text x="80" y="910" class="small">برای نقشهٔ اجراییِ بندها باید به برداشت آجر به آجر یا نقشهٔ CAD همان پنل مراجعه شود. این فایل، هندسهٔ مولد/تفسیری است نه رونوشت اندازه‌دار.</text>
+<text x="750" y="967" text-anchor="middle" class="tiny">Makovicky (2023), Fig. 12, CC BY 4.0 — DOI: 10.1007/s12210-023-01171-3</text>
+</svg>
