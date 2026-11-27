@@ -10,7 +10,7 @@
 - حوض مرکزی — [پیش‌نمایش SVG](drawings/001-hvz-mrkzy.svg)
 - حوض مستطیلی — [پیش‌نمایش SVG](drawings/002-hvz-msttyly.svg)
 - حوض مربع — [پیش‌نمایش SVG](drawings/003-hvz-mrba.svg)
-- حوض چندضلعی — [پیش‌نمایش SVG](drawings/004-hvz-chndzlay.svg)
+- حوض چندضلعی — [پیش‌نمایش SVG](drawings/004-hvz-chndzlay.svg)؛ [کیس مستند: حوض مرمرین هشت‌ضلعی در فضای ۲٫۹ خانهٔ گلشن](../cases/خانه-گلشن-یزد-فضای-۲-۹.md)
 - حوض مدور — [پیش‌نمایش SVG](drawings/005-hvz-mdvr.svg)
 - حوضچه — [پیش‌نمایش SVG](drawings/006-hvzchh.svg)
 - آب‌نما — [پیش‌نمایش SVG](drawings/007-ab-nma.svg)
