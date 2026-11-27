@@ -24,7 +24,7 @@
 - نقش گیاهی — [پیش‌نمایش SVG](drawings/013-nqsh-gyahy.svg)
 - نقوش انتزاعی گیاهی — [پیش‌نمایش SVG](drawings/014-nqvsh-antzaay-gyahy.svg)
 - کتیبه — [پیش‌نمایش SVG](drawings/015-ktybh.svg)
-- نوشتار کوفی — [پیش‌نمایش SVG](drawings/016-nvshtar-kvfy.svg)
+- نوشتار کوفی — [پیش‌نمایش SVG](drawings/016-nvshtar-kvfy.svg)؛ [کیس مستندنگاری سه‌بعدی گنبد علویان، همدان](../cases/گنبد-علویان-همدان-مستندنگاری-فتوگرامتری.md)
 - کتیبه‌های ثلث و دیگر گونه‌های خط، در صورت احراز در نمونه — [پیش‌نمایش SVG](drawings/017-ktybh-hay-sls-v-dygr-gvnh-hay-kht-dr-svrt-.svg)
 - ترکیب نقش و نوشتار — [پیش‌نمایش SVG](drawings/018-trkyb-nqsh-v-nvshtar.svg)
 ## پ) فنون گچ و اندود
@@ -38,9 +38,9 @@
 - قاب‌بندی گچی — [پیش‌نمایش SVG](drawings/025-qab-bndy-gchy.svg)
 ## ت) فنون آجر و کاشی
 
-- آجرکاری تزئینی — [پیش‌نمایش SVG](drawings/026-ajrkary-tzyny.svg)
+- آجرکاری تزئینی — [پیش‌نمایش SVG](drawings/026-ajrkary-tzyny.svg)؛ [مستندنگاری فتوگرامتری گنبد علویان](../cases/گنبد-علویان-همدان-مستندنگاری-فتوگرامتری.md)
 - آجرچینی خفته و راسته — [پیش‌نمایش SVG](drawings/027-ajrchyny-khfth-v-rasth.svg)
-- آجرکاری نقش‌دار — [پیش‌نمایش SVG](drawings/028-ajrkary-nqsh-dar.svg)
+- آجرکاری نقش‌دار — [پیش‌نمایش SVG](drawings/028-ajrkary-nqsh-dar.svg)؛ [مستندنگاری فتوگرامتری گنبد علویان](../cases/گنبد-علویان-همدان-مستندنگاری-فتوگرامتری.md)
 - کاشی‌کاری — [پیش‌نمایش SVG](drawings/029-kashy-kary.svg)
 - کاشی معرق — [پیش‌نمایش SVG](drawings/030-kashy-marq.svg)
 - کاشی هفت‌رنگ — [پیش‌نمایش SVG](drawings/031-kashy-hft-rng.svg)
