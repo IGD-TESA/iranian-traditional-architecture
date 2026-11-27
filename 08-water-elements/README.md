@@ -21,11 +21,11 @@
 - حوض درون فضای سرپوشیده — [پیش‌نمایش SVG](drawings/012-hvz-drvn-fzay-srpvshydh.svg)
 ## ب) عناصر ذخیره و دسترسی به آب
 
-- آب‌انبار — [پیش‌نمایش SVG](drawings/013-ab-anbar.svg)
+- آب‌انبار — [پیش‌نمایش SVG](drawings/013-ab-anbar.svg)؛ [کیس آب‌انبار یزدُران و مقطع ارتباط با قنات فیروزآباد](../cases/آب‌انبار-یزدردان-یزد-پلان-و-مقطع.md)
 - مخزن آب — [پیش‌نمایش SVG](drawings/014-mkhzn-ab.svg)
 - چاه — [پیش‌نمایش SVG](drawings/015-chah.svg)
-- پایاب — [پیش‌نمایش SVG](drawings/016-payab.svg)
-- پاشیر — [پیش‌نمایش SVG](drawings/017-pashyr.svg)
+- پایاب — [پیش‌نمایش SVG](drawings/016-payab.svg)؛ [پلان زیرزمین و مقاطع پایاب خانه‌های لاری و تهرانی، Figure 113](../cases/پایاب-خانه-لاری-و-تهرانی-یزد.md)
+- پاشیر — [پیش‌نمایش SVG](drawings/017-pashyr.svg)؛ پروندهٔ آب‌انبار یزدُران هنوز جزئیات پاشیر را در منبع ثانویه به‌صورت قابل‌خوانش مشخص نمی‌کند؛ نیازمند سند مستقیم YCHHTO است
 - دهانهٔ برداشت آب — [پیش‌نمایش SVG](drawings/018-dhanh-brdasht-ab.svg)
 - مسیر ورودی و خروجی مخزن — [پیش‌نمایش SVG](drawings/019-msyr-vrvdy-v-khrvjy-mkhzn.svg)
 - آبراهه و کانال انتقال آب — [پیش‌نمایش SVG](drawings/020-abrahh-v-kanal-antqal-ab.svg)
