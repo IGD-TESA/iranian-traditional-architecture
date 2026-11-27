@@ -1,13 +1,57 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<svg xmlns="http://www.w3.org/2000/svg" width="900" height="560" viewBox="0 0 900 560" role="img" aria-labelledby="title desc">
-<title id="title">حیاط مرکزی — فاقد ترسیم معتبر</title>
-<desc id="desc">هیچ فرم معماری در این صفحه نمایش داده نشده است؛ تا زمان دستیابی به سند معتبر یک کیس مشخص، ترسیم انجام نمی‌شود.</desc>
-<rect width="900" height="560" fill="#fff"/><rect x="24" y="24" width="852" height="512" rx="6" fill="#faf9f6" stroke="#948a7d" stroke-width="2"/>
-<rect x="24" y="24" width="852" height="78" fill="#403b35"/><text x="450" y="74" text-anchor="middle" font-family="Vazirmatn,Noto Sans Arabic,sans-serif" font-size="30" fill="#fff">حیاط مرکزی</text>
-<text x="450" y="184" text-anchor="middle" font-family="Vazirmatn,Noto Sans Arabic,sans-serif" font-size="25" font-weight="700" fill="#8b3f32">ترسیم معتبر موجود نیست</text>
-<text x="450" y="230" text-anchor="middle" font-family="Vazirmatn,Noto Sans Arabic,sans-serif" font-size="19" fill="#292722">وضعیت: نیازمند کیس واقعی و سند قابل ارجاع</text>
-<line x1="100" y1="272" x2="800" y2="272" stroke="#c9c2b8" stroke-width="2"/>
-<text x="450" y="325" text-anchor="middle" font-family="Vazirmatn,Noto Sans Arabic,sans-serif" font-size="17" fill="#4a453e">نیازمند پلان و مقطع برداشت‌شدهٔ یک خانهٔ نام‌دار، با منبع و شمارهٔ نقشه.</text>
-<text x="450" y="380" text-anchor="middle" font-family="Vazirmatn,Noto Sans Arabic,sans-serif" font-size="16" fill="#4a453e">ابعاد، هندسه، نما، مقطع یا جزئیات از روی حدس ساخته نمی‌شوند.</text>
-<text x="450" y="435" text-anchor="middle" font-family="Vazirmatn,Noto Sans Arabic,sans-serif" font-size="14" fill="#6a6258">نسخهٔ پیشین در تاریخچهٔ Git باقی است، اما مرجع معتبر اطلس نیست.</text>
-<text x="450" y="488" text-anchor="middle" font-family="Vazirmatn,Noto Sans Arabic,sans-serif" font-size="13" fill="#8a8277">DOCUMENTATION REQUIRED — NO ASSUMPTIONS</text></svg>
+<svg xmlns="http://www.w3.org/2000/svg" width="1420" height="1050" viewBox="0 0 1420 1050" role="img" aria-labelledby="t d">
+<title id="t">حیاط مرکزی و حیاط‌های وابسته؛ مقایسهٔ اندازه‌برداری دو خانهٔ تاریخی یزد</title>
+<desc id="d">شیت داده‌محور از دو خانهٔ لاری‌ها و گلشن بر اساس پژوهش میدانی سال ۲۰۲۵. مساحت حیاط اصلی، حیاط شمال‌شرقی و حیاط کوچک و مساحت کل زمین و سطح اشغال ساختمان برای هر خانه به مترمربع گزارش و مقایسه شده است. طول نوارها متناسب با مساحت هر حیاط است، نه ابعاد واقعی یا هندسهٔ پلان. نقشه‌های شکل ۲ و ۳ مقاله برای بازترسیم دقیق پلان به نسخهٔ اصلی با وضوح بالا نیاز دارند.</desc>
+<defs>
+ <style>
+ .bg{fill:#f8f7f3}.panel{fill:#fff;stroke:#c9c4ba;stroke-width:2}.title{font-family:Vazirmatn,'Noto Sans Arabic',sans-serif;font-size:29px;font-weight:700;fill:#20282d}.subtitle{font-family:Vazirmatn,'Noto Sans Arabic',sans-serif;font-size:16px;fill:#4d5960}.head{font-family:Vazirmatn,'Noto Sans Arabic',sans-serif;font-size:22px;font-weight:700;fill:#29363c}.body{font-family:Vazirmatn,'Noto Sans Arabic',sans-serif;font-size:17px;fill:#30383c}.small{font-family:Vazirmatn,'Noto Sans Arabic',sans-serif;font-size:14px;fill:#5d686e}.tiny{font-family:Vazirmatn,'Noto Sans Arabic',sans-serif;font-size:12px;fill:#727b80}.barbg{fill:#e9e6df}.bar1{fill:#6f8791}.bar2{fill:#9caeaa}.bar3{fill:#c2a98e}.stat{fill:#f2f0ea;stroke:#d1ccc0;stroke-width:1.3}.warning{fill:#f7f0e4;stroke:#d6c7ae;stroke-width:1.4}
+ </style>
+</defs>
+<rect width="1420" height="1050" class="bg"/>
+<rect x="28" y="24" width="1364" height="100" rx="10" fill="#293940"/>
+<text x="710" y="65" text-anchor="middle" class="title" style="fill:#fff" direction="rtl">حیاط مرکزی در خانه‌های تاریخی یزد — دو کیس اندازه‌برداری‌شده</text>
+<text x="710" y="96" text-anchor="middle" class="subtitle" style="fill:#e2e8eb" direction="rtl">مقایسهٔ مساحت حیاط‌ها در خانهٔ لاری‌ها و خانهٔ گلشن؛ دادهٔ میدانی ۲۰۲۵</text>
+<text x="710" y="155" text-anchor="middle" class="small" direction="rtl">طول هر نوار متناسب با مساحت گزارش‌شده است؛ نوارها شکل، نسبت طول به عرض یا هندسهٔ واقعی حیاط را نشان نمی‌دهند.</text>
+
+<!-- LARIHA CARD -->
+<rect x="35" y="185" width="660" height="625" rx="9" class="panel"/>
+<text x="365" y="228" text-anchor="middle" class="head" direction="rtl">۱ ـ خانهٔ لاری‌ها، یزد</text>
+<text x="365" y="258" text-anchor="middle" class="small" direction="rtl">سه فضای بازِ حیاطی در مطالعهٔ اندازه‌برداری</text>
+<text x="75" y="316" class="body" direction="rtl">حیاط اصلی</text><text x="640" y="316" class="body" text-anchor="end">۴۷۲٫۰۰ م²</text>
+<rect x="75" y="331" width="540" height="24" rx="4" class="barbg"/><rect x="75" y="331" width="540" height="24" rx="4" class="bar1"/>
+<text x="75" y="393" class="body" direction="rtl">حیاط شمال‌شرقی</text><text x="640" y="393" class="body" text-anchor="end">۱۳۱٫۵۰ م²</text>
+<rect x="75" y="408" width="540" height="24" rx="4" class="barbg"/><rect x="75" y="408" width="150.4" height="24" rx="4" class="bar2"/>
+<text x="75" y="470" class="body" direction="rtl">حیاط کوچک</text><text x="640" y="470" class="body" text-anchor="end">۲۷٫۷۲ م²</text>
+<rect x="75" y="485" width="540" height="24" rx="4" class="barbg"/><rect x="75" y="485" width="31.7" height="24" rx="4" class="bar3"/>
+<rect x="75" y="550" width="580" height="205" rx="8" class="stat"/>
+<text x="110" y="590" class="body" direction="rtl">مجموع مساحت حیاط‌ها</text><text x="620" y="590" class="head" text-anchor="end">۶۳۱٫۲۲ م²</text>
+<text x="110" y="635" class="body" direction="rtl">مساحت کل زمین</text><text x="620" y="635" class="body" text-anchor="end">۳٬۳۷۹ م²</text>
+<text x="110" y="680" class="body" direction="rtl">سطح اشغال ساختمان</text><text x="620" y="680" class="body" text-anchor="end">۱٬۴۷۷ م²</text>
+<text x="110" y="726" class="small" direction="rtl">سهم مجموع حیاط‌ها از زمین: ۱۸٫۶۸٪ (محاسبه از داده‌های مقاله)</text>
+
+<!-- GOLSHAN CARD -->
+<rect x="725" y="185" width="660" height="625" rx="9" class="panel"/>
+<text x="1055" y="228" text-anchor="middle" class="head" direction="rtl">۲ ـ خانهٔ گلشن، یزد</text>
+<text x="1055" y="258" text-anchor="middle" class="small" direction="rtl">سه فضای بازِ حیاطی در مطالعهٔ اندازه‌برداری</text>
+<text x="765" y="316" class="body" direction="rtl">حیاط اصلی</text><text x="1330" y="316" class="body" text-anchor="end">۲۹۳٫۴۱ م²</text>
+<rect x="765" y="331" width="540" height="24" rx="4" class="barbg"/><rect x="765" y="331" width="335.7" height="24" rx="4" class="bar1"/>
+<text x="765" y="393" class="body" direction="rtl">حیاط شمال‌شرقی</text><text x="1330" y="393" class="body" text-anchor="end">۱۹۳٫۵۷ م²</text>
+<rect x="765" y="408" width="540" height="24" rx="4" class="barbg"/><rect x="765" y="408" width="221.5" height="24" rx="4" class="bar2"/>
+<text x="765" y="470" class="body" direction="rtl">حیاط کوچک</text><text x="1330" y="470" class="body" text-anchor="end">۵۸٫۸۸ م²</text>
+<rect x="765" y="485" width="540" height="24" rx="4" class="barbg"/><rect x="765" y="485" width="67.3" height="24" rx="4" class="bar3"/>
+<rect x="765" y="550" width="580" height="205" rx="8" class="stat"/>
+<text x="800" y="590" class="body" direction="rtl">مجموع مساحت حیاط‌ها</text><text x="1310" y="590" class="head" text-anchor="end">۵۴۵٫۸۶ م²</text>
+<text x="800" y="635" class="body" direction="rtl">مساحت کل زمین</text><text x="1310" y="635" class="body" text-anchor="end">۲٬۱۶۰ م²</text>
+<text x="800" y="680" class="body" direction="rtl">سطح اشغال ساختمان</text><text x="1310" y="680" class="body" text-anchor="end">۱٬۶۱۴ م²</text>
+<text x="800" y="726" class="small" direction="rtl">سهم مجموع حیاط‌ها از زمین: ۲۵٫۲۷٪ (محاسبه از داده‌های مقاله)</text>
+
+<!-- COMPARISON -->
+<rect x="35" y="835" width="1350" height="125" rx="8" class="panel"/>
+<text x="710" y="875" text-anchor="middle" class="head" direction="rtl">خوانش مقایسه‌ای</text>
+<text x="710" y="910" text-anchor="middle" class="body" direction="rtl">در این دو نمونه، حیاط اصلی خانهٔ لاری‌ها بزرگ‌تر است؛ اما نسبت مجموع فضاهای حیاطی به زمین در خانهٔ گلشن بیشتر گزارش شده است.</text>
+<text x="710" y="938" text-anchor="middle" class="small" direction="rtl">این دو کیس به‌تنهایی یک قاعدهٔ عمومی برای تمام خانه‌های سنتی یزد یا ایران اثبات نمی‌کنند.</text>
+
+<rect x="35" y="980" width="1350" height="48" rx="6" class="warning"/>
+<text x="710" y="1009" text-anchor="middle" class="tiny" direction="rtl">محدودیت: نقشه‌های پلان در Figure 2 و Figure 3 مقاله برای ترسیم دقیقِ مرز، تناسب و جایگاه هر حیاط نیازمند نسخهٔ اصلیِ با وضوح بالاست؛ در این شیت هیچ هندسهٔ پلان حدس زده نشده است.</text>
+<text x="710" y="1044" text-anchor="middle" class="tiny">Rahaei, Omidi &amp; Shirdel (2025), Journal of Iranian Architecture &amp; Urbanism, 16(1), 37–50. DOI: 10.30475/isau.2025.441169.2126 · CC BY 4.0</text>
+</svg>
