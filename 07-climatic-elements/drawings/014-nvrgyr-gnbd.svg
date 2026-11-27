@@ -1,11 +1,53 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<svg xmlns="http://www.w3.org/2000/svg" width="640" height="430" viewBox="0 0 640 430" role="img" aria-labelledby="ttl dsc">
-<title id="ttl">نورگیر گنبد — ترسیم شماتیک</title>
-<desc id="dsc">دیاگرام آموزشی نورگیر گنبد در معماری سنتی ایران. این ترسیم شماتیک عمومی است، مقیاس ندارد و به بنای تاریخی مشخصی منتسب نیست.</desc>
-<defs><pattern id="hatch" width="8" height="8" patternUnits="userSpaceOnUse"><path d="M0 8 L8 0" stroke="#9ca3af" stroke-width=".8"/></pattern></defs><rect width="640" height="430" fill="#fff"/>
-<text x="320" y="34" text-anchor="middle" direction="rtl" font-family="Vazirmatn, Noto Sans Arabic, sans-serif" font-size="21" font-weight="600" fill="#20252b">نورگیر گنبد</text>
-<line x1="44" y1="48" x2="596" y2="48" stroke="#d1d5db"/>
-<rect x="115" y="230" width="410" height="115" rx="0" fill="#e7e5df" stroke="#252525" stroke-width="1.5"/><path d="M115 230 L320 95 L525 230" fill="none" stroke="#252525" stroke-width="3" stroke-linejoin="round" stroke-linecap="round" /><rect x="280" y="92" width="80" height="12" rx="0" fill="#d9e7ee" stroke="#252525" stroke-width="1.5"/><line x1="295" y1="35" x2="295" y2="85" stroke="#c58c35" stroke-width="1.7" /><line x1="307" y1="35" x2="307" y2="85" stroke="#c58c35" stroke-width="1.7" /><line x1="319" y1="35" x2="319" y2="85" stroke="#c58c35" stroke-width="1.7" /><line x1="331" y1="35" x2="331" y2="85" stroke="#c58c35" stroke-width="1.7" /><line x1="343" y1="35" x2="343" y2="85" stroke="#c58c35" stroke-width="1.7" />
-<line x1="44" y1="390" x2="596" y2="390" stroke="#d1d5db"/>
-<text x="320" y="414" text-anchor="middle" direction="rtl" font-family="Vazirmatn, Noto Sans Arabic, sans-serif" font-size="12" fill="#64748b">شماتیک آموزشی • فاقد مقیاس • گونهٔ عمومی</text>
+<svg xmlns="http://www.w3.org/2000/svg" width="1320" height="930" viewBox="0 0 1320 930" role="img" aria-labelledby="t d">
+<title id="t">نورگیر هشت‌ضلعی در رأس گنبد؛ خانهٔ گلشن یزد، فضای ۲٫۹</title>
+<desc id="d">بازترسیم تحلیلی از یک نورگیر هشت‌ضلعی که در رأس گنبد فضای ۲٫۹ خانهٔ گلشن گزارش شده است. پلان نورگیر فقط هشت‌ضلعی بودن را نشان می‌دهد؛ نسبت اضلاع، اندازهٔ دهانه، ضخامت قاب و جزئیات سازه‌ای در منبع اندازه‌گذاری نشده‌اند. مقطع فقط جایگاه نورگیر در رأس گنبد و ارتفاع کلی فضای زیر گنبد تا رأس ۶٫۲ متر را نشان می‌دهد؛ منحنی گنبد شماتیک و غیراندازه‌دار است.</desc>
+<defs>
+ <style>
+ .bg{fill:#f8f7f3}.panel{fill:#fff;stroke:#c9c4ba;stroke-width:2}.title{font-family:Vazirmatn,'Noto Sans Arabic',sans-serif;font-size:28px;font-weight:700;fill:#20282d}.subtitle{font-family:Vazirmatn,'Noto Sans Arabic',sans-serif;font-size:16px;fill:#4d5960}.head{font-family:Vazirmatn,'Noto Sans Arabic',sans-serif;font-size:22px;font-weight:700;fill:#29363c}.body{font-family:Vazirmatn,'Noto Sans Arabic',sans-serif;font-size:17px;fill:#30383c}.small{font-family:Vazirmatn,'Noto Sans Arabic',sans-serif;font-size:14px;fill:#5d686e}.tiny{font-family:Vazirmatn,'Noto Sans Arabic',sans-serif;font-size:12px;fill:#727b80}.wall{fill:#e7e1d7;stroke:#30383c;stroke-width:3}.opening{fill:#eaf2f5;stroke:#275d78;stroke-width:3}.dash{fill:none;stroke:#7a7166;stroke-width:3;stroke-dasharray:9 7}.dim{fill:none;stroke:#35424a;stroke-width:1.6}.warning{fill:#f7f0e4;stroke:#d6c7ae;stroke-width:1.4}
+ </style>
+ <marker id="arr" markerWidth="8" markerHeight="8" refX="6" refY="3" orient="auto"><path d="M0 0L6 3L0 6" fill="#275d78"/></marker>
+</defs>
+<rect width="1320" height="930" class="bg"/>
+<rect x="28" y="24" width="1264" height="95" rx="10" fill="#293940"/>
+<text x="660" y="65" text-anchor="middle" class="title" style="fill:#fff" direction="rtl">نورگیر گنبد — نمونهٔ خانهٔ گلشن، یزد</text>
+<text x="660" y="95" text-anchor="middle" class="subtitle" style="fill:#e2e8eb" direction="rtl">فضای ۲٫۹؛ نورگیر هشت‌ضلعی در رأس گنبد، گزارش‌شده در شکل ۱۵ مقالهٔ ۲۰۲۴</text>
+
+<rect x="35" y="150" width="575" height="560" rx="9" class="panel"/>
+<text x="322" y="192" text-anchor="middle" class="head" direction="rtl">۱ ـ خوانش هندسی نورگیر در پلان</text>
+<text x="322" y="220" text-anchor="middle" class="small" direction="rtl">هشت‌ضلعی بودن مستند است؛ ابعاد و تناسبات دهانه مشخص نشده‌اند.</text>
+<!-- conceptual octagon, explicitly non dimensional -->
+<polygon points="322,288 405,325 438,408 405,491 322,528 239,491 206,408 239,325" class="opening"/>
+<circle cx="322" cy="408" r="4" fill="#275d78"/>
+<text x="322" y="570" text-anchor="middle" class="body" direction="rtl">دهانهٔ نورگیر هشت‌ضلعی</text>
+<text x="322" y="600" text-anchor="middle" class="small" direction="rtl">خطوط فقط تعداد اضلاع را توضیح می‌دهند؛</text>
+<text x="322" y="624" text-anchor="middle" class="small" direction="rtl">مقیاس، تقارن و اندازهٔ واقعی را بازنمایی نمی‌کنند.</text>
+<rect x="75" y="652" width="495" height="36" rx="5" fill="#eef3f5" stroke="#c3d0d5"/>
+<text x="322" y="676" text-anchor="middle" class="tiny" direction="rtl">منبع: Zolfagharkhani &amp; Foruzanmehr (2024)، Figure 15</text>
+
+<rect x="635" y="150" width="650" height="560" rx="9" class="panel"/>
+<text x="960" y="192" text-anchor="middle" class="head" direction="rtl">۲ ـ جایگاه نورگیر در رأس گنبد</text>
+<text x="960" y="220" text-anchor="middle" class="small" direction="rtl">پروفیل گنبد در منبع متنی اندازه‌گذاری نشده؛ خط‌چین، فقط نمایش مفهومیِ محل رأس است.</text>
+<!-- room section -->
+<line x1="735" y1="600" x2="1190" y2="600" stroke="#30383c" stroke-width="4"/>
+<rect x="735" y="600" width="32" height="45" class="wall"/>
+<rect x="1158" y="600" width="32" height="45" class="wall"/>
+<!-- dashed conceptual dome -->
+<path d="M767 600 Q800 455 960 360 Q1120 455 1158 600" class="dash"/>
+<path d="M900 396L960 360L1020 396" class="dash"/>
+<rect x="938" y="346" width="44" height="28" rx="2" class="opening"/>
+<path d="M960 335V280" stroke="#275d78" stroke-width="2.5" marker-end="url(#arr)"/>
+<text x="1035" y="294" class="small" direction="rtl">عبور نور از رأس</text>
+<text x="960" y="565" text-anchor="middle" class="body" direction="rtl">فضای اصلی ۲٫۹</text>
+<!-- vertical dimension -->
+<path d="M1210 360H1230 M1210 600H1230 M1220 360V600" class="dim"/>
+<text x="1243" y="476" class="small" transform="rotate(90 1243 476)">۶٫۲ متر تا رأس</text>
+<text x="960" y="658" text-anchor="middle" class="tiny" direction="rtl">ارتفاع گزارش‌شده از کف فضا تا رأس گنبد: ۶٫۲ متر</text>
+<text x="960" y="682" text-anchor="middle" class="tiny" direction="rtl">شکل منحنیِ گنبد برای توضیح جایگاه است و پروفیل تاریخی را بازسازی نمی‌کند.</text>
+
+<rect x="35" y="735" width="1250" height="125" rx="8" class="warning"/>
+<text x="660" y="775" text-anchor="middle" class="head" direction="rtl">حدود اعتبار ترسیم</text>
+<text x="660" y="811" text-anchor="middle" class="body" direction="rtl">منبع: شکل ۱۵ خانهٔ گلشن، فضای ۲٫۹؛ نورگیر در رأس گنبد هشت‌ضلعی گزارش شده است. اندازهٔ دهانه، شکل دقیق اضلاع، قاب و جزئیات اتصال منتشر نشده‌اند.</text>
+<text x="660" y="840" text-anchor="middle" class="small" direction="rtl">برای ترسیم اجرایی باید تصویر پر وضوح یا برداشت میدانی دهانه در دسترس باشد؛ از این شیت برای ابعادسازی استفاده نشود.</text>
+<text x="660" y="892" text-anchor="middle" class="tiny">Zolfagharkhani &amp; Foruzanmehr (2024), Buildings 14(9), 2639, Figure 15, DOI: 10.3390/buildings14092639 · CC BY 4.0</text>
 </svg>

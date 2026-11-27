@@ -16,7 +16,7 @@
 |---|---|
 | [![روزن](./011-rvzn.svg)](./011-rvzn.svg)<br/><sub>روزن</sub> | [![هورنو](./012-hvrnv.svg)](./012-hvrnv.svg)<br/><sub>هورنو</sub> |
 |---|---|
-| [![نورگیر سقفی](./013-nvrgyr-sqfy.svg)](./013-nvrgyr-sqfy.svg)<br/><sub>نورگیر سقفی</sub> | [![نورگیر گنبد](./014-nvrgyr-gnbd.svg)](./014-nvrgyr-gnbd.svg)<br/><sub>نورگیر گنبد</sub> |
+| [![نورگیر سقفی](./013-nvrgyr-sqfy.svg)](./013-nvrgyr-sqfy.svg)<br/><sub>نورگیر سقفی</sub> | [![نورگیر گنبد؛ نمونهٔ هشت‌ضلعی خانهٔ گلشن](./014-nvrgyr-gnbd.svg)](./014-nvrgyr-gnbd.svg)<br/><sub>نورگیر گنبد؛ نمونهٔ هشت‌ضلعی خانهٔ گلشن</sub> |
 |---|---|
 | [![جامخانه](./015-jamkhanh.svg)](./015-jamkhanh.svg)<br/><sub>جامخانه</sub> | [![شباک](./016-shbak.svg)](./016-shbak.svg)<br/><sub>شباک</sub> |
 |---|---|
