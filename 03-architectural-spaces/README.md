@@ -33,6 +33,7 @@
 - حیاط خلوت — [پیش‌نمایش SVG](drawings/022-hyat-khlvt.svg)
 - گودال‌باغچه — [پیش‌نمایش SVG](drawings/023-gvdal-baghchh.svg)
 - ایوان — [پیش‌نمایش SVG](drawings/024-ayvan.svg)
+  - [گونهٔ تخت‌پوش دو ستون‌دار؛ نمونهٔ خانهٔ منطق‌نژاد شیراز](drawings/024-ayvan-shiraz-flat-roof-case.svg)
 - ایوانچه — [پیش‌نمایش SVG](drawings/025-ayvanchh.svg)
 - رواق — [پیش‌نمایش SVG](drawings/026-rvaq.svg)
 - صفه — [پیش‌نمایش SVG](drawings/027-sfh.svg)
