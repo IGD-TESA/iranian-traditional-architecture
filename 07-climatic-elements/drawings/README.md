@@ -22,7 +22,7 @@
 |---|---|
 | [![ارسی](./017-arsy.svg)](./017-arsy.svg)<br/><sub>ارسی</sub> | [![سایه‌بان](./018-sayh-ban.svg)](./018-sayh-ban.svg)<br/><sub>سایه‌بان</sub> |
 |---|---|
-| [![رواق](./019-rvaq.svg)](./019-rvaq.svg)<br/><sub>رواق</sub> | [![ایوان](./020-ayvan.svg)](./020-ayvan.svg)<br/><sub>ایوان</sub> |
+| [![رواق](./019-rvaq.svg)](./019-rvaq.svg)<br/><sub>رواق</sub> | [![ایوان تابستانی؛ کیس خانهٔ لاری‌ها](./020-ayvan.svg)](./020-ayvan.svg)<br/><sub>ایوان تابستانی؛ کیس خانهٔ لاری‌ها</sub> |
 |---|---|
 | [![پیش‌آمدگی بام](./021-pysh-amdgy-bam.svg)](./021-pysh-amdgy-bam.svg)<br/><sub>پیش‌آمدگی بام</sub> | [![شبکهٔ کنترل نور](./022-shbkh-kntrl-nvr.svg)](./022-shbkh-kntrl-nvr.svg)<br/><sub>شبکهٔ کنترل نور</sub> |
 |---|---|
