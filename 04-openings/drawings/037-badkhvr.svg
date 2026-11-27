@@ -1,11 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<svg xmlns="http://www.w3.org/2000/svg" width="640" height="430" viewBox="0 0 640 430" role="img" aria-labelledby="ttl dsc">
-<title id="ttl">بادخور — ترسیم شماتیک</title>
-<desc id="dsc">دیاگرام آموزشی بادخور در معماری سنتی ایران. این ترسیم شماتیک عمومی است، مقیاس ندارد و به بنای تاریخی مشخصی منتسب نیست.</desc>
-<defs><pattern id="hatch" width="8" height="8" patternUnits="userSpaceOnUse"><path d="M0 8 L8 0" stroke="#9ca3af" stroke-width=".8"/></pattern></defs><rect width="640" height="430" fill="#fff"/>
-<text x="320" y="34" text-anchor="middle" direction="rtl" font-family="Vazirmatn, Noto Sans Arabic, sans-serif" font-size="21" font-weight="600" fill="#20252b">بادخور</text>
-<line x1="44" y1="48" x2="596" y2="48" stroke="#d1d5db"/>
-<line x1="80" y1="355" x2="560" y2="355" stroke="#252525" stroke-width="2" /><rect x="140" y="80" width="360" height="275" rx="0" fill="#fff" stroke="#252525" stroke-width="2"/><rect x="230" y="105" width="180" height="250" rx="0" fill="#e7e5df" stroke="#252525" stroke-width="1.3"/><rect x="240" y="125" width="160" height="90" rx="0" fill="none" stroke="#252525" stroke-width="1"/><rect x="240" y="230" width="160" height="105" rx="0" fill="none" stroke="#252525" stroke-width="1"/>
-<line x1="44" y1="390" x2="596" y2="390" stroke="#d1d5db"/>
-<text x="320" y="414" text-anchor="middle" direction="rtl" font-family="Vazirmatn, Noto Sans Arabic, sans-serif" font-size="12" fill="#64748b">شماتیک آموزشی • فاقد مقیاس • گونهٔ عمومی</text>
-</svg>
+<svg xmlns="http://www.w3.org/2000/svg" width="640" height="430" viewBox="0 0 640 430" role="img" aria-labelledby="title desc">
+<title id="title">بادخور — ترسیم شماتیک بازبینی‌شده</title><desc id="desc">بازشوی هدایت هوا در دیوار یا بدنه؛ دیاگرام مسیر ورود هوا از مجرا به فضای داخلی را نشان می‌دهد.</desc><rect width="640" height="430" fill="#fff"/>
+<text x="320" y="34" text-anchor="middle" direction="rtl" font-family="Vazirmatn, Noto Sans Arabic, sans-serif" font-size="21" font-weight="600" fill="#20252b">بادخور</text><line x1="44" y1="48" x2="596" y2="48" stroke="#d1d5db"/>
+<rect x="355" y="90" width="125" height="270" fill="#e7e5df" stroke="#252525" stroke-width="2"/><rect x="355" y="190" width="125" height="55" fill="#c8e1ed" stroke="#252525" stroke-width="2"/><path d="M100 218 H335 M320 205 L335 218 L320 231" fill="none" stroke="#285b78" stroke-width="3"/><path d="M480 218 H535" stroke="#285b78" stroke-width="3"/><path d="M120 190 H310" stroke="#285b78" stroke-width="1.5" stroke-dasharray="5 5"/><line x1="44" y1="390" x2="596" y2="390" stroke="#d1d5db"/><text x="320" y="414" text-anchor="middle" direction="rtl" font-family="Vazirmatn, Noto Sans Arabic, sans-serif" font-size="12" fill="#64748b">شماتیک آموزشی • فاقد مقیاس • گونهٔ عمومی</text></svg>
