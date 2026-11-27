@@ -15,7 +15,7 @@
 - نیم‌دایره — [پیش‌نمایش SVG](drawings/005-nym-dayrh.svg)
 - بیضی — [پیش‌نمایش SVG](drawings/006-byzy.svg)
 - مثلث و چندضلعی — [پیش‌نمایش SVG](drawings/007-msls-v-chndzlay.svg)
-- هشت‌ضلعی — [پیش‌نمایش SVG](drawings/008-hsht-zlay.svg)
+- هشت‌ضلعی — [نمونهٔ مستند پلان هشت‌ضلعی برج شرقی خرقان](drawings/008-hsht-zlay.svg)؛ [پروندهٔ فتوگرامتری و منبع Figure 8](../cases/برج-شرقی-خرقان-مستندسازی-فتوگرامتری.md). این پلان فقط به برج شرقی خرقان منتسب است.
 - چندضلعی منتظم و نامنتظم — [پیش‌نمایش SVG](drawings/009-chndzlay-mntzm-v-namntzm.svg)
 ### ب) ترکیب‌بندی و تقسیمات
 - ترکیب مربع و مستطیل — [پیش‌نمایش SVG](drawings/010-trkyb-mrba-v-msttyl.svg)
