@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" width="900" height="620" viewBox="0 0 900 620" role="img" aria-labelledby="t d">
+<title id="t">اتاق ۱۲ خانهٔ سیستانی، ارگ بم — محدودهٔ ابعادی پلان</title>
+<desc id="d">مستطیل پلان پایه با طول ۳٫۷۵ متر و عرض ۳٫۰۷ متر. فقط ابعاد گزارش‌شده نمایش داده شده است؛ ضخامت دیوار و شکل سطح طاق ترسیم نشده‌اند.</desc>
+<defs><style>
+.h{font-family:Vazirmatn,Noto Sans Arabic,sans-serif;font-size:25px;font-weight:700;fill:#292722}
+.s{font-family:Vazirmatn,Noto Sans Arabic,sans-serif;font-size:16px;fill:#5c574e}
+.d{font-family:Vazirmatn,Noto Sans Arabic,sans-serif;font-size:18px;fill:#775a39}
+.w{fill:#eee7da;stroke:#292722;stroke-width:4}
+.dim{stroke:#8d7251;stroke-width:2;fill:none}
+</style></defs>
+<rect width="900" height="620" fill="#fff"/>
+<text x="450" y="43" text-anchor="middle" class="h">خانهٔ سیستانی، ارگ بم — اتاق ۱۲</text>
+<text x="450" y="76" text-anchor="middle" class="s">محدودهٔ مستطیل پلان پایه برای طاق گوشه‌خیز (voûte à trompe d’angle)</text>
+<rect x="250" y="145" width="375" height="307" class="w"/>
+<line x1="250" y1="120" x2="625" y2="120" class="dim"/>
+<line x1="250" y1="109" x2="250" y2="132" class="dim"/>
+<line x1="625" y1="109" x2="625" y2="132" class="dim"/>
+<text x="437.5" y="110" text-anchor="middle" class="d">۳٫۷۵ متر — طول</text>
+<line x1="662" y1="145" x2="662" y2="452" class="dim"/>
+<line x1="651" y1="145" x2="674" y2="145" class="dim"/>
+<line x1="651" y1="452" x2="674" y2="452" class="dim"/>
+<text x="692" y="298" transform="rotate(90 692 298)" text-anchor="middle" class="d">۳٫۰۷ متر — عرض</text>
+<text x="437" y="285" text-anchor="middle" class="s">پلان پایهٔ مستطیل</text>
+<text x="450" y="500" text-anchor="middle" class="s">گزارش: هر چهار دیوار نقش تکیه‌گاه پوشش را دارند.</text>
+<text x="450" y="530" text-anchor="middle" class="s">این ترسیم فقط محدودهٔ ابعادی را نشان می‌دهد؛ ضخامت دیوار و هندسهٔ طاق در آن بازسازی نشده است.</text>
+<text x="450" y="575" text-anchor="middle" class="s">Wendland (2007), Sistani’s House, Room 12, pp. 48–51, DOI: 10.18419/OPUS-47</text>
+<a href="https://d-nb.info/1081642564/34#page=3"><text x="450" y="600" text-anchor="middle" class="s">مشاهدهٔ گزارش و مدل‌های CAD منبع</text></a>
+</svg>
