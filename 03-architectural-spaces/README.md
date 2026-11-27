@@ -27,7 +27,7 @@
 ## ب) فضاهای باز و نیمه‌باز
 
 - حیاط — [پیش‌نمایش SVG](drawings/018-hyat.svg)
-- حیاط مرکزی — [پیش‌نمایش SVG](drawings/019-hyat-mrkzy.svg)
+- حیاط مرکزی — [پیش‌نمایش SVG](drawings/019-hyat-mrkzy.svg)؛ [کیس مستند: خانهٔ نادب](../cases/خانه-نادب-یزد-اتاق-۲-۱.md)
 - حیاط اندرونی — [پیش‌نمایش SVG](drawings/020-hyat-andrvny.svg)
 - حیاط بیرونی — [پیش‌نمایش SVG](drawings/021-hyat-byrvny.svg)
 - حیاط خلوت — [پیش‌نمایش SVG](drawings/022-hyat-khlvt.svg)
@@ -45,7 +45,7 @@
 - فضای واسط میان اتاق و حیاط — [پیش‌نمایش SVG](drawings/033-fzay-vast-myan-ataq-v-hyat.svg)
 ## پ) فضاهای بستهٔ سکونتی و پذیرایی
 
-- اتاق — [پیش‌نمایش SVG](drawings/034-ataq.svg)
+- اتاق — [پیش‌نمایش SVG](drawings/034-ataq.svg)؛ کیس‌های مستند: [اتاق ۲٫۱ خانهٔ نادب](../cases/خانه-نادب-یزد-اتاق-۲-۱.md)، [فضای ۲٫۹ خانهٔ گلشن](../cases/خانه-گلشن-یزد-فضای-۲-۹.md)
 - سه‌دری — [پیش‌نمایش SVG](drawings/035-sh-dry.svg)
 - پنج‌دری — [پیش‌نمایش SVG](drawings/036-pnj-dry.svg)
 - دودری — [پیش‌نمایش SVG](drawings/037-dvdry.svg)

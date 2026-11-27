@@ -8,7 +8,7 @@
 ## فهرست اولیهٔ مدخل‌ها
 
 ### الف) الگوهای مبتنی بر حیاط و فضای باز مرکزی
-- حیاط مرکزی — [پیش‌نمایش SVG](drawings/001-hyat-mrkzy.svg)
+- حیاط مرکزی — [پیش‌نمایش SVG](drawings/001-hyat-mrkzy.svg)؛ [کیس مستند: خانهٔ نادب، شکل ۱۰](../cases/خانه-نادب-یزد-اتاق-۲-۱.md)
 - خانهٔ درون‌گرا — [پیش‌نمایش SVG](drawings/002-khanh-drvn-gra.svg)
 - سازمان‌دهی پیرامون حیاط — [پیش‌نمایش SVG](drawings/003-sazman-dhy-pyramvn-hyat.svg)
 - حیاط اندرونی و بیرونی — [پیش‌نمایش SVG](drawings/004-hyat-andrvny-v-byrvny.svg)
