@@ -1,69 +1,13 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<svg xmlns="http://www.w3.org/2000/svg" width="1250" height="820" viewBox="0 0 1250 820" role="img" aria-labelledby="title desc">
-<title id="title">آب‌انبار سنتی ایران؛ دو گونهٔ کالبدی اصلی</title>
-<desc id="desc">ترسیم تطبیقی آب‌انبار زیرزمینی استوانه‌ای با پوشش گنبدی و آب‌انبار مستطیلی با پوشش متکی بر پایه‌ها و قوس‌ها. جزئیات راه‌پله، پاشیر و شیر برداشت نیز به‌صورت تحلیلی نمایش داده شده است. ابعاد و جزئیات اجرایی از یک بنای معین برداشت نشده‌اند.</desc>
-<defs><style>
- .earth{fill:#e8dfcf;stroke:#806f56;stroke-width:2}
- .brick{fill:#d8b994;stroke:#59432c;stroke-width:3}
- .void{fill:#fbfaf7;stroke:#59432c;stroke-width:3}
- .water{fill:#c4e0e2;stroke:#548b92;stroke-width:2}
- .detail{fill:none;stroke:#59432c;stroke-width:3}
- .fine{fill:none;stroke:#59432c;stroke-width:1.5}
- .label{font-family:Vazirmatn,'Noto Naskh Arabic',sans-serif;fill:#282824;font-size:18px}
- .small{font-family:Vazirmatn,'Noto Naskh Arabic',sans-serif;fill:#5b574e;font-size:14px}
- .head{font-family:Vazirmatn,'Noto Naskh Arabic',sans-serif;fill:#282824;font-size:23px;font-weight:700}
- .panel{fill:#fbfaf7;stroke:#cfc8bc;stroke-width:1.5}
-</style></defs>
-<rect width="1250" height="820" fill="#fff"/>
-<text x="625" y="42" text-anchor="middle" class="head" font-size="28">آب‌انبار؛ دو گونهٔ کالبدی مستند در ایران</text>
-<text x="625" y="72" text-anchor="middle" class="small">گونهٔ استوانه‌ای با گنبد و گونهٔ چهارگوش با پایه‌ها و پوشش قوسی؛ تفاوت‌های منطقه‌ای باید حفظ شوند.</text>
-<rect x="30" y="105" width="580" height="615" rx="8" class="panel"/>
-<rect x="630" y="105" width="590" height="615" rx="8" class="panel"/>
-<text x="320" y="145" text-anchor="middle" class="head">۱. مخزن استوانه‌ای با گنبد</text>
-<text x="925" y="145" text-anchor="middle" class="head">۲. مخزن چهارگوش با پایه و قوس</text>
-<!-- cylindrical section -->
-<path d="M65 290 Q320 235 575 290 L575 650 L65 650 Z" class="earth"/>
-<path d="M170 410 Q170 295 320 245 Q470 295 470 410 L470 605 Q320 650 170 605 Z" class="brick"/>
-<path d="M195 410 Q195 320 320 280 Q445 320 445 410 L445 585 Q320 620 195 585 Z" class="void"/>
-<path d="M195 490 Q320 465 445 490 L445 585 Q320 620 195 585 Z" class="water"/>
-<path d="M195 410 Q320 450 445 410" class="fine"/>
-<!-- entrance stairway -->
-<path d="M82 310 L82 355 L105 355 L105 375 L128 375 L128 395 L150 395 L150 415 L174 415" fill="none" stroke="#59432c" stroke-width="9" stroke-linejoin="round"/>
-<path d="M82 310 L82 355 L105 355 L105 375 L128 375 L128 395 L150 395 L150 415 L174 415" fill="none" stroke="#f6eee1" stroke-width="3"/>
-<text x="110" y="280" class="small">ورودی و راه‌پلهٔ نزولی</text>
-<!-- pashir tap -->
-<rect x="172" y="520" width="24" height="58" fill="#bb9b6a" stroke="#59432c" stroke-width="2"/>
-<path d="M174 544 H147 V555 H165" class="detail"/>
-<path d="M147 555 q-8 12 0 18" stroke="#548b92" stroke-width="3" fill="none"/>
-<text x="82" y="575" class="small">پاشیر</text>
-<text x="82" y="596" class="small">شیر برداشت</text>
-<text x="320" y="525" text-anchor="middle" class="label">مخزن زیرزمینی</text>
-<text x="320" y="555" text-anchor="middle" class="small">سطح ذخیرهٔ آب</text>
-<text x="320" y="670" text-anchor="middle" class="small">پلان شماتیکِ مخزن استوانه‌ای: دایرهٔ مرکزی و دیوارهٔ پیرامونی</text>
-
-<!-- rectangular type section -->
-<path d="M665 290 Q925 240 1185 290 L1185 650 L665 650 Z" class="earth"/>
-<rect x="745" y="380" width="390" height="225" class="brick"/>
-<rect x="770" y="405" width="340" height="175" class="water"/>
-<!-- columns/piers -->
-<rect x="825" y="405" width="24" height="175" fill="#b38e5c" stroke="#59432c" stroke-width="2"/>
-<rect x="930" y="405" width="24" height="175" fill="#b38e5c" stroke="#59432c" stroke-width="2"/>
-<rect x="1035" y="405" width="24" height="175" fill="#b38e5c" stroke="#59432c" stroke-width="2"/>
-<!-- arches above the supports -->
-<path d="M770 405 Q837 330 930 405 Q982 330 1060 405 Q1090 390 1110 405" fill="none" stroke="#59432c" stroke-width="15"/>
-<path d="M770 405 Q837 330 930 405 Q982 330 1060 405 Q1090 390 1110 405" fill="none" stroke="#ead6b8" stroke-width="7"/>
-<text x="925" y="475" text-anchor="middle" class="label">مخزن چهارگوش</text>
-<text x="925" y="505" text-anchor="middle" class="small">پایه‌ها / جرزها و ردیف قوس‌ها</text>
-<text x="925" y="675" text-anchor="middle" class="small">در برخی نمونه‌ها پوشش افقی یا مرکب بر پایه‌ها قرار می‌گیرد.</text>
-<!-- plan inset -->
-<rect x="690" y="170" width="205" height="150" rx="5" fill="#fff" stroke="#bdb4a5" stroke-width="1.5"/>
-<rect x="715" y="193" width="155" height="105" fill="#d8b994" stroke="#59432c" stroke-width="3"/>
-<g fill="#59432c"><rect x="735" y="210" width="12" height="12"/><rect x="780" y="210" width="12" height="12"/><rect x="825" y="210" width="12" height="12"/><rect x="735" y="255" width="12" height="12"/><rect x="780" y="255" width="12" height="12"/><rect x="825" y="255" width="12" height="12"/></g>
-<text x="792" y="185" text-anchor="middle" class="small">پلان: مخزن چهارگوش و پایه‌ها</text>
-<!-- variant dome outline -->
-<path d="M950 300 Q1030 190 1110 300" fill="none" stroke="#a77d4b" stroke-width="3" stroke-dasharray="6 4"/>
-<text x="1030" y="275" text-anchor="middle" class="small">پوشش گنبدی یا قوسی</text>
-<text x="1030" y="298" text-anchor="middle" class="small">بسته به گونه</text>
-
-<text x="625" y="770" text-anchor="middle" class="small">سطح اعتبار: T1 | منابع: Encyclopaedia Iranica, “ĀB-ANBĀR i. History”; Yousefi &amp; Nocera, Heritage 4(4), 219 (2021), sections 3.2.1–3.2.3. ترسیم‌ها غیرمقیاس‌اند و جزئیات هر بنا باید جداگانه برداشت شوند.</text>
-</svg>
+<svg xmlns="http://www.w3.org/2000/svg" width="900" height="560" viewBox="0 0 900 560" role="img" aria-labelledby="title desc">
+<title id="title">آب‌انبار — فاقد ترسیم معتبر</title>
+<desc id="desc">هیچ فرم معماری در این صفحه نمایش داده نشده است؛ تا زمان دستیابی به سند معتبر یک کیس مشخص، ترسیم انجام نمی‌شود.</desc>
+<rect width="900" height="560" fill="#fff"/><rect x="24" y="24" width="852" height="512" rx="6" fill="#faf9f6" stroke="#948a7d" stroke-width="2"/>
+<rect x="24" y="24" width="852" height="78" fill="#403b35"/><text x="450" y="74" text-anchor="middle" font-family="Vazirmatn,Noto Sans Arabic,sans-serif" font-size="30" fill="#fff">آب‌انبار</text>
+<text x="450" y="184" text-anchor="middle" font-family="Vazirmatn,Noto Sans Arabic,sans-serif" font-size="25" font-weight="700" fill="#8b3f32">ترسیم معتبر موجود نیست</text>
+<text x="450" y="230" text-anchor="middle" font-family="Vazirmatn,Noto Sans Arabic,sans-serif" font-size="19" fill="#292722">وضعیت: نیازمند کیس واقعی و سند قابل ارجاع</text>
+<line x1="100" y1="272" x2="800" y2="272" stroke="#c9c2b8" stroke-width="2"/>
+<text x="450" y="325" text-anchor="middle" font-family="Vazirmatn,Noto Sans Arabic,sans-serif" font-size="17" fill="#4a453e">نیازمند پلان و مقطع یک آب‌انبار مشخص، شامل مخزن، پوشش، ورودی و محل برداشت آب.</text>
+<text x="450" y="380" text-anchor="middle" font-family="Vazirmatn,Noto Sans Arabic,sans-serif" font-size="16" fill="#4a453e">ابعاد، هندسه، نما، مقطع یا جزئیات از روی حدس ساخته نمی‌شوند.</text>
+<text x="450" y="435" text-anchor="middle" font-family="Vazirmatn,Noto Sans Arabic,sans-serif" font-size="14" fill="#6a6258">نسخهٔ پیشین در تاریخچهٔ Git باقی است، اما مرجع معتبر اطلس نیست.</text>
+<text x="450" y="488" text-anchor="middle" font-family="Vazirmatn,Noto Sans Arabic,sans-serif" font-size="13" fill="#8a8277">DOCUMENTATION REQUIRED — NO ASSUMPTIONS</text></svg>

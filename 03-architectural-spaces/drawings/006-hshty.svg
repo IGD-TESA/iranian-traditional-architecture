@@ -1,59 +1,13 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<svg xmlns="http://www.w3.org/2000/svg" width="1100" height="760" viewBox="0 0 1100 760" role="img" aria-labelledby="title desc">
-<title id="title">هشتی خانهٔ سنتی ایران؛ گونهٔ هشت‌گوش</title>
-<desc id="desc">بازسازی تحلیلی هشتی با پلان هشت‌ضلعی، دو دهانهٔ ورود و خروج در دو جبهه و سکوهای نشستن کم‌ارتفاع. ایرانیکا هشتی خانه‌های خصوصی را غالباً فضای انتقالی کوچک هشت‌ضلعی یا بخشی از هشت‌ضلعی توصیف می‌کند؛ این تصویر یک گونهٔ عمومی غیرمقیاس‌دار است.</desc>
-<defs><style>
- .wall{fill:#eee9df;stroke:#282824;stroke-width:7;stroke-linejoin:round}
- .thin{fill:none;stroke:#282824;stroke-width:2}
- .label{font-family:Vazirmatn,'Noto Naskh Arabic',sans-serif;fill:#282824;font-size:18px}
- .small{font-family:Vazirmatn,'Noto Naskh Arabic',sans-serif;fill:#5b574e;font-size:14px}
- .head{font-family:Vazirmatn,'Noto Naskh Arabic',sans-serif;fill:#282824;font-size:23px;font-weight:700}
- .panel{fill:#fbfaf7;stroke:#cfc8bc;stroke-width:1.5}
-</style><marker id="a" markerWidth="8" markerHeight="8" refX="6" refY="3" orient="auto"><path d="M0 0 L6 3 L0 6" fill="none" stroke="#a66b34" stroke-width="1.4"/></marker></defs>
-<rect width="1100" height="760" fill="#fff"/>
-<text x="550" y="42" text-anchor="middle" class="head" font-size="28">هشتی خانهٔ سنتی ایران</text>
-<text x="550" y="71" text-anchor="middle" class="small">گونهٔ هشت‌گوش؛ بازسازی تحلیلی بر پایهٔ توصیف ایرانیکا، غیرمقیاس و نه برداشت یک بنای مشخص</text>
-<rect x="30" y="100" width="500" height="575" rx="8" class="panel"/>
-<rect x="550" y="100" width="520" height="575" rx="8" class="panel"/>
-<text x="280" y="140" text-anchor="middle" class="head">۱. پلان کالبدی</text>
-<text x="810" y="140" text-anchor="middle" class="head">۲. آکسونومتری باز</text>
-<!-- octagonal plan -->
-<polygon points="210,205 350,205 430,285 430,425 350,505 210,505 130,425 130,285" class="wall"/>
-<!-- openings -->
-<rect x="250" y="194" width="60" height="25" fill="#fbfaf7"/>
-<rect x="420" y="335" width="25" height="58" fill="#fbfaf7"/>
-<line x1="250" y1="205" x2="310" y2="205" stroke="#282824" stroke-width="2"/>
-<line x1="430" y1="335" x2="430" y2="393" stroke="#282824" stroke-width="2"/>
-<!-- benches -->
-<rect x="146" y="292" width="42" height="76" rx="3" fill="#cdbb9c" stroke="#6c5b42" stroke-width="2"/>
-<rect x="330" y="450" width="74" height="34" rx="3" fill="#cdbb9c" stroke="#6c5b42" stroke-width="2"/>
-<text x="165" y="330" text-anchor="middle" class="small">سکو</text>
-<text x="367" y="472" text-anchor="middle" class="small">سکو</text>
-<!-- door leaves -->
-<path d="M250 205 L250 250 M310 205 L310 250" class="thin"/>
-<path d="M430 335 L388 335 M430 393 L388 393" class="thin"/>
-<!-- movement path -->
-<path d="M280 165 L280 250 Q280 330 355 350 L390 364" fill="none" stroke="#a66b34" stroke-width="3" stroke-dasharray="7 5" marker-end="url(#a)"/>
-<text x="280" y="180" text-anchor="middle" class="small">ورودی از بیرون</text>
-<text x="460" y="368" class="small">خروج به فضای داخلی</text>
-<text x="280" y="375" text-anchor="middle" class="label">فضای مکث و تغییر جهت</text>
-<text x="280" y="402" text-anchor="middle" class="small">دهانه‌ها در نمونه‌ها جابه‌جایی‌های متفاوت دارند</text>
-<text x="280" y="550" text-anchor="middle" class="small">پلان هشت‌ضلعیِ نمونه؛ گونه‌های بخشی از هشت‌ضلعی نیز وجود دارند.</text>
-<text x="280" y="575" text-anchor="middle" class="small">سکوهای نشستن در بسیاری از هشتی‌ها گزارش شده‌اند.</text>
-<!-- axonometric walls -->
-<polygon points="690,280 820,280 890,350 890,480 820,550 690,550 620,480 620,350" fill="#e4dbca" stroke="#282824" stroke-width="3"/>
-<polygon points="690,280 820,280 890,350 890,480 820,550 690,550 620,480 620,350" fill="none" stroke="#282824" stroke-width="3"/>
-<path d="M690 280 L690 175 L820 175 L820 280 M820 280 L890 350 L890 455 M620 350 L620 455 L690 550 L820 550 L890 480" fill="none" stroke="#282824" stroke-width="6" opacity=".75"/>
-<path d="M690 175 L820 175 L890 245 L890 350" fill="none" stroke="#282824" stroke-width="3" stroke-dasharray="6 5"/>
-<!-- bench blocks -->
-<path d="M633 365 L675 365 L675 420 L633 420 Z" fill="#cdbb9c" stroke="#6c5b42" stroke-width="2"/>
-<path d="M820 500 L868 476 L868 505 L820 529 Z" fill="#cdbb9c" stroke="#6c5b42" stroke-width="2"/>
-<!-- door openings visual -->
-<path d="M745 280 L785 280" stroke="#fff" stroke-width="10"/>
-<path d="M890 390 L890 435" stroke="#fff" stroke-width="10"/>
-<path d="M745 280 L745 240 M785 280 L785 240" stroke="#282824" stroke-width="2"/>
-<path d="M890 390 L852 390 M890 435 L852 435" stroke="#282824" stroke-width="2"/>
-<text x="810" y="600" text-anchor="middle" class="label">دیوارهای محصورکننده و سکوهای جانبی</text>
-<text x="810" y="625" text-anchor="middle" class="small">سقف می‌تواند ساده یا دارای آرایهٔ مقرنس باشد؛ شکل سقف باید از نمونه برداشت شود.</text>
-<text x="550" y="715" text-anchor="middle" class="small">مبنای اصطلاح و کالبد: Encyclopaedia Iranica, “Doors and Door Frames”, بخش Door frames؛ هشتی در خانه‌های خصوصی معمولاً فضای انتقالی کوچک هشت‌ضلعی یا بخشی از آن است.</text>
-</svg>
+<svg xmlns="http://www.w3.org/2000/svg" width="900" height="560" viewBox="0 0 900 560" role="img" aria-labelledby="title desc">
+<title id="title">هشتی — فاقد ترسیم معتبر</title>
+<desc id="desc">هیچ فرم معماری در این صفحه نمایش داده نشده است؛ تا زمان دستیابی به سند معتبر یک کیس مشخص، ترسیم انجام نمی‌شود.</desc>
+<rect width="900" height="560" fill="#fff"/><rect x="24" y="24" width="852" height="512" rx="6" fill="#faf9f6" stroke="#948a7d" stroke-width="2"/>
+<rect x="24" y="24" width="852" height="78" fill="#403b35"/><text x="450" y="74" text-anchor="middle" font-family="Vazirmatn,Noto Sans Arabic,sans-serif" font-size="30" fill="#fff">هشتی</text>
+<text x="450" y="184" text-anchor="middle" font-family="Vazirmatn,Noto Sans Arabic,sans-serif" font-size="25" font-weight="700" fill="#8b3f32">ترسیم معتبر موجود نیست</text>
+<text x="450" y="230" text-anchor="middle" font-family="Vazirmatn,Noto Sans Arabic,sans-serif" font-size="19" fill="#292722">وضعیت: نیازمند کیس واقعی و سند قابل ارجاع</text>
+<line x1="100" y1="272" x2="800" y2="272" stroke="#c9c2b8" stroke-width="2"/>
+<text x="450" y="325" text-anchor="middle" font-family="Vazirmatn,Noto Sans Arabic,sans-serif" font-size="17" fill="#4a453e">نیازمند پلان/مقطع همان هشتی در یک بنای مشخص؛ شکل از روی سند تعیین می‌شود.</text>
+<text x="450" y="380" text-anchor="middle" font-family="Vazirmatn,Noto Sans Arabic,sans-serif" font-size="16" fill="#4a453e">ابعاد، هندسه، نما، مقطع یا جزئیات از روی حدس ساخته نمی‌شوند.</text>
+<text x="450" y="435" text-anchor="middle" font-family="Vazirmatn,Noto Sans Arabic,sans-serif" font-size="14" fill="#6a6258">نسخهٔ پیشین در تاریخچهٔ Git باقی است، اما مرجع معتبر اطلس نیست.</text>
+<text x="450" y="488" text-anchor="middle" font-family="Vazirmatn,Noto Sans Arabic,sans-serif" font-size="13" fill="#8a8277">DOCUMENTATION REQUIRED — NO ASSUMPTIONS</text></svg>

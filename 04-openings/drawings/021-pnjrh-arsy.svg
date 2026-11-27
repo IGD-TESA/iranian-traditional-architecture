@@ -1,84 +1,13 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="800" viewBox="0 0 1200 800" role="img" aria-labelledby="title desc">
-<title id="title">پنجرهٔ ارسی؛ نمونهٔ پنج‌قسمتی با لنگه‌های کشویی عمودی</title>
-<desc id="desc">بازسازی تحلیلی یک گونهٔ پنج‌قسمتی ارسی با شبکهٔ چوبی و شیشه‌های رنگی، شامل نمای روبه‌رو، مقطع راهنمای لغزش عمودی و آکسونومتری اجزا. این تصویر اندازه‌برداری‌شده نیست و جزئیات اتصالات باید با نمونهٔ بنا تطبیق داده شود.</desc>
-<defs><style>
- .wood{fill:#b18a58;stroke:#4a3522;stroke-width:4}
- .frame{fill:#d2b48c;stroke:#4a3522;stroke-width:5}
- .glass1{fill:#b9d7d2;stroke:#795b3c;stroke-width:1.5}
- .glass2{fill:#d9b9a2;stroke:#795b3c;stroke-width:1.5}
- .glass3{fill:#d9d0a4;stroke:#795b3c;stroke-width:1.5}
- .line{stroke:#513c27;stroke-width:3;fill:none}
- .thin{stroke:#513c27;stroke-width:1.5;fill:none}
- .label{font-family:Vazirmatn,'Noto Naskh Arabic',sans-serif;fill:#282824;font-size:18px}
- .small{font-family:Vazirmatn,'Noto Naskh Arabic',sans-serif;fill:#5b574e;font-size:14px}
- .head{font-family:Vazirmatn,'Noto Naskh Arabic',sans-serif;fill:#282824;font-size:23px;font-weight:700}
- .panel{fill:#fbfaf7;stroke:#cfc8bc;stroke-width:1.5}
-</style><marker id="up" markerWidth="8" markerHeight="8" refX="6" refY="3" orient="auto"><path d="M0 0 L6 3 L0 6" fill="none" stroke="#9d6230" stroke-width="1.5"/></marker></defs>
-<rect width="1200" height="800" fill="#fff"/>
-<text x="600" y="42" text-anchor="middle" class="head" font-size="28">ارسی؛ پنجرهٔ شبکه‌دار با بازشوی کشویی عمودی</text>
-<text x="600" y="71" text-anchor="middle" class="small">نمونهٔ تحلیلی پنج‌قسمتی؛ نه الگوی یگانهٔ تمام ارسی‌ها و نه نقشهٔ برداشت‌شده</text>
-<rect x="30" y="100" width="600" height="590" rx="8" class="panel"/>
-<rect x="650" y="100" width="520" height="260" rx="8" class="panel"/>
-<rect x="650" y="380" width="520" height="310" rx="8" class="panel"/>
-<text x="330" y="140" text-anchor="middle" class="head">۱. نمای روبه‌رو</text>
-<text x="910" y="140" text-anchor="middle" class="head">۲. مقطع قاب و ریل لغزش</text>
-<text x="910" y="420" text-anchor="middle" class="head">۳. تفکیک اجزای اصلی</text>
-<!-- elevation main frame -->
-<rect x="115" y="180" width="430" height="400" class="frame"/>
-<rect x="135" y="200" width="390" height="82" class="wood"/>
-<!-- fixed upper lattice -->
-<g class="thin">
- <path d="M135 200 L525 282 M135 282 L525 200 M174 200 V282 M213 200 V282 M252 200 V282 M291 200 V282 M330 200 V282 M369 200 V282 M408 200 V282 M447 200 V282 M486 200 V282"/>
- <path d="M135 220 H525 M135 242 H525 M135 262 H525"/>
-</g>
-<text x="330" y="171" text-anchor="middle" class="small">بخش فوقانی ثابتِ شبکه‌دار (در این گونه)</text>
-<!-- five sliding sashes -->
-<g>
- <rect x="135" y="292" width="74" height="268" fill="#d8c39e" stroke="#4a3522" stroke-width="3"/>
- <rect x="213" y="292" width="74" height="268" fill="#d8c39e" stroke="#4a3522" stroke-width="3"/>
- <rect x="291" y="292" width="74" height="268" fill="#d8c39e" stroke="#4a3522" stroke-width="3"/>
- <rect x="369" y="292" width="74" height="268" fill="#d8c39e" stroke="#4a3522" stroke-width="3"/>
- <rect x="447" y="292" width="78" height="268" fill="#d8c39e" stroke="#4a3522" stroke-width="3"/>
-</g>
-<!-- lattice of each sash -->
-<g class="thin">
- <path d="M135 292 L209 560 M209 292 L135 560 M172 292 V560 M135 358 H209 M135 425 H209 M135 492 H209"/>
- <path d="M213 292 L287 560 M287 292 L213 560 M250 292 V560 M213 358 H287 M213 425 H287 M213 492 H287"/>
- <path d="M291 292 L365 560 M365 292 L291 560 M328 292 V560 M291 358 H365 M291 425 H365 M291 492 H365"/>
- <path d="M369 292 L443 560 M443 292 L369 560 M406 292 V560 M369 358 H443 M369 425 H443 M369 492 H443"/>
- <path d="M447 292 L525 560 M525 292 L447 560 M486 292 V560 M447 358 H525 M447 425 H525 M447 492 H525"/>
-</g>
-<!-- coloured glass medallions -->
-<g>
- <circle cx="172" cy="392" r="10" class="glass1"/><circle cx="250" cy="392" r="10" class="glass2"/><circle cx="328" cy="392" r="10" class="glass3"/><circle cx="406" cy="392" r="10" class="glass1"/><circle cx="486" cy="392" r="10" class="glass2"/>
- <circle cx="172" cy="475" r="10" class="glass2"/><circle cx="250" cy="475" r="10" class="glass3"/><circle cx="328" cy="475" r="10" class="glass1"/><circle cx="406" cy="475" r="10" class="glass2"/><circle cx="486" cy="475" r="10" class="glass3"/>
-</g>
-<!-- sash indication: one raised -->
-<rect x="291" y="292" width="74" height="155" fill="none" stroke="#9d6230" stroke-width="3" stroke-dasharray="6 5"/>
-<path d="M328 445 V315" fill="none" stroke="#9d6230" stroke-width="3" marker-end="url(#up)"/>
-<text x="330" y="615" text-anchor="middle" class="small">لنگه‌ها در شیارهای قائم جابه‌جا می‌شوند؛ تعداد و تقسیمات تابع نمونه است.</text>
-<text x="330" y="642" text-anchor="middle" class="small">شبکهٔ چوبی و شیشه‌های رنگی در این بازسازی به‌صورت عمومی نمایش داده شده‌اند.</text>
-
-<!-- section detail -->
-<rect x="730" y="185" width="340" height="112" fill="#eee9df" stroke="#4a3522" stroke-width="4"/>
-<rect x="770" y="185" width="18" height="112" class="wood"/>
-<rect x="1000" y="185" width="18" height="112" class="wood"/>
-<rect x="810" y="194" width="14" height="90" fill="#d8c39e" stroke="#4a3522" stroke-width="2"/>
-<rect x="850" y="168" width="14" height="90" fill="#d8c39e" stroke="#9d6230" stroke-width="2"/>
-<path d="M827 206 H846 M827 247 H846" stroke="#9d6230" stroke-width="2" stroke-dasharray="4 3"/>
-<path d="M920 280 V210" stroke="#9d6230" stroke-width="3" marker-end="url(#up)"/>
-<text x="910" y="325" text-anchor="middle" class="small">برش راهنما: چهارچوب، شیارهای راهنما و لنگهٔ لغزنده</text>
-<text x="910" y="345" text-anchor="middle" class="small">سامانهٔ وزنه/قرقره فقط در نمونه‌هایی که سند آن موجود باشد افزوده شود.</text>
-
-<!-- exploded axonometric -->
-<path d="M750 520 L890 470 L1050 520 L910 572 Z" fill="#c6a276" stroke="#4a3522" stroke-width="3"/>
-<path d="M750 520 L750 640 L910 692 L910 572 Z" fill="#d8c39e" stroke="#4a3522" stroke-width="3"/>
-<path d="M910 572 L1050 520 L1050 640 L910 692 Z" fill="#b88d5b" stroke="#4a3522" stroke-width="3"/>
-<path d="M750 500 L890 450 L1050 500" fill="none" stroke="#9d6230" stroke-width="2" stroke-dasharray="6 4"/>
-<path d="M760 505 L760 470 L900 420 L1040 470 L1040 505" fill="none" stroke="#4a3522" stroke-width="3"/>
-<path d="M790 515 L790 545 M820 504 L820 554 M850 493 L850 564 M880 482 L880 573 M910 480 L910 573 M940 490 L940 563 M970 500 L970 553 M1000 510 L1000 543" stroke="#4a3522" stroke-width="2"/>
-<path d="M760 645 L760 675 L900 725 L1040 675 L1040 645" fill="none" stroke="#9d6230" stroke-width="2" stroke-dasharray="5 4"/>
-<text x="910" y="740" text-anchor="middle" class="small">قاب پیرامونی، شبکه/شیشه و لنگه‌های کشویی؛ اتصال دقیق باید از نمونه برداشت شود.</text>
-<text x="600" y="770" text-anchor="middle" class="small">سطح اعتبار: T1 بازسازی گونه‌شناختی | منابع: Valibeig &amp; Ranjbar, WIT Transactions (2017), DOI:10.2495/SDP170451؛ مطالعهٔ نمونه‌های ارسی و فن ساخت؛ گونه‌بندی و جزئیات اجرایی نیازمند تطبیق با بنای معین است.</text>
-</svg>
+<svg xmlns="http://www.w3.org/2000/svg" width="900" height="560" viewBox="0 0 900 560" role="img" aria-labelledby="title desc">
+<title id="title">پنجرهٔ ارسی — فاقد ترسیم معتبر</title>
+<desc id="desc">هیچ فرم معماری در این صفحه نمایش داده نشده است؛ تا زمان دستیابی به سند معتبر یک کیس مشخص، ترسیم انجام نمی‌شود.</desc>
+<rect width="900" height="560" fill="#fff"/><rect x="24" y="24" width="852" height="512" rx="6" fill="#faf9f6" stroke="#948a7d" stroke-width="2"/>
+<rect x="24" y="24" width="852" height="78" fill="#403b35"/><text x="450" y="74" text-anchor="middle" font-family="Vazirmatn,Noto Sans Arabic,sans-serif" font-size="30" fill="#fff">پنجرهٔ ارسی</text>
+<text x="450" y="184" text-anchor="middle" font-family="Vazirmatn,Noto Sans Arabic,sans-serif" font-size="25" font-weight="700" fill="#8b3f32">ترسیم معتبر موجود نیست</text>
+<text x="450" y="230" text-anchor="middle" font-family="Vazirmatn,Noto Sans Arabic,sans-serif" font-size="19" fill="#292722">وضعیت: نیازمند کیس واقعی و سند قابل ارجاع</text>
+<line x1="100" y1="272" x2="800" y2="272" stroke="#c9c2b8" stroke-width="2"/>
+<text x="450" y="325" text-anchor="middle" font-family="Vazirmatn,Noto Sans Arabic,sans-serif" font-size="17" fill="#4a453e">نیازمند نمای اندازه‌دار، مقطع قاب و جزئیات اتصال همان پنجره در یک بنای مشخص.</text>
+<text x="450" y="380" text-anchor="middle" font-family="Vazirmatn,Noto Sans Arabic,sans-serif" font-size="16" fill="#4a453e">ابعاد، هندسه، نما، مقطع یا جزئیات از روی حدس ساخته نمی‌شوند.</text>
+<text x="450" y="435" text-anchor="middle" font-family="Vazirmatn,Noto Sans Arabic,sans-serif" font-size="14" fill="#6a6258">نسخهٔ پیشین در تاریخچهٔ Git باقی است، اما مرجع معتبر اطلس نیست.</text>
+<text x="450" y="488" text-anchor="middle" font-family="Vazirmatn,Noto Sans Arabic,sans-serif" font-size="13" fill="#8a8277">DOCUMENTATION REQUIRED — NO ASSUMPTIONS</text></svg>

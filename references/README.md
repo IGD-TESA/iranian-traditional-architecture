@@ -88,3 +88,13 @@
 
 ### مقرنس
 - “A Framework for 3D Pattern Analysis and Reconstruction of Persian Architectural Elements.” *Nexus Network Journal* (2016). https://doi.org/10.1007/s00004-015-0287-z — اجزای سلولی و واسط، هندسهٔ مدولار و ضرورت تحلیل سه‌بعدی در کنار ترسیم دوبعدی. تصویر حاضر یک بازسازی مفهومی از منطق واحدهاست و بازسازی یک مقرنس تاریخی مشخص نیست.
+
+## منابع بررسی‌شده برای پرونده‌های کیس‌محور
+
+- Zolfagharkhani, M., & Ostwald, M. J. (2021). “The Spatial Structure of Yazd Courtyard Houses.” *Buildings*, 11(6), 262. https://doi.org/10.3390/buildings11060262 — نقشه‌های ۳۷ خانهٔ تاریخی یزد.
+- Zolfagharkhani, M., & Foruzanmehr, A.-R. (2024). “Courtyards and Adjacent Spaces: Analyzing 26 Cases of Second-Order Proximity in Traditional Courtyard Houses of Yazd.” *Buildings*, 14(9), 2639. https://doi.org/10.3390/buildings14092639 — ۲۶ کیس، مستندات میراث فرهنگی و تطبیق میدانی.
+- Makino, K., & Natsume, Y. (2024). “Secondary Spaces of Entrance, Corridor, and Balcony in Tehran Housing.” *Athens Journal of Architecture*, 10(4), 329–360. https://doi.org/10.30958/aja.10-4-1 — تنوع هندسی هشتی؛ نه مستند یک کیس برای بازترسیم.
+- Valibeig, N., & Ranjbar, A. (2017). “Analysis of Construction Technology in Sash Windows in Persian Architecture (Orosi).” *WIT Transactions*, 226, 519–526. https://doi.org/10.2495/SDP170451 — پلان و جزئیات اتصال ارسی؛ کیس هر نمونه باید جداگانه بررسی شود.
+- Armanfar, A., & Akdeniz, M. G. (2024). “Investigation of Wind Catchers in Yazd’s Traditional Houses: Lariha Dynasty House Case.” *Mimarlık ve Yaşam*, 9(1), 87–113. https://doi.org/10.26835/my.1264810 — برداشت میدانی ۲۰ بادگیر؛ مستندات پلان، نما و مقطع بادگیر خانهٔ لاری‌ها.
+- Holod, R. “ĀB-ANBĀR i. History.” *Encyclopaedia Iranica*. https://www.iranicaonline.org/articles/ab-anbar-i-history/ — مرجع تاریخی و گونه‌شناختی؛ برای ترسیم هنوز کیس مشخص لازم است.
+- Garofalo, V. (2014). “A Methodology for Studying Muqarnas: The Extant Examples in Palermo.” *Muqarnas* 31, 357–406. https://doi.org/10.1163/22118993-00311P15 — روش تحلیل هندسی؛ موضوع مطالعه نمونه‌های پالرمو است، نه یک کیس ایرانی.
