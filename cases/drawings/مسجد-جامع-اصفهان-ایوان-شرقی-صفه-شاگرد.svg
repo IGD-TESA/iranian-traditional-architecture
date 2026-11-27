@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" width="1500" height="950" viewBox="0 0 1500 950" role="img" aria-labelledby="t d">
+<title id="t">مسجد جامع اصفهان — ایوان شرقی، صفهٔ شاگرد</title>
+<desc id="d">پروندهٔ موردیِ ایوان شرقی، صفهٔ شاگرد مسجد جامع اصفهان. پوشش cradle-type arch در پرونده گزارش شده؛ ایوان سلجوقی است و تغییرات بعدی در وضعیت کنونی آشکارتر از سایر ایوان‌ها توصیف شده است.</desc>
+<defs><style>
+.bg{fill:#fbfaf7}.panel{fill:#fff;stroke:#cfc8ba;stroke-width:2}.h1{font-family:Vazirmatn,'Noto Sans Arabic',sans-serif;font-size:30px;font-weight:700;fill:#252b2e}.h2{font-family:Vazirmatn,'Noto Sans Arabic',sans-serif;font-size:21px;font-weight:700;fill:#30383c}.body{font-family:Vazirmatn,'Noto Sans Arabic',sans-serif;font-size:17px;fill:#30383c}.small{font-family:Vazirmatn,'Noto Sans Arabic',sans-serif;font-size:14px;fill:#60686a}.tiny{font-family:Vazirmatn,'Noto Sans Arabic',sans-serif;font-size:12px;fill:#697174}.dim{stroke:#795f3f;stroke-width:2;fill:none}.note{fill:#f1eee7;stroke:#c9c0b2;stroke-width:1.5}
+</style></defs>
+<rect width="1500" height="950" class="bg"/>
+<text x="750" y="52" text-anchor="middle" class="h1">مسجد جامع اصفهان — ایوان شرقی، صفهٔ شاگرد</text>
+<text x="750" y="85" text-anchor="middle" class="body">شیت پلان و اطلاعات پوشش — پروندهٔ ثبت جهانی یونسکو، ۲۰۱۱</text>
+<rect x="45" y="150" width="680" height="610" rx="10" class="panel"/>
+<text x="80" y="195" class="h2">۱. پلان ایوان</text>
+<text x="80" y="222" class="small">پلان مربع با ضلع ۱۰٫۵ متر؛ بازشو رو به صحن به سمت غرب، رو به صحن</text>
+<rect x="280" y="285" width="300" height="300" fill="#f5f1e8" stroke="#323a3e" stroke-width="5"/>
+ <path d="M280 285 V585 M580 285 V585 M280 285 H580" fill="none" stroke="#323a3e" stroke-width="5"/>
+ <line x1="280" y1="585" x2="580" y2="585" stroke="#9a7550" stroke-width="4" stroke-dasharray="9 7"/>
+ <text x="430" y="427" text-anchor="middle" class="body">فضای ایوان</text>
+ <text x="430" y="455" text-anchor="middle" class="small">پلان مربع</text>
+ <text x="430" y="620" text-anchor="middle" class="small">گشودگی رو به صحن</text>
+ <line x1="280" y1="255" x2="580" y2="255" class="dim"/>
+ <line x1="280" y1="243" x2="280" y2="267" class="dim"/>
+ <line x1="580" y1="243" x2="580" y2="267" class="dim"/>
+ <text x="430" y="245" text-anchor="middle" class="body">۱۰٫۵ متر</text>
+ <line x1="610" y1="285" x2="610" y2="585" class="dim"/>
+ <line x1="598" y1="285" x2="622" y2="285" class="dim"/>
+ <line x1="598" y1="585" x2="622" y2="585" class="dim"/>
+ <text x="635" y="435" transform="rotate(90 635 435)" text-anchor="middle" class="body">۱۰٫۵ متر</text>
+<text x="80" y="715" class="small">سه جبهه محصور و یک جبهه باز به سوی صحن در این پلان تحلیلی نشان داده شده است.</text>
+
+ <rect x="770" y="160" width="680" height="600" rx="10" class="panel"/>
+ <text x="805" y="205" class="h2">۲. مقطع طولی — نوع پوشش ثبت‌شده</text>
+ <text x="805" y="232" class="small">نمایش مقطع فقط برای معرفی نوع پوشش است؛ خیز و ارتفاع از منبع اندازه‌گذاری نشده است.</text>
+ <line x1="900" y1="620" x2="1320" y2="620" stroke="#343a3e" stroke-width="5"/>
+ <path d="M900 620 L900 470 Q1110 180 1320 470 L1320 620" fill="#f1ece1" stroke="#343a3e" stroke-width="5" stroke-dasharray="9 6"/>
+ <text x="1110" y="520" text-anchor="middle" class="body">طاق آهنگ</text>
+ <text x="1110" y="655" text-anchor="middle" class="small">فضای داخلی ایوان</text>
+ <text x="805" y="705" class="tiny">قوس و ارتفاع در این مقطع خط‌چین و شماتیک‌اند؛ از آن‌ها برای استخراج اندازه استفاده نشود.</text>
+<rect x="45" y="790" width="1405" height="100" rx="8" class="note"/>
+<text x="80" y="830" class="body">پوشش cradle-type arch در پرونده گزارش شده؛ ایوان سلجوقی است و تغییرات بعدی در وضعیت کنونی آشکارتر از سایر ایوان‌ها توصیف شده است.</text>
+<text x="80" y="862" class="small">ابعاد پلان از پروندهٔ ثبت جهانی نقل شده‌اند؛ ضخامت دیوار، ارتفاع و جزئیات قوس در این SVG اندازه‌گذاری نشده‌اند.</text>
+<text x="750" y="925" text-anchor="middle" class="tiny">Iranian Cultural Heritage Organization (2011), Masjed-e Jāme’ of Isfahan, UNESCO Nomination File 1397.</text>
+</svg>
