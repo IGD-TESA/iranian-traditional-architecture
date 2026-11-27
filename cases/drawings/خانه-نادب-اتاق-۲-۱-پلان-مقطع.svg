@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" width="1500" height="1000" viewBox="0 0 1500 1000" role="img" aria-labelledby="t d">
+<title id="t">خانهٔ نادب یزد، اتاق ۲٫۱ — پلان و مقطع بازترسیم تحلیلی</title>
+<desc id="d">بر پایهٔ Figure 10 مقالهٔ Zolfagharkhani و Foruzanmehr، 2024. اتاق مستطیل 5.8 در 3.2 متر و ارتفاع 4 متر. سه جفت فرورفتگی روی دیوار غربی و چهار جفت روی دیوار جنوبی گزارش شده‌اند. پوشش قوسی با پروفیل دقیق نامشخص است و نورگیر سقفی تاریخی از داخل مسدود شده است.</desc>
+<defs><style>
+.bg{fill:#fbfaf7}.panel{fill:#fff;stroke:#cfc8ba;stroke-width:2}.h1{font-family:Vazirmatn,'Noto Sans Arabic',sans-serif;font-size:31px;font-weight:700;fill:#252b2e}.h2{font-family:Vazirmatn,'Noto Sans Arabic',sans-serif;font-size:22px;font-weight:700;fill:#30383c}.body{font-family:Vazirmatn,'Noto Sans Arabic',sans-serif;font-size:17px;fill:#30383c}.small{font-family:Vazirmatn,'Noto Sans Arabic',sans-serif;font-size:14px;fill:#60686a}.tiny{font-family:Vazirmatn,'Noto Sans Arabic',sans-serif;font-size:12px;fill:#697174}.wall{fill:#e7e0d3;stroke:#343a3c;stroke-width:5}.niche{fill:#fff;stroke:#785e45;stroke-width:2}.dim{stroke:#795f3f;stroke-width:2;fill:none}.dash{stroke:#9a8062;stroke-width:2;stroke-dasharray:7 6;fill:none}.section{stroke:#333a3d;stroke-width:4;fill:#eee9df}.note{fill:#f1eee7;stroke:#c9c0b2;stroke-width:1.5}
+</style></defs>
+<rect width="1500" height="1000" class="bg"/>
+<text x="750" y="52" text-anchor="middle" class="h1">خانهٔ نادب، یزد — اتاق ۲٫۱</text>
+<text x="750" y="83" text-anchor="middle" class="body">بازترسیم تحلیلیِ پلان و مقطع از شکل ۱۰ مقالهٔ ۲۰۲۴؛ مبتنی بر نقشه‌های میراث فرهنگی یزد</text>
+<rect x="45" y="120" width="710" height="700" rx="10" class="panel"/>
+<text x="80" y="165" class="h2">۱. پلان اتاق ۲٫۱</text>
+<text x="80" y="192" class="small">پلان مستطیل؛ ابعاد گزارش‌شده ۵٫۸ × ۳٫۲ متر</text>
+<!-- plan outer dimensions: x=180 y=310 w=470 h=260 ratio 1.807 -->
+<rect x="180" y="310" width="470" height="260" class="wall"/>
+<rect x="195" y="325" width="440" height="230" fill="#fff" stroke="#7e776c" stroke-width="1.5"/>
+<!-- 3 pairs of west wall niches -->
+<rect x="180" y="346" width="27" height="38" class="niche"/>
+<rect x="180" y="390" width="27" height="38" class="niche"/>
+<rect x="180" y="435" width="27" height="38" class="niche"/>
+<rect x="180" y="479" width="27" height="38" class="niche"/>
+<rect x="180" y="346" width="27" height="38" class="niche" opacity=".0"/>
+<!-- four pairs along south wall (lower edge) -->
+<rect x="237" y="543" width="37" height="27" class="niche"/>
+<rect x="282" y="543" width="37" height="27" class="niche"/>
+<rect x="383" y="543" width="37" height="27" class="niche"/>
+<rect x="428" y="543" width="37" height="27" class="niche"/>
+<rect x="529" y="543" width="37" height="27" class="niche"/>
+<rect x="574" y="543" width="37" height="27" class="niche"/>
+<!-- entrance/opening uncertainty only as annotation, no invented door position -->
+<text x="415" y="430" text-anchor="middle" class="body">اتاق ۲٫۱</text>
+<text x="415" y="457" text-anchor="middle" class="small">مساحت گزارش‌شده: ۱۸٫۵ مترمربع</text>
+<line x1="180" y1="275" x2="650" y2="275" class="dim"/>
+<line x1="180" y1="263" x2="180" y2="288" class="dim"/>
+<line x1="650" y1="263" x2="650" y2="288" class="dim"/>
+<text x="415" y="263" text-anchor="middle" class="body">۵٫۸ متر</text>
+<line x1="690" y1="310" x2="690" y2="570" class="dim"/>
+<line x1="678" y1="310" x2="702" y2="310" class="dim"/>
+<line x1="678" y1="570" x2="702" y2="570" class="dim"/>
+<text x="715" y="440" transform="rotate(90 715 440)" text-anchor="middle" class="body">۳٫۲ متر</text>
+<path d="M220 350 L105 300" class="dim"/>
+<text x="78" y="275" class="small">دیوار غربی:</text>
+<text x="78" y="295" class="small">۳ جفت فرورفتگی دوطبقه</text>
+<path d="M425 570 L425 625" class="dim"/>
+<text x="425" y="650" text-anchor="middle" class="small">دیوار جنوبی: ۴ جفت فرورفتگی دوطبقه</text>
+<text x="80" y="710" class="small">پیش‌آمدگی شبیه نعل‌درگاه در فرورفتگی‌های پایینی گزارش شده است.</text>
+<text x="80" y="738" class="tiny">مکان دقیق بازشوهای دسترسی و ضخامت دیوارها در این بازترسیم اندازه‌گذاری نشده‌اند.</text>
+<text x="80" y="770" class="tiny">طرحِ فرورفتگی‌ها در پلان، نمادین است؛ تعداد و دیوارِ محل استقرار از متن مقاله گرفته شده است.</text>
+
+<rect x="785" y="120" width="670" height="700" rx="10" class="panel"/>
+<text x="820" y="165" class="h2">۲. مقطع مفهومی از اتاق</text>
+<text x="820" y="192" class="small">ارتفاع داخلی گزارش‌شده: ۴٫۰ متر؛ نوع دقیق قوس در متن نام‌گذاری نشده است.</text>
+<!-- room section -->
+<rect x="900" y="510" width="430" height="250" fill="#f6f3ec" stroke="#343a3c" stroke-width="5"/>
+<path d="M900 510 Q1115 250 1330 510" fill="none" stroke="#343a3c" stroke-width="5"/>
+<path d="M900 510 Q1115 250 1330 510" class="dash"/>
+<rect x="1085" y="294" width="60" height="18" class="dash"/>
+<line x1="1115" y1="312" x2="1115" y2="375" class="dash"/>
+<text x="1155" y="300" class="small">نورگیر سقفی تاریخی</text>
+<text x="1155" y="321" class="small">از داخل بعداً مسدود شده</text>
+<line x1="900" y1="760" x2="1330" y2="760" stroke="#343a3c" stroke-width="5"/>
+<line x1="1360" y1="510" x2="1360" y2="760" class="dim"/>
+<line x1="1348" y1="510" x2="1372" y2="510" class="dim"/>
+<line x1="1348" y1="760" x2="1372" y2="760" class="dim"/>
+<text x="1392" y="635" transform="rotate(90 1392 635)" text-anchor="middle" class="body">۴٫۰ متر</text>
+<text x="1115" y="700" text-anchor="middle" class="body">اتاق ۲٫۱</text>
+<text x="820" y="790" class="tiny">خط قوسی فقط پوشش قوسی را نشان می‌دهد؛ شعاع، خیز و گونهٔ دقیق قوس از متن قابل استخراج نیست.</text>
+
+<rect x="45" y="845" width="1410" height="100" rx="8" class="note"/>
+<text x="80" y="882" class="body">دادهٔ منبع: ۵٫۸ × ۳٫۲ متر؛ ارتفاع ۴٫۰ متر؛ مساحت ۱۸٫۵ مترمربع؛ ۳ جفت فرورفتگی در دیوار غربی و ۴ جفت در دیوار جنوبی.</text>
+<text x="80" y="914" class="small">نقشهٔ مرجع: Figure 10 (پلان و مقطع، مبتنی بر اسکن میراث فرهنگی)؛ نورگیرها در سطح بام قابل مشاهده‌اند اما از داخل مسدود شده‌اند. بازشوهای تاریخیِ نامطمئن در این SVG تعیین نشده‌اند.</text>
+<text x="750" y="978" text-anchor="middle" class="tiny">Zolfagharkhani &amp; Foruzanmehr (2024), Figure 10, CC BY 4.0 — DOI: 10.3390/buildings14092639</text>
+</svg>
