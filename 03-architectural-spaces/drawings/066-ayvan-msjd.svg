@@ -1,11 +1,76 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<svg xmlns="http://www.w3.org/2000/svg" width="640" height="430" viewBox="0 0 640 430" role="img" aria-labelledby="ttl dsc">
-<title id="ttl">ایوان مسجد — ترسیم شماتیک</title>
-<desc id="dsc">دیاگرام آموزشی ایوان مسجد در معماری سنتی ایران. این ترسیم شماتیک عمومی است، مقیاس ندارد و به بنای تاریخی مشخصی منتسب نیست.</desc>
-<defs><pattern id="hatch" width="8" height="8" patternUnits="userSpaceOnUse"><path d="M0 8 L8 0" stroke="#9ca3af" stroke-width=".8"/></pattern></defs><rect width="640" height="430" fill="#fff"/>
-<text x="320" y="34" text-anchor="middle" direction="rtl" font-family="Vazirmatn, Noto Sans Arabic, sans-serif" font-size="21" font-weight="600" fill="#20252b">ایوان مسجد</text>
-<line x1="44" y1="48" x2="596" y2="48" stroke="#d1d5db"/>
-<line x1="100" y1="320" x2="540" y2="320" stroke="#252525" stroke-width="3" /><rect x="140" y="135" width="360" height="185" rx="0" fill="#fff" stroke="#252525" stroke-width="1.4"/><path d="M140 135 L320 65 L500 135" fill="none" stroke="#252525" stroke-width="3" stroke-linejoin="round" stroke-linecap="round" /><rect x="163" y="150" width="14" height="170" rx="0" fill="#d6d3d1" stroke="#252525" stroke-width="1.2"/><rect x="313" y="150" width="14" height="170" rx="0" fill="#d6d3d1" stroke="#252525" stroke-width="1.2"/><rect x="463" y="150" width="14" height="170" rx="0" fill="#d6d3d1" stroke="#252525" stroke-width="1.2"/>
-<line x1="44" y1="390" x2="596" y2="390" stroke="#d1d5db"/>
-<text x="320" y="414" text-anchor="middle" direction="rtl" font-family="Vazirmatn, Noto Sans Arabic, sans-serif" font-size="12" fill="#64748b">شماتیک آموزشی • فاقد مقیاس • گونهٔ عمومی</text>
+<svg xmlns="http://www.w3.org/2000/svg" width="1420" height="1080" viewBox="0 0 1420 1080" role="img" aria-labelledby="t d">
+<title id="t">ایوان‌های مسجد جامع اصفهان؛ مقایسهٔ چهار ایوان و داده‌های مستند</title>
+<desc id="d">مقایسهٔ چهار ایوان مسجد جامع اصفهان در چهار جبههٔ صحن. پلان ایوان شرقی صفه شاگرد و غربی صفه استاد هرکدام مربع ۱۰٫۵ در ۱۰٫۵ متر؛ پوشش cradle type arch. ایوان جنوبی صفه صاحب حدود ۱۲ در ۱۲ متر؛ نام پوشش Taq-e Dozd است و مقطع اجرایی از آن حدس زده نمی‌شود. ایوان شمالی صفه درویش در دوره‌های بعدی دگرگون و بازسازی شده و ابعاد/صورت تاریخی اولیه در داده‌های فعلی مشخص نیست. دیاگرام‌ها مقایسه‌ای و غیرمقیاس‌اند.</desc>
+<defs>
+ <style>
+ .bg{fill:#f8f7f3}.panel{fill:#fff;stroke:#c9c4ba;stroke-width:2}.title{font-family:Vazirmatn,'Noto Sans Arabic',sans-serif;font-size:29px;font-weight:700;fill:#20282d}.subtitle{font-family:Vazirmatn,'Noto Sans Arabic',sans-serif;font-size:16px;fill:#4d5960}.head{font-family:Vazirmatn,'Noto Sans Arabic',sans-serif;font-size:22px;font-weight:700;fill:#29363c}.body{font-family:Vazirmatn,'Noto Sans Arabic',sans-serif;font-size:17px;fill:#30383c}.small{font-family:Vazirmatn,'Noto Sans Arabic',sans-serif;font-size:14px;fill:#5d686e}.tiny{font-family:Vazirmatn,'Noto Sans Arabic',sans-serif;font-size:12px;fill:#727b80}.foot{fill:#e9eef0;stroke:#aebbc0;stroke-width:1.5}.unknown{fill:#faf7f1;stroke:#9a8163;stroke-width:2;stroke-dasharray:8 6}.square{fill:#e7ecee;stroke:#35434a;stroke-width:2.5}.dim{fill:none;stroke:#56636a;stroke-width:1.5}
+ </style>
+</defs>
+<rect width="1420" height="1080" class="bg"/>
+<rect x="28" y="24" width="1364" height="95" rx="10" fill="#293940"/>
+<text x="710" y="64" text-anchor="middle" class="title" style="fill:#fff" direction="rtl">ایوان مسجد — چهار نمونهٔ مستند در مسجد جامع اصفهان</text>
+<text x="710" y="94" text-anchor="middle" class="subtitle" style="fill:#e2e8eb" direction="rtl">مقایسهٔ اندازه و نوع پوشش گزارش‌شده؛ هر ایوان یک کیس مستقل است.</text>
+
+<!-- East -->
+<rect x="35" y="145" width="660" height="360" rx="9" class="panel"/>
+<text x="365" y="186" text-anchor="middle" class="head" direction="rtl">۱ ـ ایوان شرقی، صفهٔ شاگرد</text>
+<text x="365" y="214" text-anchor="middle" class="small" direction="rtl">دورهٔ سلجوقی؛ پلان مربع ۱۰٫۵ × ۱۰٫۵ متر</text>
+<rect x="90" y="250" width="180" height="180" class="square"/>
+<path d="M90 240V230 M270 240V230 M90 235H270" class="dim"/>
+<text x="180" y="228" class="small" text-anchor="middle">۱۰٫۵ متر</text>
+<path d="M280 250H292 M280 430H292 M286 250V430" class="dim"/>
+<text x="306" y="345" class="small" transform="rotate(90 306 345)">۱۰٫۵ متر</text>
+<rect x="350" y="250" width="310" height="180" rx="7" class="foot"/>
+<text x="505" y="290" text-anchor="middle" class="body" direction="rtl">پوشش: قوس/طاق گهواره‌ای</text>
+<text x="505" y="328" text-anchor="middle" class="small" direction="rtl">اصطلاح منبع: cradle type arch</text>
+<text x="505" y="369" text-anchor="middle" class="small" direction="rtl">دارای تغییرات و تزئینات تاریخی</text>
+<text x="505" y="401" text-anchor="middle" class="tiny" direction="rtl">شیت مستقل پلان/مقطع در پوشهٔ کیس موجود است.</text>
+
+<!-- West -->
+<rect x="725" y="145" width="660" height="360" rx="9" class="panel"/>
+<text x="1055" y="186" text-anchor="middle" class="head" direction="rtl">۲ ـ ایوان غربی، صفهٔ استاد</text>
+<text x="1055" y="214" text-anchor="middle" class="small" direction="rtl">پلان مربع ۱۰٫۵ × ۱۰٫۵ متر</text>
+<rect x="780" y="250" width="180" height="180" class="square"/>
+<path d="M780 240V230 M960 240V230 M780 235H960" class="dim"/>
+<text x="870" y="228" class="small" text-anchor="middle">۱۰٫۵ متر</text>
+<path d="M970 250H982 M970 430H982 M976 250V430" class="dim"/>
+<text x="996" y="345" class="small" transform="rotate(90 996 345)">۱۰٫۵ متر</text>
+<rect x="1040" y="250" width="310" height="180" rx="7" class="foot"/>
+<text x="1195" y="290" text-anchor="middle" class="body" direction="rtl">پوشش: قوس/طاق گهواره‌ای</text>
+<text x="1195" y="328" text-anchor="middle" class="small" direction="rtl">اصطلاح منبع: cradle type arch</text>
+<text x="1195" y="369" text-anchor="middle" class="small" direction="rtl">تزئینات و مرمت‌های دوره‌ای</text>
+<text x="1195" y="401" text-anchor="middle" class="tiny" direction="rtl">شیت مستقل پلان/مقطع در پوشهٔ کیس موجود است.</text>
+
+<!-- South -->
+<rect x="35" y="530" width="660" height="360" rx="9" class="panel"/>
+<text x="365" y="571" text-anchor="middle" class="head" direction="rtl">۳ ـ ایوان جنوبی، صفهٔ صاحب</text>
+<text x="365" y="599" text-anchor="middle" class="small" direction="rtl">پلان تقریباً مربع ۱۲ × ۱۲ متر</text>
+<rect x="90" y="645" width="206" height="206" class="square"/>
+<path d="M90 635V625 M296 635V625 M90 630H296" class="dim"/>
+<text x="193" y="623" class="small" text-anchor="middle">حدود ۱۲ متر</text>
+<path d="M306 645H318 M306 851H318 M312 645V851" class="dim"/>
+<text x="332" y="748" class="small" transform="rotate(90 332 748)">حدود ۱۲ متر</text>
+<rect x="350" y="640" width="310" height="210" rx="7" class="foot"/>
+<text x="505" y="681" text-anchor="middle" class="body" direction="rtl">پوشش در منبع: Taq-e Dozd</text>
+<text x="505" y="721" text-anchor="middle" class="small" direction="rtl">مقطع اجرایی از عنوان به‌تنهایی تعیین نمی‌شود.</text>
+<text x="505" y="758" text-anchor="middle" class="small" direction="rtl">ارتفاع حداکثر حدود ۹ متر در منابع پیشین گزارش شده.</text>
+<text x="505" y="800" text-anchor="middle" class="tiny" direction="rtl">پلان و شیت مستقل در پوشهٔ کیس موجود است.</text>
+
+<!-- North -->
+<rect x="725" y="530" width="660" height="360" rx="9" class="panel"/>
+<text x="1055" y="571" text-anchor="middle" class="head" direction="rtl">۴ ـ ایوان شمالی، صفهٔ درویش</text>
+<text x="1055" y="599" text-anchor="middle" class="small" direction="rtl">ابعاد تاریخی اولیه در داده‌های فعلی مشخص نشده</text>
+<rect x="790" y="645" width="220" height="206" class="unknown"/>
+<text x="900" y="734" text-anchor="middle" class="body" direction="rtl">محدودهٔ مکانی</text>
+<text x="900" y="767" text-anchor="middle" class="small" direction="rtl">بدون مقیاس/اندازه</text>
+<rect x="1040" y="640" width="310" height="210" rx="7" class="unknown"/>
+<text x="1195" y="681" text-anchor="middle" class="body" direction="rtl">صورت کنونی شامل بازسازی است.</text>
+<text x="1195" y="721" text-anchor="middle" class="small" direction="rtl">بخش مهمی از نمای پیشین پس از ۱۹۳۴</text>
+<text x="1195" y="751" text-anchor="middle" class="small" direction="rtl">باقی نمانده؛ آن را نباید عین صورت سلجوقی دانست.</text>
+<text x="1195" y="800" text-anchor="middle" class="tiny" direction="rtl">ابعاد و پوشش تاریخی اولیه: نیازمند سند تکمیلی.</text>
+
+<rect x="35" y="920" width="1350" height="110" rx="8" class="panel"/>
+<text x="710" y="960" text-anchor="middle" class="body" direction="rtl">این شیت مقایسهٔ چهار کیس است، نه پلان مقیاس‌دار یا گونهٔ واحد ایوان مسجد. داده‌های هر ایوان از پروندهٔ ثبت جهانی و نقشه‌های مستقل همان ایوان گرفته شده‌اند.</text>
+<text x="710" y="993" text-anchor="middle" class="small" direction="rtl">منبع: Nomination of Masjed-e Jāme’ of Isfahan for Inscription on the World Heritage List (2011), pp. 32–43؛ پروندهٔ ثبت جهانی یونسکو ۱۳۹۷.</text>
 </svg>

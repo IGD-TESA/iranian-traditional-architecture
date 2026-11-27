@@ -74,7 +74,7 @@
 |---|---|
 | [![گنبدخانه](./063-gnbdkhanh.svg)](./063-gnbdkhanh.svg)<br/><sub>گنبدخانه</sub> | [![مقصوره](./064-mqsvrh.svg)](./064-mqsvrh.svg)<br/><sub>مقصوره</sub> |
 |---|---|
-| [![محراب](./065-mhrab.svg)](./065-mhrab.svg)<br/><sub>محراب</sub> | [![ایوان مسجد](./066-ayvan-msjd.svg)](./066-ayvan-msjd.svg)<br/><sub>ایوان مسجد</sub> |
+| [![محراب](./065-mhrab.svg)](./065-mhrab.svg)<br/><sub>محراب</sub> | [![ایوان مسجد؛ چهار کیس مسجد جامع اصفهان](./066-ayvan-msjd.svg)](./066-ayvan-msjd.svg)<br/><sub>ایوان مسجد؛ چهار کیس مسجد جامع اصفهان</sub> |
 |---|---|
 | [![نمازخانه](./067-nmazkhanh.svg)](./067-nmazkhanh.svg)<br/><sub>نمازخانه</sub> | [![محل استقرار منبر](./068-mhl-astqrar-mnbr.svg)](./068-mhl-astqrar-mnbr.svg)<br/><sub>محل استقرار منبر</sub> |
 |---|---|
