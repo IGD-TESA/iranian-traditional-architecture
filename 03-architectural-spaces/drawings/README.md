@@ -14,7 +14,7 @@
 |---|---|
 | [![درگاه](./003-drgah.svg)](./003-drgah.svg)<br/><sub>درگاه</sub> | [![آستانه](./004-astanh.svg)](./004-astanh.svg)<br/><sub>آستانه</sub> |
 |---|---|
-| [![دربند](./005-drbnd.svg)](./005-drbnd.svg)<br/><sub>دربند</sub> | [![هشتی](./006-hshty.svg)](./006-hshty.svg)<br/><sub>هشتی</sub> |
+| [![دربند](./005-drbnd.svg)](./005-drbnd.svg)<br/><sub>دربند</sub> | [![هشتی؛ جایگاه در خانهٔ لاری‌ها](./006-hshty.svg)](./006-hshty.svg)<br/><sub>هشتی؛ جایگاه در خانهٔ لاری‌ها</sub> |
 |---|---|
 | [![دالان](./007-dalan.svg)](./007-dalan.svg)<br/><sub>دالان</sub> | [![دهلیز](./008-dhlyz.svg)](./008-dhlyz.svg)<br/><sub>دهلیز</sub> |
 |---|---|
