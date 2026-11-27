@@ -1,11 +1,112 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<svg xmlns="http://www.w3.org/2000/svg" width="640" height="430" viewBox="0 0 640 430" role="img" aria-labelledby="ttl dsc">
-<title id="ttl">اتاق — ترسیم شماتیک</title>
-<desc id="dsc">دیاگرام آموزشی اتاق در معماری سنتی ایران. این ترسیم شماتیک عمومی است، مقیاس ندارد و به بنای تاریخی مشخصی منتسب نیست.</desc>
-<defs><pattern id="hatch" width="8" height="8" patternUnits="userSpaceOnUse"><path d="M0 8 L8 0" stroke="#9ca3af" stroke-width=".8"/></pattern></defs><rect width="640" height="430" fill="#fff"/>
-<text x="320" y="34" text-anchor="middle" direction="rtl" font-family="Vazirmatn, Noto Sans Arabic, sans-serif" font-size="21" font-weight="600" fill="#20252b">اتاق</text>
-<line x1="44" y1="48" x2="596" y2="48" stroke="#d1d5db"/>
-<line x1="85" y1="350" x2="555" y2="350" stroke="#252525" stroke-width="3" /><rect x="115" y="90" width="410" height="260" rx="0" fill="#fff" stroke="#252525" stroke-width="2"/><rect x="285" y="165" width="62" height="130" rx="0" fill="#d9e7ee" stroke="#252525" stroke-width="1.7"/><line x1="316" y1="165" x2="316" y2="295" stroke="#252525" stroke-width="1" />
-<line x1="44" y1="390" x2="596" y2="390" stroke="#d1d5db"/>
-<text x="320" y="414" text-anchor="middle" direction="rtl" font-family="Vazirmatn, Noto Sans Arabic, sans-serif" font-size="12" fill="#64748b">شماتیک آموزشی • فاقد مقیاس • گونهٔ عمومی</text>
+<svg xmlns="http://www.w3.org/2000/svg" width="1500" height="1120" viewBox="0 0 1500 1120" role="img" aria-labelledby="t d">
+<title id="t">اتاق در خانه‌های تاریخی یزد؛ مقایسهٔ چهار نمونهٔ مستند</title>
+<desc id="d">شیت مقایسه‌ای چهار فضای مشخص در خانه‌های طاق‌بلندها، کریمی، نادب و گلشن بر اساس مقالهٔ Zolfagharkhani و Foruzanmehr (2024). ابعاد هر فضای مستطیلی یا تقریباً مستطیلی، مساحت و ارتفاع گزارش‌شده و ویژگی‌های پوشش و نورگیری جداگانه آمده‌اند. شکل‌ها فقط پاکت ابعادی را نشان می‌دهند و جزئیات ناشناختهٔ پلان یا مقطع بازسازی نشده‌اند.</desc>
+<defs>
+ <pattern id="cut" width="9" height="9" patternUnits="userSpaceOnUse"><path d="M0 9L9 0" stroke="#9a9488" stroke-width="1"/></pattern>
+ <style>
+  .bg{fill:#f8f7f3}.panel{fill:#fff;stroke:#c9c5bb;stroke-width:2}
+  .title{font-family:Vazirmatn,'Noto Sans Arabic',sans-serif;font-size:30px;font-weight:700;fill:#20282d}
+  .subtitle{font-family:Vazirmatn,'Noto Sans Arabic',sans-serif;font-size:17px;fill:#4d5960}
+  .h2{font-family:Vazirmatn,'Noto Sans Arabic',sans-serif;font-size:23px;font-weight:700;fill:#26343a}
+  .body{font-family:Vazirmatn,'Noto Sans Arabic',sans-serif;font-size:17px;fill:#30383c}
+  .small{font-family:Vazirmatn,'Noto Sans Arabic',sans-serif;font-size:14px;fill:#5d686e}
+  .tiny{font-family:Vazirmatn,'Noto Sans Arabic',sans-serif;font-size:12px;fill:#6c757a}
+  .wall{fill:url(#cut);stroke:#30383c;stroke-width:2.3}
+  .room{fill:#fff;stroke:#48545a;stroke-width:1.8}
+  .dim{stroke:#59666c;stroke-width:1.5;fill:none}
+  .case{fill:#edf1f2;stroke:#aab5ba;stroke-width:1.3}
+  .fact{fill:#f6f1e8;stroke:#d1c5ad;stroke-width:1.2}
+  .dash{stroke:#8a7963;stroke-width:1.7;stroke-dasharray:6 5;fill:none}
+ </style>
+</defs>
+<rect width="1500" height="1120" class="bg"/>
+<rect x="35" y="25" width="1430" height="100" rx="10" fill="#293940"/>
+<text x="750" y="67" text-anchor="middle" direction="rtl" class="title" style="fill:#fff">اتاق در خانه‌های تاریخی یزد — چهار کیس مستند</text>
+<text x="750" y="99" text-anchor="middle" direction="rtl" class="subtitle" style="fill:#e2e8eb">مقایسهٔ پاکت ابعادی و ویژگی‌های گزارش‌شده؛ بدون ساختن یک گونهٔ عمومی و یکسان</text>
+
+<!-- TAAGH BOLANDHA -->
+<rect x="35" y="155" width="700" height="405" rx="9" class="panel"/>
+<text x="70" y="195" class="h2" direction="rtl">۱ ـ خانهٔ طاق‌بلندها، فضای ۲٫۸</text>
+<text x="70" y="224" class="small" direction="rtl">دورهٔ سلجوقی | پلان مستطیل گزارش‌شده</text>
+<!-- 1 m = 30px; 4.15 x 4.35 -->
+<rect x="105" y="270" width="124.5" height="130.5" class="wall"/>
+<rect x="115" y="280" width="104.5" height="110.5" class="room"/>
+<text x="167" y="336" text-anchor="middle" class="small" direction="rtl">۲٫۸</text>
+<path d="M105 255V245 M229.5 255V245 M105 250H229.5" class="dim"/>
+<text x="167" y="243" text-anchor="middle" class="small">۴٫۱۵ م</text>
+<path d="M245 270H258 M245 400.5H258 M252 270V400.5" class="dim"/>
+<text x="269" y="340" class="small" transform="rotate(90 269 340)">۴٫۳۵ م</text>
+<rect x="300" y="255" width="390" height="240" rx="7" class="case"/>
+<text x="325" y="290" class="body" direction="rtl">مساحت: ۱۸٫۰۵ مترمربع</text>
+<text x="325" y="322" class="body" direction="rtl">ارتفاع: ۵٫۹۳ متر</text>
+<text x="325" y="362" class="body" direction="rtl">پوشش: نوع دقیقِ طاق از متن تعیین نمی‌شود.</text>
+<text x="325" y="398" class="body" direction="rtl">نورگیری: گشودگی سقفی برای نور و تهویه گزارش شده.</text>
+<text x="325" y="434" class="body" direction="rtl">دیواره‌ها: ۱۲ فرورفتگی؛ دو محور تقارن توصیف شده.</text>
+<text x="325" y="468" class="small" direction="rtl">ابعاد فرورفتگی‌ها و موقعیت تک‌تک آن‌ها اندازه‌گذاری نشده‌اند.</text>
+
+<!-- KARIMI -->
+<rect x="765" y="155" width="700" height="405" rx="9" class="panel"/>
+<text x="800" y="195" class="h2" direction="rtl">۲ ـ خانهٔ کریمی، فضای ۲٫۳</text>
+<text x="800" y="224" class="small" direction="rtl">دورهٔ مظفری | پلان تقریباً مستطیل</text>
+<!-- 1m=30px; 5.6 x3.7 -->
+<rect x="835" y="270" width="168" height="111" class="dash"/>
+<text x="919" y="329" text-anchor="middle" class="small" direction="rtl">۲٫۳</text>
+<path d="M835 255V245 M1003 255V245 M835 250H1003" class="dim"/>
+<text x="919" y="243" text-anchor="middle" class="small">۵٫۶ م</text>
+<path d="M1018 270H1031 M1018 381H1031 M1025 270V381" class="dim"/>
+<text x="1041" y="326" class="small" transform="rotate(90 1041 326)">۳٫۷ م</text>
+<rect x="1075" y="255" width="355" height="240" rx="7" class="case"/>
+<text x="1100" y="290" class="body" direction="rtl">مساحت: حدود ۲۰ مترمربع</text>
+<text x="1100" y="322" class="body" direction="rtl">ارتفاع: حدود ۴٫۳ متر</text>
+<text x="1100" y="362" class="body" direction="rtl">پوشش جلو: گنبد</text>
+<text x="1100" y="398" class="body" direction="rtl">پوشش عقب: قوس در عرض اتاق</text>
+<text x="1100" y="434" class="body" direction="rtl">فضای پشتیبان کوچک در لبهٔ شمالی</text>
+<text x="1100" y="468" class="small" direction="rtl">محل دقیق مرز دو نوع پوشش در پلان بازسازی نشده است.</text>
+
+<!-- NADEB -->
+<rect x="35" y="585" width="700" height="405" rx="9" class="panel"/>
+<text x="70" y="625" class="h2" direction="rtl">۳ ـ خانهٔ نادب، اتاق ۲٫۱</text>
+<text x="70" y="654" class="small" direction="rtl">دورهٔ صفوی | پلان مستطیل</text>
+<!-- 1m=30px; 5.8x3.2 -->
+<rect x="105" y="700" width="174" height="96" class="wall"/>
+<rect x="115" y="710" width="154" height="76" class="room"/>
+<text x="192" y="754" text-anchor="middle" class="small" direction="rtl">۲٫۱</text>
+<path d="M105 685V675 M279 685V675 M105 680H279" class="dim"/>
+<text x="192" y="673" text-anchor="middle" class="small">۵٫۸ م</text>
+<path d="M294 700H307 M294 796H307 M301 700V796" class="dim"/>
+<text x="317" y="748" class="small" transform="rotate(90 317 748)">۳٫۲ م</text>
+<rect x="350" y="685" width="340" height="240" rx="7" class="case"/>
+<text x="375" y="720" class="body" direction="rtl">مساحت: ۱۸٫۵ مترمربع</text>
+<text x="375" y="752" class="body" direction="rtl">ارتفاع: ۴٫۰ متر</text>
+<text x="375" y="792" class="body" direction="rtl">پوشش: ساختار قوسی؛ پروفیل دقیق منتشر نشده.</text>
+<text x="375" y="828" class="body" direction="rtl">نورگیر سقفی تاریخی از داخل مسدود شده بود.</text>
+<text x="375" y="864" class="body" direction="rtl">فرورفتگی دوطبقه: غربی ۳ جفت؛ جنوبی ۴ جفت.</text>
+<text x="375" y="900" class="small" direction="rtl">شکل و فاصلهٔ دقیق فرورفتگی‌ها از متن قابل استخراج نیست.</text>
+
+<!-- GOLSHAN -->
+<rect x="765" y="585" width="700" height="405" rx="9" class="panel"/>
+<text x="800" y="625" class="h2" direction="rtl">۴ ـ خانهٔ گلشن، فضای ۲٫۹</text>
+<text x="800" y="654" class="small" direction="rtl">دورهٔ قاجار | دو جزء مستطیلیِ یک فضا</text>
+<!-- 1m=30px: main 4.8x4.3; rear 4.3x1.9 shown separately to avoid inventing orientation -->
+<rect x="825" y="720" width="144" height="129" class="wall"/>
+<rect x="835" y="730" width="124" height="109" class="room"/>
+<text x="897" y="789" text-anchor="middle" class="small" direction="rtl">بخش اصلی</text>
+<text x="897" y="870" text-anchor="middle" class="tiny">۴٫۸ × ۴٫۳ م</text>
+<rect x="1000" y="755" width="129" height="57" class="wall"/>
+<rect x="1010" y="765" width="109" height="37" class="room"/>
+<text x="1064" y="790" text-anchor="middle" class="tiny" direction="rtl">بخش عقب</text>
+<text x="1064" y="834" text-anchor="middle" class="tiny">۴٫۳ × ۱٫۹ م</text>
+<path d="M975 782H991" class="dash"/>
+<rect x="1155" y="685" width="280" height="240" rx="7" class="fact"/>
+<text x="1180" y="720" class="body" direction="rtl">مساحت کل: ۲۸٫۷ مترمربع</text>
+<text x="1180" y="752" class="body" direction="rtl">اختلاف کف دو بخش: ۰٫۴ متر</text>
+<text x="1180" y="792" class="body" direction="rtl">بخش اصلی: گنبد تا ارتفاع ۶٫۲ متر</text>
+<text x="1180" y="828" class="body" direction="rtl">نورگیر هشت‌ضلعی در رأس گنبد</text>
+<text x="1180" y="864" class="body" direction="rtl">بخش عقب: زیر بادگیر، شبکهٔ چوبی</text>
+<text x="1180" y="900" class="small" direction="rtl">بخش عقب فاقد سقف سازه‌ای است.</text>
+
+<rect x="35" y="1010" width="1430" height="70" rx="7" fill="#eeeae1" stroke="#c9c1b3"/>
+<text x="750" y="1040" text-anchor="middle" direction="rtl" class="small">همهٔ ابعاد به متر و برگرفته از شرح مقاله‌اند. مستطیل‌ها فقط پاکت ابعادی را نشان می‌دهند؛ بازشوها، ضخامت دیوارها و آرایش اجزای نامعلوم ترسیم نشده‌اند.</text>
+<text x="750" y="1065" text-anchor="middle" direction="rtl" class="tiny">Zolfagharkhani &amp; Foruzanmehr, Buildings 2024, 14(9), 2639 — Figures 2, 6, 10, 15; DOI: 10.3390/buildings14092639 (CC BY 4.0)</text>
 </svg>
