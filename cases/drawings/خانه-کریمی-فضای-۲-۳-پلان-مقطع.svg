@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" width="1500" height="1020" viewBox="0 0 1500 1020" role="img" aria-labelledby="t d">
+<title id="t">خانهٔ کریمی، یزد — فضای ۲٫۳، پلان و مقطع تحلیلی</title>
+<desc id="d">بازترسیم تحلیلی بر اساس Figure 6 و شرح مقالهٔ 2024. ابعاد اتاق 5.6 در 3.7 متر، ارتفاع 4.27 متر. پوشش به دو بخش تقسیم می‌شود: جلو گنبدی، عقب قوسی در عرض اتاق؛ فضای پشتیبان کوچک در لبهٔ شمالی.</desc>
+<defs><style>
+.bg{fill:#fbfaf7}.panel{fill:#fff;stroke:#cfc8ba;stroke-width:2}.h1{font-family:Vazirmatn,'Noto Sans Arabic',sans-serif;font-size:31px;font-weight:700;fill:#252b2e}.h2{font-family:Vazirmatn,'Noto Sans Arabic',sans-serif;font-size:22px;font-weight:700;fill:#30383c}.body{font-family:Vazirmatn,'Noto Sans Arabic',sans-serif;font-size:17px;fill:#30383c}.small{font-family:Vazirmatn,'Noto Sans Arabic',sans-serif;font-size:14px;fill:#60686a}.tiny{font-family:Vazirmatn,'Noto Sans Arabic',sans-serif;font-size:12px;fill:#697174}.wall{fill:#e7e0d3;stroke:#343a3c;stroke-width:5}.room{fill:#fff;stroke:#4b5355;stroke-width:2.5}.dim{stroke:#795f3f;stroke-width:2;fill:none}.dash{stroke:#9a8062;stroke-width:2.2;stroke-dasharray:8 6;fill:none}.note{fill:#f1eee7;stroke:#c9c0b2;stroke-width:1.5}.arrow{stroke:#247b9a;stroke-width:3;fill:none}.support{fill:#f7f4ed;stroke:#7b725f;stroke-width:2;stroke-dasharray:6 5}
+</style>
+<marker id="arr" viewBox="0 0 10 10" refX="8" refY="5" markerWidth="7" markerHeight="7" orient="auto"><path d="M0 0L10 5L0 10Z" fill="#247b9a"/></marker>
+</defs>
+<rect width="1500" height="1020" class="bg"/>
+<text x="750" y="52" text-anchor="middle" class="h1">خانهٔ کریمی، یزد — فضای ۲٫۳</text>
+<text x="750" y="83" text-anchor="middle" class="body">پلان و مقطع تحلیلی از Figure 6؛ اتاق دارای دو سامانهٔ متفاوت پوشش</text>
+<rect x="45" y="120" width="710" height="720" rx="10" class="panel"/>
+<text x="80" y="165" class="h2">۱. پلان اتاق</text>
+<text x="80" y="192" class="small">مستطیل ۵٫۶ × ۳٫۷ متر؛ فضای پشتیبان در لبهٔ شمالی</text>
+<!-- room plan -->
+<rect x="160" y="300" width="448" height="296" class="wall"/>
+<rect x="176" y="316" width="416" height="264" class="room"/>
+<text x="384" y="425" text-anchor="middle" class="body">فضای ۲٫۳</text>
+<text x="384" y="453" text-anchor="middle" class="small">مساحت تقریبی ۲۰٫۷۲ مترمربع</text>
+<!-- support room north edge; dimensions intentionally not assigned -->
+<rect x="300" y="225" width="170" height="75" class="support"/>
+<text x="385" y="256" text-anchor="middle" class="small">فضای پشتیبان</text>
+<text x="385" y="278" text-anchor="middle" class="tiny">در لبهٔ شمالی</text>
+<text x="620" y="243" class="small">شمال ↑</text>
+<!-- divided ceiling zoning indication in plan -->
+<line x1="384" y1="316" x2="384" y2="580" class="dash"/>
+<text x="280" y="520" text-anchor="middle" class="small">بخش پشتی</text>
+<text x="500" y="520" text-anchor="middle" class="small">بخش جلویی</text>
+<line x1="160" y1="270" x2="608" y2="270" class="dim"/>
+<line x1="160" y1="258" x2="160" y2="282" class="dim"/>
+<line x1="608" y1="258" x2="608" y2="282" class="dim"/>
+<text x="384" y="258" text-anchor="middle" class="body">۵٫۶ متر</text>
+<line x1="132" y1="300" x2="132" y2="596" class="dim"/>
+<line x1="120" y1="300" x2="144" y2="300" class="dim"/>
+<line x1="120" y1="596" x2="144" y2="596" class="dim"/>
+<text x="106" y="448" transform="rotate(-90 106 448)" text-anchor="middle" class="body">۳٫۷ متر</text>
+<!-- access arrows -->
+<path d="M80 660 C120 660 132 610 178 570" class="arrow" marker-end="url(#arr)"/>
+<text x="80" y="690" class="small">دسترسی از دالان</text>
+<path d="M650 660 C620 625 610 600 590 560" class="arrow" marker-end="url(#arr)"/>
+<text x="485" y="690" class="small">دسترسی از فضای درجهٔ اول نزدیک باغ</text>
+<text x="80" y="760" class="tiny">جای دقیق درگاه‌ها و اندازهٔ فضای پشتیبان در متن مقاله مشخص نشده؛ پیکان‌ها فقط دو مسیر دسترسی گزارش‌شده را نشان می‌دهند.</text>
+
+<rect x="785" y="120" width="670" height="720" rx="10" class="panel"/>
+<text x="820" y="165" class="h2">۲. مقطع از دو ناحیهٔ پوشش</text>
+<text x="820" y="192" class="small">بخش جلویی: گنبد؛ بخش پشتی: قوس در عرض اتاق</text>
+<!-- floor and walls -->
+<line x1="875" y1="725" x2="1380" y2="725" stroke="#343a3c" stroke-width="5"/>
+<path d="M900 725 L900 460 M1350 725 L1350 460" stroke="#343a3c" stroke-width="5" fill="none"/>
+<!-- rear cross arch schematic -->
+<path d="M900 460 Q1015 295 1130 460" class="dash"/>
+<text x="1015" y="330" text-anchor="middle" class="small">قوس عرضی</text>
+<text x="1015" y="352" text-anchor="middle" class="tiny">بخش پشتی / شاه‌نشین</text>
+<!-- dome schematic -->
+<path d="M1130 460 Q1240 220 1350 460" class="dash"/>
+<text x="1240" y="300" text-anchor="middle" class="small">گنبد</text>
+<text x="1240" y="322" text-anchor="middle" class="tiny">بخش جلویی</text>
+<line x1="875" y1="460" x2="1380" y2="460" class="dash"/>
+<line x1="1400" y1="460" x2="1400" y2="725" class="dim"/>
+<line x1="1388" y1="460" x2="1412" y2="460" class="dim"/>
+<line x1="1388" y1="725" x2="1412" y2="725" class="dim"/>
+<text x="1422" y="595" transform="rotate(90 1422 595)" text-anchor="middle" class="body">۴٫۲۷ متر</text>
+<text x="1125" y="770" text-anchor="middle" class="small">کف اتاق</text>
+<text x="820" y="798" class="tiny">نسبت طولی قوس و گنبد و انحنای دقیق آن‌ها در متن اندازه‌گذاری نشده؛ هر دو پوسته خط‌چین و شماتیک‌اند.</text>
+
+<rect x="45" y="865" width="1410" height="92" rx="8" class="note"/>
+<text x="80" y="902" class="body">داده‌های منبع: ۵٫۶ × ۳٫۷ متر؛ ارتفاع ۴٫۲۷ متر؛ دسترسی از فضای درجهٔ اول نزدیک باغ و از دالان؛ فضای پشتیبان در لبهٔ شمالی.</text>
+<text x="80" y="930" class="small">پوشش جلویی گنبد و پوشش پشتی قوس عرضی است؛ طول دقیق هر ناحیه و هندسهٔ منحنی‌ها از متن مقاله قابل استخراج نیست و در نقشه حدس زده نشده‌اند.</text>
+<text x="750" y="989" text-anchor="middle" class="tiny">Zolfagharkhani &amp; Foruzanmehr (2024), Figure 6, CC BY 4.0 — DOI: 10.3390/buildings14092639</text>
+</svg>
