@@ -1,0 +1,110 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" width="1600" height="1160" viewBox="0 0 1600 1160" role="img" aria-labelledby="title desc">
+<title id="title">بادگیر خانهٔ لاری‌ها در یزد — شیت پلان، نما، مقطع و عملکرد</title>
+<desc id="desc">بازترسیم تحلیلی مبتنی بر شکل‌های ۶ تا ۱۰ مقالهٔ Armanfar و Akdeniz در سال ۲۰۲۴. پلان خارجی با اندازه‌های ۶٫۱۹ در ۳٫۵۹ متر، شش کانال بدون حدس دربارهٔ آرایش آن‌ها، نما و دو مقطع با ترازهای گزارش‌شده.</desc>
+<defs>
+<style>
+.bg{fill:#fbfaf7}.panel{fill:#fff;stroke:#cfc8ba;stroke-width:2}.h1{font-family:Vazirmatn,'Noto Sans Arabic',sans-serif;font-size:33px;font-weight:700;fill:#20272b}.h2{font-family:Vazirmatn,'Noto Sans Arabic',sans-serif;font-size:23px;font-weight:700;fill:#30383c}.body{font-family:Vazirmatn,'Noto Sans Arabic',sans-serif;font-size:18px;fill:#30383c}.small{font-family:Vazirmatn,'Noto Sans Arabic',sans-serif;font-size:15px;fill:#596166}.tiny{font-family:Vazirmatn,'Noto Sans Arabic',sans-serif;font-size:13px;fill:#656d70}.dim{stroke:#795f3f;stroke-width:2;fill:none}.wall{stroke:#343a3c;stroke-width:5;fill:#eee9dd}.inner{stroke:#5c5b53;stroke-width:2.5;fill:none}.thin{stroke:#7a7f7e;stroke-width:1.5;fill:none}.dash{stroke:#a57c4b;stroke-width:2;stroke-dasharray:7 6;fill:none}.air{stroke:#247b9a;stroke-width:4;fill:none;stroke-linecap:round;stroke-linejoin:round}.hot{stroke:#b86b3b;stroke-width:3.5;fill:none;stroke-linecap:round}.brick{fill:#c9a78d;stroke:#694d3a;stroke-width:1.5}.plaster{fill:#e4dfd2;stroke:#77746b;stroke-width:1.5}.datum{stroke:#9a8b73;stroke-width:1.4;stroke-dasharray:4 5}
+</style>
+<marker id="blueArrow" viewBox="0 0 10 10" refX="8" refY="5" markerWidth="8" markerHeight="8" orient="auto-start-reverse"><path d="M0 0L10 5L0 10Z" fill="#247b9a"/></marker>
+<marker id="hotArrow" viewBox="0 0 10 10" refX="8" refY="5" markerWidth="7" markerHeight="7" orient="auto"><path d="M0 0L10 5L0 10Z" fill="#b86b3b"/></marker>
+</defs>
+<rect width="1600" height="1160" class="bg"/>
+<text x="800" y="55" text-anchor="middle" class="h1">خانهٔ لاری‌ها، یزد — بادگیر چهارجهتهٔ بخش تابستانی</text>
+<text x="800" y="88" text-anchor="middle" class="body">پروندهٔ موردی؛ بازترسیم تحلیلی از نقشه‌ها و داده‌های برداشت میدانیِ منتشرشده</text>
+<text x="800" y="116" text-anchor="middle" class="small">منبع پایه: Armanfar &amp; Akdeniz, 2024 — Figures 6–10 — ابعاد و ترازها فقط در حدود داده‌های منبع</text>
+
+<rect x="45" y="145" width="720" height="390" rx="9" class="panel"/>
+<text x="75" y="185" class="h2">۱. پلان خارجی بادگیر</text>
+<text x="75" y="211" class="small">مستطیل بیرونی برداشت‌شده؛ تقسیمات داخلی مربع و شش کانال در متن گزارش شده‌اند.</text>
+<rect x="190" y="270" width="420" height="244" class="wall"/>
+<rect x="211" y="291" width="378" height="202" class="inner"/>
+<text x="400" y="372" text-anchor="middle" class="body">پلان خارجی بادگیر</text>
+<text x="400" y="399" text-anchor="middle" class="small">تقسیمات داخلی: مربع‌گون</text>
+<text x="400" y="426" text-anchor="middle" class="small">۶ کانال تهویه — تعداد گزارش‌شده</text>
+<line x1="190" y1="248" x2="610" y2="248" class="dim"/>
+<line x1="190" y1="237" x2="190" y2="260" class="dim"/>
+<line x1="610" y1="237" x2="610" y2="260" class="dim"/>
+<text x="400" y="239" text-anchor="middle" class="body">۶٫۱۹ متر</text>
+<line x1="637" y1="270" x2="637" y2="514" class="dim"/>
+<line x1="626" y1="270" x2="648" y2="270" class="dim"/>
+<line x1="626" y1="514" x2="648" y2="514" class="dim"/>
+<text x="665" y="392" transform="rotate(90 665 392)" text-anchor="middle" class="body">۳٫۵۹ متر</text>
+<text x="75" y="488" class="small">مکان و اندازهٔ تک‌تک کانال‌ها در این شیت بازسازی نشده است.</text>
+
+<rect x="790" y="145" width="765" height="390" rx="9" class="panel"/>
+<text x="820" y="185" class="h2">۲. نما و ترازهای ارتفاعی</text>
+<text x="820" y="211" class="small">تقسیم‌بندی سه‌گانهٔ بدنه: بخش ورودی هوا، نوارهای آجری و بدنهٔ ساده</text>
+<path d="M1070 240 L1070 255 L1090 255 L1090 240 L1110 255 L1130 240 L1150 255 L1170 240 L1190 255 L1210 240 L1230 255 L1250 240 L1270 255 L1290 240 L1310 255 L1310 240" fill="none" stroke="#684c39" stroke-width="4"/>
+<rect x="1082" y="256" width="216" height="90" class="brick"/>
+<line x1="1095" y1="262" x2="1095" y2="338" stroke="#684c39" stroke-width="4"/><line x1="1118" y1="262" x2="1118" y2="338" stroke="#684c39" stroke-width="4"/><line x1="1141" y1="262" x2="1141" y2="338" stroke="#684c39" stroke-width="4"/><line x1="1164" y1="262" x2="1164" y2="338" stroke="#684c39" stroke-width="4"/><line x1="1187" y1="262" x2="1187" y2="338" stroke="#684c39" stroke-width="4"/><line x1="1210" y1="262" x2="1210" y2="338" stroke="#684c39" stroke-width="4"/><line x1="1233" y1="262" x2="1233" y2="338" stroke="#684c39" stroke-width="4"/><line x1="1256" y1="262" x2="1256" y2="338" stroke="#684c39" stroke-width="4"/><line x1="1279" y1="262" x2="1279" y2="338" stroke="#684c39" stroke-width="4"/>
+<rect x="1082" y="346" width="216" height="17" fill="#a97852" stroke="#694d3a" stroke-width="1.5"/>
+<rect x="1082" y="363" width="216" height="18" class="plaster"/>
+<path d="M1082 381 L1298 381 L1298 496 L1082 496Z" fill="#e5d7c6" stroke="#343a3c" stroke-width="4"/>
+<rect x="1082" y="381" width="216" height="17" fill="#b88a65" stroke="#694d3a" stroke-width="1.5"/>
+<rect x="1082" y="398" width="216" height="98" fill="#e5d7c6" stroke="#343a3c" stroke-width="1.5"/>
+<line x1="1050" y1="496" x2="1330" y2="496" stroke="#343a3c" stroke-width="4"/>
+<line x1="1045" y1="381" x2="1335" y2="381" class="datum"/>
+<line x1="1045" y1="363" x2="1335" y2="363" class="datum"/>
+<line x1="1045" y1="346" x2="1335" y2="346" class="datum"/>
+<line x1="1045" y1="256" x2="1335" y2="256" class="datum"/>
+<line x1="1045" y1="496" x2="1335" y2="496" class="datum"/>
+<text x="1350" y="262" class="small">ورودی هوا / شبکهٔ عمودی</text>
+<text x="1350" y="352" class="small">نوار آجری</text>
+<text x="1350" y="378" class="small">نوار تزئینی بدنه</text>
+<text x="1350" y="414" class="small">بدنهٔ ساده</text>
+<text x="1350" y="502" class="small">تراز بام / پایهٔ برج</text>
+<line x1="1012" y1="240" x2="1012" y2="496" class="dim"/>
+<line x1="1002" y1="240" x2="1022" y2="240" class="dim"/>
+<line x1="1002" y1="496" x2="1022" y2="496" class="dim"/>
+<text x="986" y="368" transform="rotate(-90 986 368)" text-anchor="middle" class="body">۱۹٫۷۴ متر از کف اتاق</text>
+<text x="820" y="524" class="small">عرض نما ترسیمی و غیرمقیاس است؛ منبع برای این نما در متن، اندازهٔ عرضی قطعی ارائه نمی‌کند.</text>
+
+<rect x="45" y="560" width="720" height="455" rx="9" class="panel"/>
+<text x="75" y="602" class="h2">۳. مقطع C–C — کانال چندخروجی</text>
+<text x="75" y="628" class="small">بازترسیم بر اساس Figure 8؛ ترازها عین مقادیر چاپ‌شده‌اند، عرض مقطع غیرمقیاس است.</text>
+<line x1="140" y1="965" x2="650" y2="965" stroke="#343a3c" stroke-width="4"/>
+<rect x="290" y="700" width="180" height="265" class="plaster"/>
+<rect x="313" y="710" width="134" height="245" fill="#fff" stroke="#77746b" stroke-width="2"/>
+<rect x="313" y="680" width="134" height="30" class="brick"/>
+<path d="M327 680 L327 653 L433 653 L433 680" fill="none" stroke="#684c39" stroke-width="4"/>
+<path d="M335 950 V895 Q380 845 425 895 V950" fill="none" stroke="#343a3c" stroke-width="3"/>
+<path d="M356 940 V915 Q380 885 404 915 V940" fill="none" stroke="#343a3c" stroke-width="2"/>
+<line x1="265" y1="700" x2="480" y2="700" class="datum"/>
+<line x1="265" y1="840" x2="480" y2="840" class="datum"/>
+<line x1="265" y1="965" x2="480" y2="965" class="datum"/>
+<text x="500" y="706" class="small">+8.83 / +8.48 — ترازهای نزدیک بام</text>
+<text x="500" y="846" class="small">+2.84</text>
+<text x="500" y="971" class="small">+0.00</text>
+<text x="380" y="775" text-anchor="middle" class="small">مسیر نزول هوا</text>
+<path d="M380 740 L380 875" class="air" marker-end="url(#blueArrow)"/>
+<path d="M380 910 C420 900 450 880 500 875" class="air" marker-end="url(#blueArrow)"/>
+<text x="75" y="1000" class="tiny">نمایش شماتیک خروجی‌های قوسی؛ شکل و تعداد دقیق دهانه‌ها باید با تصویر اصلی Figure 8 کنترل شود.</text>
+
+<rect x="790" y="560" width="765" height="455" rx="9" class="panel"/>
+<text x="820" y="602" class="h2">۴. مقطع D–D و رابطه با ایوان تابستانی</text>
+<text x="820" y="628" class="small">منبع: Figure 6 و Figure 8؛ مسیر عملکردی مطابق شرح نویسندگان</text>
+<rect x="920" y="690" width="150" height="274" class="plaster"/>
+<rect x="942" y="705" width="106" height="245" fill="#fff" stroke="#77746b" stroke-width="2"/>
+<rect x="920" y="660" width="150" height="30" class="brick"/>
+<path d="M940 660 V638 H1050 V660" fill="none" stroke="#684c39" stroke-width="4"/>
+<path d="M945 945 V900 Q995 845 1045 900 V945" fill="none" stroke="#343a3c" stroke-width="3"/>
+<text x="995" y="790" text-anchor="middle" class="small">بادگیر</text>
+<path d="M995 690 V875" class="air" marker-end="url(#blueArrow)"/>
+<path d="M1190 950 L1190 820 Q1270 695 1350 820 L1350 950" fill="#eee9dd" stroke="#343a3c" stroke-width="4"/>
+<line x1="1140" y1="950" x2="1450" y2="950" stroke="#343a3c" stroke-width="4"/>
+<text x="1270" y="890" text-anchor="middle" class="h2">ایوان باز</text>
+<text x="1270" y="918" text-anchor="middle" class="small">ارتباط با گذرگاه کوچک</text>
+<path d="M1070 880 C1110 880 1145 880 1190 880" class="air" marker-end="url(#blueArrow)"/>
+<path d="M1280 810 C1280 770 1280 730 1280 690" class="hot" marker-end="url(#hotArrow)"/>
+<text x="1360" y="710" class="small">هوای گرم</text>
+<text x="1360" y="732" class="small">به سمت حیاط</text>
+<text x="995" y="660" text-anchor="middle" class="small">ورودی هوا از بالا</text>
+<text x="995" y="990" text-anchor="middle" class="tiny">بخش زیرین بادگیر و گذرگاه</text>
+
+<rect x="45" y="1035" width="1510" height="92" rx="8" fill="#f0eee7" stroke="#cfc8ba" stroke-width="1.5"/>
+<text x="75" y="1070" class="body">داده‌های صریح منبع: پلان خارجی ۶٫۱۹ × ۳٫۵۹ متر؛ ۶ کانال؛ ارتفاع ۱۰٫۸۶ متر از بام و ۱۹٫۷۴ متر از کف اتاق؛ بادگیر چهارجهته.</text>
+<text x="75" y="1099" class="small">محدودیت: مکان دقیق کانال‌ها و برخی جزئیات مقطع در این شیت بازسازی نشده و باید با نقشهٔ چاپی Figure 7–8 کنترل نهایی شود. این شیت نقشهٔ اجرایی یا برداشت جدید نیست.</text>
+<text x="1520" y="1145" text-anchor="end" class="tiny">Armanfar &amp; Akdeniz (2024), Figures 6–10, DOI: 10.26835/my.1264810</text>
+<a href="https://dergipark.org.tr/tr/download/article-file/3009428"><text x="75" y="1145" class="tiny">منبع مقاله: Journal of Architecture and Life 9(1), pp. 87–113</text></a>
+</svg>
