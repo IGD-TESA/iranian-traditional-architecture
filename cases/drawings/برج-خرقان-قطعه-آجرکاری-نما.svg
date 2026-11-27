@@ -1,103 +1,17 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<svg xmlns="http://www.w3.org/2000/svg" width="1300" height="900" viewBox="0 0 1300 900" role="img" aria-labelledby="t d">
-<title id="t">برج شرقی خرقان — قطعهٔ آجرکاری نمای ثبت‌شده در شکل ۱۱</title>
-<desc id="d">بازترسیم تحلیلیِ بخشی از آرایهٔ آجری نمای برج شرقی خرقان از Figure 11 مقالهٔ Hassani و Rafiee در 2013. قطعه محدود به بخشی از نماست؛ اندازهٔ آجر، مقیاس و امتداد کامل نقش در مقاله اندازه‌گذاری نشده‌اند.</desc>
+<svg xmlns="http://www.w3.org/2000/svg" width="1100" height="650" viewBox="0 0 1100 650" role="img" aria-labelledby="t d">
+<title id="t">برج خرقان — ترسیم اولیهٔ آجرکاری از اعتبار خارج شده</title>
+<desc id="d">این فایل در مرحلهٔ اولیه با یک الگوی تکراری و بدون تطبیق دقیق با Figure 11 ساخته شده بود. از این رو، فرم آن به‌عنوان بازترسیم تاریخی معتبر نیست و باید از استفادهٔ طراحی و پژوهش کنار گذاشته شود.</desc>
 <defs><style>
-.bg{fill:#fbfaf7}.panel{fill:#fff;stroke:#cfc8ba;stroke-width:2}.h1{font-family:Vazirmatn,'Noto Sans Arabic',sans-serif;font-size:30px;font-weight:700;fill:#252b2e}.h2{font-family:Vazirmatn,'Noto Sans Arabic',sans-serif;font-size:21px;font-weight:700;fill:#30383c}.body{font-family:Vazirmatn,'Noto Sans Arabic',sans-serif;font-size:17px;fill:#30383c}.small{font-family:Vazirmatn,'Noto Sans Arabic',sans-serif;font-size:14px;fill:#60686a}.tiny{font-family:Vazirmatn,'Noto Sans Arabic',sans-serif;font-size:12px;fill:#697174}.brick{fill:#f4eee5;stroke:#584c40;stroke-width:2.3}.dim{stroke:#795f3f;stroke-width:2;fill:none}.note{fill:#f1eee7;stroke:#c9c0b2;stroke-width:1.5}
+.bg{fill:#faf9f6}.box{fill:#fff;stroke:#b9b1a4;stroke-width:2}.h{font-family:Vazirmatn,'Noto Sans Arabic',sans-serif;font-size:30px;font-weight:700;fill:#31383b}.body{font-family:Vazirmatn,'Noto Sans Arabic',sans-serif;font-size:18px;fill:#454d50}.small{font-family:Vazirmatn,'Noto Sans Arabic',sans-serif;font-size:15px;fill:#697174}.cross{stroke:#9c3d32;stroke-width:12;stroke-linecap:round}
 </style></defs>
-<rect width="1300" height="900" class="bg"/>
-<text x="650" y="52" text-anchor="middle" class="h1">برج شرقی خرقان — قطعهٔ آجرکاری نما</text>
-<text x="650" y="83" text-anchor="middle" class="body">بازترسیم تحلیلیِ بخشی از الگوی منتشرشده در Figure 11</text>
-<rect x="55" y="120" width="1190" height="650" rx="10" class="panel"/>
-<text x="90" y="165" class="h2">قطعهٔ نقش آجری</text>
-<text x="1200" y="165" text-anchor="end" class="small">بدون مقیاس و بدون اندازه‌گذاری آجر</text>
-<!-- border of the photographed fragment -->
-<rect x="210" y="220" width="880" height="475" fill="#f6f0e8" stroke="#584c40" stroke-width="3"/>
-<!-- diagonally interlocking brick fragments in running pattern -->
-<g class="brick">
-<path d="M250 300 L390 220 L435 220 L295 300 Z"/>
-<path d="M295 300 L435 220 L480 220 L340 300 Z"/>
-<path d="M340 300 L480 220 L525 220 L385 300 Z"/>
-<path d="M385 300 L525 220 L570 220 L430 300 Z"/>
-<path d="M430 300 L570 220 L615 220 L475 300 Z"/>
-<path d="M475 300 L615 220 L660 220 L520 300 Z"/>
-<path d="M520 300 L660 220 L705 220 L565 300 Z"/>
-<path d="M565 300 L705 220 L750 220 L610 300 Z"/>
-<path d="M610 300 L750 220 L795 220 L655 300 Z"/>
-<path d="M655 300 L795 220 L840 220 L700 300 Z"/>
-<path d="M700 300 L840 220 L885 220 L745 300 Z"/>
-<path d="M745 300 L885 220 L930 220 L790 300 Z"/>
-<path d="M790 300 L930 220 L975 220 L835 300 Z"/>
-<path d="M835 300 L975 220 L1020 220 L880 300 Z"/>
-
-<path d="M210 390 L350 310 L395 310 L255 390 Z"/>
-<path d="M255 390 L395 310 L440 310 L300 390 Z"/>
-<path d="M300 390 L440 310 L485 310 L345 390 Z"/>
-<path d="M345 390 L485 310 L530 310 L390 390 Z"/>
-<path d="M390 390 L530 310 L575 310 L435 390 Z"/>
-<path d="M435 390 L575 310 L620 310 L480 390 Z"/>
-<path d="M480 390 L620 310 L665 310 L525 390 Z"/>
-<path d="M525 390 L665 310 L710 310 L570 390 Z"/>
-<path d="M570 390 L710 310 L755 310 L615 390 Z"/>
-<path d="M615 390 L755 310 L800 310 L660 390 Z"/>
-<path d="M660 390 L800 310 L845 310 L705 390 Z"/>
-<path d="M705 390 L845 310 L890 310 L750 390 Z"/>
-<path d="M750 390 L890 310 L935 310 L795 390 Z"/>
-<path d="M795 390 L935 310 L980 310 L840 390 Z"/>
-<path d="M840 390 L980 310 L1025 310 L885 390 Z"/>
-<path d="M885 390 L1025 310 L1070 310 L930 390 Z"/>
-
-<path d="M210 480 L350 400 L395 400 L255 480 Z"/>
-<path d="M255 480 L395 400 L440 400 L300 480 Z"/>
-<path d="M300 480 L440 400 L485 400 L345 480 Z"/>
-<path d="M345 480 L485 400 L530 400 L390 480 Z"/>
-<path d="M390 480 L530 400 L575 400 L435 480 Z"/>
-<path d="M435 480 L575 400 L620 400 L480 480 Z"/>
-<path d="M480 480 L620 400 L665 400 L525 480 Z"/>
-<path d="M525 480 L665 400 L710 400 L570 480 Z"/>
-<path d="M570 480 L710 400 L755 400 L615 480 Z"/>
-<path d="M615 480 L755 400 L800 400 L660 480 Z"/>
-<path d="M660 480 L800 400 L845 400 L705 480 Z"/>
-<path d="M705 480 L845 400 L890 400 L750 480 Z"/>
-<path d="M750 480 L890 400 L935 400 L795 480 Z"/>
-<path d="M795 480 L935 400 L980 400 L840 480 Z"/>
-<path d="M840 480 L980 400 L1025 400 L885 480 Z"/>
-<path d="M885 480 L1025 400 L1070 400 L930 480 Z"/>
-
-<path d="M210 570 L350 490 L395 490 L255 570 Z"/>
-<path d="M255 570 L395 490 L440 490 L300 570 Z"/>
-<path d="M300 570 L440 490 L485 490 L345 570 Z"/>
-<path d="M345 570 L485 490 L530 490 L390 570 Z"/>
-<path d="M390 570 L530 490 L575 490 L435 570 Z"/>
-<path d="M435 570 L575 490 L620 490 L480 570 Z"/>
-<path d="M480 570 L620 490 L665 490 L525 570 Z"/>
-<path d="M525 570 L665 490 L710 490 L570 570 Z"/>
-<path d="M570 570 L710 490 L755 490 L615 570 Z"/>
-<path d="M615 570 L755 490 L800 490 L660 570 Z"/>
-<path d="M660 570 L800 490 L845 490 L705 570 Z"/>
-<path d="M705 570 L845 490 L890 490 L750 570 Z"/>
-<path d="M750 570 L890 490 L935 490 L795 570 Z"/>
-<path d="M795 570 L935 490 L980 490 L840 570 Z"/>
-<path d="M840 570 L980 490 L1025 490 L885 570 Z"/>
-<path d="M885 570 L1025 490 L1070 490 L930 570 Z"/>
-
-<path d="M250 660 L390 580 L435 580 L295 660 Z"/>
-<path d="M295 660 L435 580 L480 580 L340 660 Z"/>
-<path d="M340 660 L480 580 L525 580 L385 660 Z"/>
-<path d="M385 660 L525 580 L570 580 L430 660 Z"/>
-<path d="M430 660 L570 580 L615 580 L475 660 Z"/>
-<path d="M475 660 L615 580 L660 580 L520 660 Z"/>
-<path d="M520 660 L660 580 L705 580 L565 660 Z"/>
-<path d="M565 660 L705 580 L750 580 L610 660 Z"/>
-<path d="M610 660 L750 580 L795 580 L655 660 Z"/>
-<path d="M655 660 L795 580 L840 580 L700 660 Z"/>
-<path d="M700 660 L840 580 L885 580 L745 660 Z"/>
-<path d="M745 660 L885 580 L930 580 L790 660 Z"/>
-<path d="M790 660 L930 580 L975 580 L835 660 Z"/>
-</g>
-<text x="650" y="735" text-anchor="middle" class="tiny">قطعهٔ بازترسیم‌شده برای نمایش منطق بندهای مورب و تکرار آجری؛ جهت، ابعاد آجر و مرز کل نقش نیازمند کنترل تصویر با وضوح بالاتر است.</text>
-<rect x="55" y="800" width="1190" height="85" rx="8" class="note"/>
-<text x="90" y="835" class="body">مبنای تاریخی: Figure 11، بخشی از آجرکاری نمای برج شرقی خرقان، ترسیم CAD در مقالهٔ Hassani &amp; Rafiee (2013).</text>
-<text x="90" y="862" class="small">مقاله می‌گوید ترسیم آجرکاری فقط برای دو وجه از هشت وجه بنا تهیه شده است؛ این نمونه به همان قطعهٔ مستند محدود است و به همهٔ وجوه تعمیم ندارد.</text>
-<text x="650" y="930" text-anchor="middle" class="tiny">Hassani &amp; Rafiee (2013), Figure 11 — CC BY 3.0 — DOI: 10.5194/isprsarchives-XL-5-W2-313-2013</text>
+<rect width="1100" height="650" class="bg"/>
+<rect x="55" y="55" width="990" height="540" rx="12" class="box"/>
+<text x="550" y="125" text-anchor="middle" class="h">ترسیم اولیهٔ آجرکاری — از اعتبار خارج</text>
+<text x="550" y="180" text-anchor="middle" class="body">این تصویر با نقش واقعیِ مستند در Figure 11 تطبیق کافی ندارد.</text>
+<text x="550" y="215" text-anchor="middle" class="body">به‌عنوان الگوی تاریخی، مرجع کالبدی یا الگوی طراحی استفاده نشود.</text>
+<line x1="435" y1="275" x2="665" y2="455" class="cross"/>
+<line x1="665" y1="275" x2="435" y2="455" class="cross"/>
+<text x="550" y="510" text-anchor="middle" class="small">نسخهٔ پیشین در تاریخچهٔ Git باقی است؛ این جایگزین صرفاً هشدار وضعیت است.</text>
+<a href="https://link.springer.com/article/10.1007/s12210-023-01171-3/figures/12"><text x="550" y="555" text-anchor="middle" class="small">کیس مستند جدید: نقش هشت‌ضلعیِ درهم‌تنیده، Figure 12 (2023)</text></a>
 </svg>
