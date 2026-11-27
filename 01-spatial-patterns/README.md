@@ -14,7 +14,7 @@
 - حیاط اندرونی و بیرونی — [پیش‌نمایش SVG](drawings/004-hyat-andrvny-v-byrvny.svg)
 - گودال‌باغچه و سازمان‌دهی پیرامون فضای فرورفته — [پیش‌نمایش SVG](drawings/005-gvdal-baghchh-v-sazman-dhy-pyramvn-fzay-fr.svg)
 ### ب) الگوهای مبتنی بر ایوان و صفه
-- الگوی چهارایوانی — [پیش‌نمایش SVG](drawings/006-algvy-chharayvany.svg)
+- الگوی چهارایوانی — [پیش‌نمایش SVG](drawings/006-algvy-chharayvany.svg)؛ [کیس مستند: چهار ایوان مسجد جامع اصفهان، Photo 2-13](../cases/مسجد-جامع-اصفهان-چهارایوان-پوشش‌ها.md)
 - الگوی دوایوانی — [پیش‌نمایش SVG](drawings/007-algvy-dvayvany.svg)
 - الگوی یک‌ایوانی — [پیش‌نمایش SVG](drawings/008-algvy-yk-ayvany.svg)
 - الگوی سه‌ایوانی — [پیش‌نمایش SVG](drawings/009-algvy-sh-ayvany.svg)
