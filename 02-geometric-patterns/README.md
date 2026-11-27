@@ -5,42 +5,41 @@
 ## فهرست اولیهٔ مدخل‌ها
 
 ### الف) صورت‌های پایه
-- مربع
-- مستطیل
-- مربع مستطیل‌شده
-- دایره
-- نیم‌دایره
-- بیضی
-- مثلث و چندضلعی
-- هشت‌ضلعی
-- چندضلعی منتظم و نامنتظم
-
+- مربع — [پیش‌نمایش SVG](drawings/001-mrba.svg)
+- مستطیل — [پیش‌نمایش SVG](drawings/002-msttyl.svg)
+- مربع مستطیل‌شده — [پیش‌نمایش SVG](drawings/003-mrba-msttyl-shdh.svg)
+- دایره — [پیش‌نمایش SVG](drawings/004-dayrh.svg)
+- نیم‌دایره — [پیش‌نمایش SVG](drawings/005-nym-dayrh.svg)
+- بیضی — [پیش‌نمایش SVG](drawings/006-byzy.svg)
+- مثلث و چندضلعی — [پیش‌نمایش SVG](drawings/007-msls-v-chndzlay.svg)
+- هشت‌ضلعی — [پیش‌نمایش SVG](drawings/008-hsht-zlay.svg)
+- چندضلعی منتظم و نامنتظم — [پیش‌نمایش SVG](drawings/009-chndzlay-mntzm-v-namntzm.svg)
 ### ب) ترکیب‌بندی و تقسیمات
-- ترکیب مربع و مستطیل
-- تقسیمات سه‌بخشی
-- تقسیمات چهارقسمتی
-- نه‌بخشی
-- شبکه‌بندی هندسی
-- تکرار دهانه‌ها
-- ترکیب فضاهای هم‌اندازه و ناهم‌اندازه
-- هندسهٔ مرکزی و پیرامونی
-- ترکیب‌بندی محوری
-- ترکیب‌بندی شعاعی
-
+- ترکیب مربع و مستطیل — [پیش‌نمایش SVG](drawings/010-trkyb-mrba-v-msttyl.svg)
+- تقسیمات سه‌بخشی — [پیش‌نمایش SVG](drawings/011-tqsymat-sh-bkhshy.svg)
+- تقسیمات چهارقسمتی — [پیش‌نمایش SVG](drawings/012-tqsymat-chharqsmty.svg)
+- نه‌بخشی — [پیش‌نمایش SVG](drawings/013-nh-bkhshy.svg)
+- شبکه‌بندی هندسی — [پیش‌نمایش SVG](drawings/014-shbkh-bndy-hndsy.svg)
+- تکرار دهانه‌ها — [پیش‌نمایش SVG](drawings/015-tkrar-dhanh-ha.svg)
+- ترکیب فضاهای هم‌اندازه و ناهم‌اندازه — [پیش‌نمایش SVG](drawings/016-trkyb-fzahay-hm-andazh-v-nahm-andazh.svg)
+- هندسهٔ مرکزی و پیرامونی — [پیش‌نمایش SVG](drawings/017-hndsh-mrkzy-v-pyramvny.svg)
+- ترکیب‌بندی محوری — [پیش‌نمایش SVG](drawings/018-trkyb-bndy-mhvry.svg)
+- ترکیب‌بندی شعاعی — [پیش‌نمایش SVG](drawings/019-trkyb-bndy-shaaay.svg)
 ### پ) نظام‌های اندازه‌گذاری و تناسب
-- پیمون
-- مدول و مدول‌بندی
-- تناسبات طول و عرض
-- تناسبات ارتفاع و دهانه
-- تناسبات اجزای بازشو
-- تناسبات حیاط و جبهه‌های پیرامونی
-
+- پیمون — [پیش‌نمایش SVG](drawings/020-pymvn.svg)
+- مدول و مدول‌بندی — [پیش‌نمایش SVG](drawings/021-mdvl-v-mdvl-bndy.svg)
+- تناسبات طول و عرض — [پیش‌نمایش SVG](drawings/022-tnasbat-tvl-v-arz.svg)
+- تناسبات ارتفاع و دهانه — [پیش‌نمایش SVG](drawings/023-tnasbat-artfaa-v-dhanh.svg)
+- تناسبات اجزای بازشو — [پیش‌نمایش SVG](drawings/024-tnasbat-ajzay-bazshv.svg)
+- تناسبات حیاط و جبهه‌های پیرامونی — [پیش‌نمایش SVG](drawings/025-tnasbat-hyat-v-jbhh-hay-pyramvny.svg)
 ### ت) تبدیل هندسی و انتقال از پلان به پوشش
-- تبدیل مربع به هشت‌ضلعی
-- تبدیل هشت‌ضلعی به دایره
-- گوشه‌سازی در انتقال از چهارگوش به پوشش مدور
-- تبدیل هندسهٔ پلان به هندسهٔ طاق یا گنبد
-- تقاطع و ترکیب محورهای هندسی
+- تبدیل مربع به هشت‌ضلعی — [پیش‌نمایش SVG](drawings/026-tbdyl-mrba-bh-hsht-zlay.svg)
+- تبدیل هشت‌ضلعی به دایره — [پیش‌نمایش SVG](drawings/027-tbdyl-hsht-zlay-bh-dayrh.svg)
+- گوشه‌سازی در انتقال از چهارگوش به پوشش مدور — [پیش‌نمایش SVG](drawings/028-gvshh-sazy-dr-antqal-az-chhargvsh-bh-pvshs.svg)
+- تبدیل هندسهٔ پلان به هندسهٔ طاق یا گنبد — [پیش‌نمایش SVG](drawings/029-tbdyl-hndsh-plan-bh-hndsh-taq-ya-gnbd.svg)
+- تقاطع و ترکیب محورهای هندسی — [پیش‌نمایش SVG](drawings/030-tqata-v-trkyb-mhvrhay-hndsy.svg)
+
+> **راهنمای ترسیم:** پیوند «پیش‌نمایش SVG» فایل برداری مستقل همین مدخل را باز می‌کند. ترسیم‌ها شماتیک آموزشی و فاقد مقیاس‌اند؛ برای انتساب تاریخی یا منطقه‌ای باید با نمونه و منبع مستند تطبیق داده شوند.
 
 ## نکات روش‌شناختی
 

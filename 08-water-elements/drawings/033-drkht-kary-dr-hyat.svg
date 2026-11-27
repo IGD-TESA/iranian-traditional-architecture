@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" width="640" height="430" viewBox="0 0 640 430" role="img" aria-labelledby="ttl dsc">
+<title id="ttl">درخت‌کاری در حیاط — ترسیم شماتیک</title>
+<desc id="dsc">دیاگرام آموزشی درخت‌کاری در حیاط در معماری سنتی ایران. این ترسیم شماتیک عمومی است، مقیاس ندارد و به بنای تاریخی مشخصی منتسب نیست.</desc>
+<defs><pattern id="hatch" width="8" height="8" patternUnits="userSpaceOnUse"><path d="M0 8 L8 0" stroke="#9ca3af" stroke-width=".8"/></pattern></defs><rect width="640" height="430" fill="#fff"/>
+<text x="320" y="34" text-anchor="middle" direction="rtl" font-family="Vazirmatn, Noto Sans Arabic, sans-serif" font-size="21" font-weight="600" fill="#20252b">درخت‌کاری در حیاط</text>
+<line x1="44" y1="48" x2="596" y2="48" stroke="#d1d5db"/>
+<rect x="110" y="85" width="420" height="270" rx="0" fill="#fff" stroke="#252525" stroke-width="2"/><rect x="210" y="145" width="220" height="150" rx="0" fill="#dcebdc" stroke="#252525" stroke-width="1.5"/><line x1="160" y1="230" x2="160" y2="275" stroke="#657b52" stroke-width="2" /><circle cx="160" cy="215" r="18" fill="#dcebdc" stroke="#252525" stroke-width="1"/><line x1="240" y1="230" x2="240" y2="275" stroke="#657b52" stroke-width="2" /><circle cx="240" cy="215" r="18" fill="#dcebdc" stroke="#252525" stroke-width="1"/><line x1="320" y1="230" x2="320" y2="275" stroke="#657b52" stroke-width="2" /><circle cx="320" cy="215" r="18" fill="#dcebdc" stroke="#252525" stroke-width="1"/><line x1="400" y1="230" x2="400" y2="275" stroke="#657b52" stroke-width="2" /><circle cx="400" cy="215" r="18" fill="#dcebdc" stroke="#252525" stroke-width="1"/><line x1="480" y1="230" x2="480" y2="275" stroke="#657b52" stroke-width="2" /><circle cx="480" cy="215" r="18" fill="#dcebdc" stroke="#252525" stroke-width="1"/>
+<line x1="44" y1="390" x2="596" y2="390" stroke="#d1d5db"/>
+<text x="320" y="414" text-anchor="middle" direction="rtl" font-family="Vazirmatn, Noto Sans Arabic, sans-serif" font-size="12" fill="#64748b">شماتیک آموزشی • فاقد مقیاس • گونهٔ عمومی</text>
+</svg>

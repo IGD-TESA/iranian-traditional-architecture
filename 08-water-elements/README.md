@@ -4,52 +4,51 @@
 
 ## الف) حوض و آب‌نما
 
-- حوض مرکزی
-- حوض مستطیلی
-- حوض مربع
-- حوض چندضلعی
-- حوض مدور
-- حوضچه
-- آب‌نما
-- فواره
-- آبشار تزئینی
-- جوی آب
-- حوضخانه
-- حوض درون فضای سرپوشیده
-
+- حوض مرکزی — [پیش‌نمایش SVG](drawings/001-hvz-mrkzy.svg)
+- حوض مستطیلی — [پیش‌نمایش SVG](drawings/002-hvz-msttyly.svg)
+- حوض مربع — [پیش‌نمایش SVG](drawings/003-hvz-mrba.svg)
+- حوض چندضلعی — [پیش‌نمایش SVG](drawings/004-hvz-chndzlay.svg)
+- حوض مدور — [پیش‌نمایش SVG](drawings/005-hvz-mdvr.svg)
+- حوضچه — [پیش‌نمایش SVG](drawings/006-hvzchh.svg)
+- آب‌نما — [پیش‌نمایش SVG](drawings/007-ab-nma.svg)
+- فواره — [پیش‌نمایش SVG](drawings/008-fvarh.svg)
+- آبشار تزئینی — [پیش‌نمایش SVG](drawings/009-abshar-tzyny.svg)
+- جوی آب — [پیش‌نمایش SVG](drawings/010-jvy-ab.svg)
+- حوضخانه — [پیش‌نمایش SVG](drawings/011-hvzkhanh.svg)
+- حوض درون فضای سرپوشیده — [پیش‌نمایش SVG](drawings/012-hvz-drvn-fzay-srpvshydh.svg)
 ## ب) عناصر ذخیره و دسترسی به آب
 
-- آب‌انبار
-- مخزن آب
-- چاه
-- پایاب
-- پاشیر
-- دهانهٔ برداشت آب
-- مسیر ورودی و خروجی مخزن
-- آبراهه و کانال انتقال آب
-
+- آب‌انبار — [پیش‌نمایش SVG](drawings/013-ab-anbar.svg)
+- مخزن آب — [پیش‌نمایش SVG](drawings/014-mkhzn-ab.svg)
+- چاه — [پیش‌نمایش SVG](drawings/015-chah.svg)
+- پایاب — [پیش‌نمایش SVG](drawings/016-payab.svg)
+- پاشیر — [پیش‌نمایش SVG](drawings/017-pashyr.svg)
+- دهانهٔ برداشت آب — [پیش‌نمایش SVG](drawings/018-dhanh-brdasht-ab.svg)
+- مسیر ورودی و خروجی مخزن — [پیش‌نمایش SVG](drawings/019-msyr-vrvdy-v-khrvjy-mkhzn.svg)
+- آبراهه و کانال انتقال آب — [پیش‌نمایش SVG](drawings/020-abrahh-v-kanal-antqal-ab.svg)
 ## پ) عناصر هدایت، گردش و دفع آب
 
-- جوی
-- نهر
-- آب‌رو
-- کانال
-- آبریز
-- فواره
-- سرریز
-- مجرای تخلیه
-- کف‌شوی
-- آبچکان
-
+- جوی — [پیش‌نمایش SVG](drawings/021-jvy.svg)
+- نهر — [پیش‌نمایش SVG](drawings/022-nhr.svg)
+- آب‌رو — [پیش‌نمایش SVG](drawings/023-ab-rv.svg)
+- کانال — [پیش‌نمایش SVG](drawings/024-kanal.svg)
+- آبریز — [پیش‌نمایش SVG](drawings/025-abryz.svg)
+- فواره — [پیش‌نمایش SVG](drawings/008-fvarh.svg)
+- سرریز — [پیش‌نمایش SVG](drawings/026-srryz.svg)
+- مجرای تخلیه — [پیش‌نمایش SVG](drawings/027-mjray-tkhlyh.svg)
+- کف‌شوی — [پیش‌نمایش SVG](drawings/028-kf-shvy.svg)
+- آبچکان — [پیش‌نمایش SVG](drawings/029-abchkan.svg)
 ## ت) عناصر طبیعی و کاشت در ترکیب بنا
 
-- باغچهٔ مرکزی
-- باغچهٔ پیرامونی
-- باغچهٔ حیاط
-- درخت‌کاری در حیاط
-- فضای کاشت
-- حوض و باغچهٔ ترکیبی
-- بستر کاشت در فضای نیمه‌باز
+- باغچهٔ مرکزی — [پیش‌نمایش SVG](drawings/030-baghchh-mrkzy.svg)
+- باغچهٔ پیرامونی — [پیش‌نمایش SVG](drawings/031-baghchh-pyramvny.svg)
+- باغچهٔ حیاط — [پیش‌نمایش SVG](drawings/032-baghchh-hyat.svg)
+- درخت‌کاری در حیاط — [پیش‌نمایش SVG](drawings/033-drkht-kary-dr-hyat.svg)
+- فضای کاشت — [پیش‌نمایش SVG](drawings/034-fzay-kasht.svg)
+- حوض و باغچهٔ ترکیبی — [پیش‌نمایش SVG](drawings/035-hvz-v-baghchh-trkyby.svg)
+- بستر کاشت در فضای نیمه‌باز — [پیش‌نمایش SVG](drawings/036-bstr-kasht-dr-fzay-nymh-baz.svg)
+
+> **راهنمای ترسیم:** پیوند «پیش‌نمایش SVG» فایل برداری مستقل همین مدخل را باز می‌کند. ترسیم‌ها شماتیک آموزشی و فاقد مقیاس‌اند؛ برای انتساب تاریخی یا منطقه‌ای باید با نمونه و منبع مستند تطبیق داده شوند.
 
 ## نسبت آب و سازمان فضایی
 

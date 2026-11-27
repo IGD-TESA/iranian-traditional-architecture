@@ -4,80 +4,77 @@
 
 ## الف) آرایه‌ها و الگوهای هندسی
 
-- گره‌چینی
-- شمسه
-- ترنج
-- قاب‌بندی هندسی
-- شبکه‌بندی
-- چندضلعی‌های ستاره‌ای
-- نقوش تکرارشونده
-- نقوش هندسی ترکیبی
-- حاشیه و قاب
-- لچکی
-
+- گره‌چینی — [پیش‌نمایش SVG](drawings/001-grh-chyny.svg)
+- شمسه — [پیش‌نمایش SVG](drawings/002-shmsh.svg)
+- ترنج — [پیش‌نمایش SVG](drawings/003-trnj.svg)
+- قاب‌بندی هندسی — [پیش‌نمایش SVG](drawings/004-qab-bndy-hndsy.svg)
+- شبکه‌بندی — [پیش‌نمایش SVG](drawings/005-shbkh-bndy.svg)
+- چندضلعی‌های ستاره‌ای — [پیش‌نمایش SVG](drawings/006-chndzlay-hay-starh-ay.svg)
+- نقوش تکرارشونده — [پیش‌نمایش SVG](drawings/007-nqvsh-tkrarshvndh.svg)
+- نقوش هندسی ترکیبی — [پیش‌نمایش SVG](drawings/008-nqvsh-hndsy-trkyby.svg)
+- حاشیه و قاب — [پیش‌نمایش SVG](drawings/009-hashyh-v-qab.svg)
+- لچکی — [پیش‌نمایش SVG](drawings/010-lchky.svg)
 ## ب) نقوش گیاهی و نوشتاری
 
-- اسلیمی
-- ختایی
-- نقش گیاهی
-- نقوش انتزاعی گیاهی
-- کتیبه
-- نوشتار کوفی
-- کتیبه‌های ثلث و دیگر گونه‌های خط، در صورت احراز در نمونه
-- ترکیب نقش و نوشتار
-
+- اسلیمی — [پیش‌نمایش SVG](drawings/011-aslymy.svg)
+- ختایی — [پیش‌نمایش SVG](drawings/012-khtayy.svg)
+- نقش گیاهی — [پیش‌نمایش SVG](drawings/013-nqsh-gyahy.svg)
+- نقوش انتزاعی گیاهی — [پیش‌نمایش SVG](drawings/014-nqvsh-antzaay-gyahy.svg)
+- کتیبه — [پیش‌نمایش SVG](drawings/015-ktybh.svg)
+- نوشتار کوفی — [پیش‌نمایش SVG](drawings/016-nvshtar-kvfy.svg)
+- کتیبه‌های ثلث و دیگر گونه‌های خط، در صورت احراز در نمونه — [پیش‌نمایش SVG](drawings/017-ktybh-hay-sls-v-dygr-gvnh-hay-kht-dr-svrt-.svg)
+- ترکیب نقش و نوشتار — [پیش‌نمایش SVG](drawings/018-trkyb-nqsh-v-nvshtar.svg)
 ## پ) فنون گچ و اندود
 
-- گچ‌بری
-- گچ‌بری برجسته
-- گچ‌بری مشبک
-- گچ‌بری قالبی
-- نقاشی روی گچ
-- اندود تزئینی
-- قاب‌بندی گچی
-
+- گچ‌بری — [پیش‌نمایش SVG](drawings/019-gch-bry.svg)
+- گچ‌بری برجسته — [پیش‌نمایش SVG](drawings/020-gch-bry-brjsth.svg)
+- گچ‌بری مشبک — [پیش‌نمایش SVG](drawings/021-gch-bry-mshbk.svg)
+- گچ‌بری قالبی — [پیش‌نمایش SVG](drawings/022-gch-bry-qalby.svg)
+- نقاشی روی گچ — [پیش‌نمایش SVG](drawings/023-nqashy-rvy-gch.svg)
+- اندود تزئینی — [پیش‌نمایش SVG](drawings/024-andvd-tzyny.svg)
+- قاب‌بندی گچی — [پیش‌نمایش SVG](drawings/025-qab-bndy-gchy.svg)
 ## ت) فنون آجر و کاشی
 
-- آجرکاری تزئینی
-- آجرچینی خفته و راسته
-- آجرکاری نقش‌دار
-- کاشی‌کاری
-- کاشی معرق
-- کاشی هفت‌رنگ
-- کاشی معقلی
-- کاشی زرین‌فام
-- ترکیب آجر و کاشی
-- کتیبهٔ کاشی
-
+- آجرکاری تزئینی — [پیش‌نمایش SVG](drawings/026-ajrkary-tzyny.svg)
+- آجرچینی خفته و راسته — [پیش‌نمایش SVG](drawings/027-ajrchyny-khfth-v-rasth.svg)
+- آجرکاری نقش‌دار — [پیش‌نمایش SVG](drawings/028-ajrkary-nqsh-dar.svg)
+- کاشی‌کاری — [پیش‌نمایش SVG](drawings/029-kashy-kary.svg)
+- کاشی معرق — [پیش‌نمایش SVG](drawings/030-kashy-marq.svg)
+- کاشی هفت‌رنگ — [پیش‌نمایش SVG](drawings/031-kashy-hft-rng.svg)
+- کاشی معقلی — [پیش‌نمایش SVG](drawings/032-kashy-maqly.svg)
+- کاشی زرین‌فام — [پیش‌نمایش SVG](drawings/033-kashy-zryn-fam.svg)
+- ترکیب آجر و کاشی — [پیش‌نمایش SVG](drawings/034-trkyb-ajr-v-kashy.svg)
+- کتیبهٔ کاشی — [پیش‌نمایش SVG](drawings/035-ktybh-kashy.svg)
 ## ث) فنون آینه، سنگ و چوب
 
-- آینه‌کاری
-- حجاری
-- سنگ‌تراشی تزئینی
-- منبت‌کاری
-- مشبک‌کاری چوب
-- گره‌چینی چوب
-- خاتم‌کاری
-- نقاشی روی چوب
-- قاب‌بندی چوبی
-- درهای منبت و مشبک
-
+- آینه‌کاری — [پیش‌نمایش SVG](drawings/036-aynh-kary.svg)
+- حجاری — [پیش‌نمایش SVG](drawings/037-hjary.svg)
+- سنگ‌تراشی تزئینی — [پیش‌نمایش SVG](drawings/038-sng-trashy-tzyny.svg)
+- منبت‌کاری — [پیش‌نمایش SVG](drawings/039-mnbt-kary.svg)
+- مشبک‌کاری چوب — [پیش‌نمایش SVG](drawings/040-mshbk-kary-chvb.svg)
+- گره‌چینی چوب — [پیش‌نمایش SVG](drawings/041-grh-chyny-chvb.svg)
+- خاتم‌کاری — [پیش‌نمایش SVG](drawings/042-khatm-kary.svg)
+- نقاشی روی چوب — [پیش‌نمایش SVG](drawings/043-nqashy-rvy-chvb.svg)
+- قاب‌بندی چوبی — [پیش‌نمایش SVG](drawings/044-qab-bndy-chvby.svg)
+- درهای منبت و مشبک — [پیش‌نمایش SVG](drawings/045-drhay-mnbt-v-mshbk.svg)
 ## ج) اجزای معماری با نقش تزئینی یا قاب‌ساز
 
-- مقرنس
-- رسمی‌بندی
-- کاربندی
-- یزدی‌بندی
-- کاسه‌سازی
-- پتکانه
-- طاقچه
-- رف
-- قاب دیواری
-- فرورفتگی و پیش‌آمدگی دیوار
-- قرنیز
-- ازاره
-- نوار تزئینی
-- حاشیهٔ پیرامون بازشو
+- مقرنس — [پیش‌نمایش SVG](drawings/046-mqrns.svg)
+- رسمی‌بندی — [پیش‌نمایش SVG](drawings/047-rsmy-bndy.svg)
+- کاربندی — [پیش‌نمایش SVG](drawings/048-karbndy.svg)
+- یزدی‌بندی — [پیش‌نمایش SVG](drawings/049-yzdy-bndy.svg)
+- کاسه‌سازی — [پیش‌نمایش SVG](drawings/050-kash-sazy.svg)
+- پتکانه — [پیش‌نمایش SVG](drawings/051-ptkanh.svg)
+- طاقچه — [پیش‌نمایش SVG](drawings/052-taqchh.svg)
+- رف — [پیش‌نمایش SVG](drawings/053-rf.svg)
+- قاب دیواری — [پیش‌نمایش SVG](drawings/054-qab-dyvary.svg)
+- فرورفتگی و پیش‌آمدگی دیوار — [پیش‌نمایش SVG](drawings/055-frvrftgy-v-pysh-amdgy-dyvar.svg)
+- قرنیز — [پیش‌نمایش SVG](drawings/056-qrnyz.svg)
+- ازاره — [پیش‌نمایش SVG](drawings/057-azarh.svg)
+- نوار تزئینی — [پیش‌نمایش SVG](drawings/058-nvar-tzyny.svg)
+- حاشیهٔ پیرامون بازشو — [پیش‌نمایش SVG](drawings/059-hashyh-pyramvn-bazshv.svg)
+
+> **راهنمای ترسیم:** پیوند «پیش‌نمایش SVG» فایل برداری مستقل همین مدخل را باز می‌کند. ترسیم‌ها شماتیک آموزشی و فاقد مقیاس‌اند؛ برای انتساب تاریخی یا منطقه‌ای باید با نمونه و منبع مستند تطبیق داده شوند.
 
 ## تفکیک فن، نقش و عنصر
 

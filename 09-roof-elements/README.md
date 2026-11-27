@@ -4,47 +4,46 @@
 
 ## الف) گونه‌های کالبدی بام و پوشش
 
-- بام تخت
-- بام شیب‌دار
-- بام گنبدی
-- بام طاقی
-- بام مرکب
-- بام چندسطحی
-- پوشش گنبدی
-- پوشش طاقی
-- پوشش خرپشته‌ای یا دارای عناصر فوقانی (با تعیین مصداق)
-
+- بام تخت — [پیش‌نمایش SVG](drawings/001-bam-tkht.svg)
+- بام شیب‌دار — [پیش‌نمایش SVG](drawings/002-bam-shyb-dar.svg)
+- بام گنبدی — [پیش‌نمایش SVG](drawings/003-bam-gnbdy.svg)
+- بام طاقی — [پیش‌نمایش SVG](drawings/004-bam-taqy.svg)
+- بام مرکب — [پیش‌نمایش SVG](drawings/005-bam-mrkb.svg)
+- بام چندسطحی — [پیش‌نمایش SVG](drawings/006-bam-chndsthy.svg)
+- پوشش گنبدی — [پیش‌نمایش SVG](drawings/007-pvshsh-gnbdy.svg)
+- پوشش طاقی — [پیش‌نمایش SVG](drawings/008-pvshsh-taqy.svg)
+- پوشش خرپشته‌ای یا دارای عناصر فوقانی (با تعیین مصداق) — [پیش‌نمایش SVG](drawings/009-pvshsh-khrpshth-ay-ya-daray-anasr-fvqany-b.svg)
 ## ب) لبه و حفاظت پیرامونی
 
-- جان‌پناه
-- دست‌انداز بام
-- کنگره
-- رخ‌بام
-- لبهٔ بام
-- پیش‌آمدگی بام
-- قرنیز لبه
-- آبچکان
-- آب‌برگردان
-
+- جان‌پناه — [پیش‌نمایش SVG](drawings/010-jan-pnah.svg)
+- دست‌انداز بام — [پیش‌نمایش SVG](drawings/011-dst-andaz-bam.svg)
+- کنگره — [پیش‌نمایش SVG](drawings/012-kngrh.svg)
+- رخ‌بام — [پیش‌نمایش SVG](drawings/013-rkh-bam.svg)
+- لبهٔ بام — [پیش‌نمایش SVG](drawings/014-lbh-bam.svg)
+- پیش‌آمدگی بام — [پیش‌نمایش SVG](drawings/015-pysh-amdgy-bam.svg)
+- قرنیز لبه — [پیش‌نمایش SVG](drawings/016-qrnyz-lbh.svg)
+- آبچکان — [پیش‌نمایش SVG](drawings/017-abchkan.svg)
+- آب‌برگردان — [پیش‌نمایش SVG](drawings/018-ab-brgrdan.svg)
 ## پ) دفع و هدایت آب باران
 
-- ناودان
-- ناودان عمودی
-- آب‌رو
-- آبچکان
-- مجرای تخلیه
-- کف‌سازی شیب‌دار
-- آبرو یا مجرای پیرامونی
-
+- ناودان — [پیش‌نمایش SVG](drawings/019-navdan.svg)
+- ناودان عمودی — [پیش‌نمایش SVG](drawings/020-navdan-amvdy.svg)
+- آب‌رو — [پیش‌نمایش SVG](drawings/021-ab-rv.svg)
+- آبچکان — [پیش‌نمایش SVG](drawings/017-abchkan.svg)
+- مجرای تخلیه — [پیش‌نمایش SVG](drawings/022-mjray-tkhlyh.svg)
+- کف‌سازی شیب‌دار — [پیش‌نمایش SVG](drawings/023-kf-sazy-shyb-dar.svg)
+- آبرو یا مجرای پیرامونی — [پیش‌نمایش SVG](drawings/024-abrv-ya-mjray-pyramvny.svg)
 ## ت) عناصر فوقانی و دسترسی
 
-- خرپشته
-- راه‌پلهٔ دسترسی به بام
-- نورگیر بام
-- روزن سقفی
-- دریچهٔ دسترسی
-- جان‌پناه پیرامونی
-- فضای قابل استفادهٔ بام
+- خرپشته — [پیش‌نمایش SVG](drawings/025-khrpshth.svg)
+- راه‌پلهٔ دسترسی به بام — [پیش‌نمایش SVG](drawings/026-rah-plh-dstrsy-bh-bam.svg)
+- نورگیر بام — [پیش‌نمایش SVG](drawings/027-nvrgyr-bam.svg)
+- روزن سقفی — [پیش‌نمایش SVG](drawings/028-rvzn-sqfy.svg)
+- دریچهٔ دسترسی — [پیش‌نمایش SVG](drawings/029-drychh-dstrsy.svg)
+- جان‌پناه پیرامونی — [پیش‌نمایش SVG](drawings/030-jan-pnah-pyramvny.svg)
+- فضای قابل استفادهٔ بام — [پیش‌نمایش SVG](drawings/031-fzay-qabl-astfadh-bam.svg)
+
+> **راهنمای ترسیم:** پیوند «پیش‌نمایش SVG» فایل برداری مستقل همین مدخل را باز می‌کند. ترسیم‌ها شماتیک آموزشی و فاقد مقیاس‌اند؛ برای انتساب تاریخی یا منطقه‌ای باید با نمونه و منبع مستند تطبیق داده شوند.
 
 ## نکات تحلیل کالبدی و عملکردی
 

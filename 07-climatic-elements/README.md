@@ -4,63 +4,61 @@
 
 ## الف) عناصر باد و تهویه
 
-- بادگیر
-- بادخان
-- بادخور
-- خیشخان
-- روزن تهویه
-- بازشوهای مقابل هم
-- دریچهٔ تنظیم هوا
-- مجرای انتقال هوا
-- کانال زیرزمینی هوا
-- تهویهٔ طبیعی از طریق حیاط و فضاهای میانی
-
+- بادگیر — [پیش‌نمایش SVG](drawings/001-badgyr.svg)
+- بادخان — [پیش‌نمایش SVG](drawings/002-badkhan.svg)
+- بادخور — [پیش‌نمایش SVG](drawings/003-badkhvr.svg)
+- خیشخان — [پیش‌نمایش SVG](drawings/004-khyshkhan.svg)
+- روزن تهویه — [پیش‌نمایش SVG](drawings/005-rvzn-thvyh.svg)
+- بازشوهای مقابل هم — [پیش‌نمایش SVG](drawings/006-bazshvhay-mqabl-hm.svg)
+- دریچهٔ تنظیم هوا — [پیش‌نمایش SVG](drawings/007-drychh-tnzym-hva.svg)
+- مجرای انتقال هوا — [پیش‌نمایش SVG](drawings/008-mjray-antqal-hva.svg)
+- کانال زیرزمینی هوا — [پیش‌نمایش SVG](drawings/009-kanal-zyrzmyny-hva.svg)
+- تهویهٔ طبیعی از طریق حیاط و فضاهای میانی — [پیش‌نمایش SVG](drawings/010-thvyh-tbyay-az-tryq-hyat-v-fzahay-myany.svg)
 ## ب) عناصر نورگیری و کنترل تابش
 
-- روزن
-- هورنو
-- نورگیر سقفی
-- نورگیر گنبد
-- جامخانه
-- شباک
-- ارسی
-- سایه‌بان
-- رواق
-- ایوان
-- پیش‌آمدگی بام
-- شبکهٔ کنترل نور
-
+- روزن — [پیش‌نمایش SVG](drawings/011-rvzn.svg)
+- هورنو — [پیش‌نمایش SVG](drawings/012-hvrnv.svg)
+- نورگیر سقفی — [پیش‌نمایش SVG](drawings/013-nvrgyr-sqfy.svg)
+- نورگیر گنبد — [پیش‌نمایش SVG](drawings/014-nvrgyr-gnbd.svg)
+- جامخانه — [پیش‌نمایش SVG](drawings/015-jamkhanh.svg)
+- شباک — [پیش‌نمایش SVG](drawings/016-shbak.svg)
+- ارسی — [پیش‌نمایش SVG](drawings/017-arsy.svg)
+- سایه‌بان — [پیش‌نمایش SVG](drawings/018-sayh-ban.svg)
+- رواق — [پیش‌نمایش SVG](drawings/019-rvaq.svg)
+- ایوان — [پیش‌نمایش SVG](drawings/020-ayvan.svg)
+- پیش‌آمدگی بام — [پیش‌نمایش SVG](drawings/021-pysh-amdgy-bam.svg)
+- شبکهٔ کنترل نور — [پیش‌نمایش SVG](drawings/022-shbkh-kntrl-nvr.svg)
 ## پ) عناصر مرتبط با خنک‌سازی و ذخیرهٔ سرما
 
-- سرداب
-- زیرزمین خنک
-- شوادان
-- حوضخانه
-- آب‌نما
-- مجرای هوای زیرزمینی
-- فضای نیمه‌باز سایه‌دار
-- دیوارها و پوشش‌های با جرم حرارتی بالا (به‌عنوان ویژگی کالبدی، نه نام یک عنصر مستقل)
-
+- سرداب — [پیش‌نمایش SVG](drawings/023-srdab.svg)
+- زیرزمین خنک — [پیش‌نمایش SVG](drawings/024-zyrzmyn-khnk.svg)
+- شوادان — [پیش‌نمایش SVG](drawings/025-shvadan.svg)
+- حوضخانه — [پیش‌نمایش SVG](drawings/026-hvzkhanh.svg)
+- آب‌نما — [پیش‌نمایش SVG](drawings/027-ab-nma.svg)
+- مجرای هوای زیرزمینی — [پیش‌نمایش SVG](drawings/028-mjray-hvay-zyrzmyny.svg)
+- فضای نیمه‌باز سایه‌دار — [پیش‌نمایش SVG](drawings/029-fzay-nymh-baz-sayh-dar.svg)
+- دیوارها و پوشش‌های با جرم حرارتی بالا (به‌عنوان ویژگی کالبدی، نه نام یک عنصر مستقل) — [پیش‌نمایش SVG](drawings/030-dyvarha-v-pvshsh-hay-ba-jrm-hrarty-bala-bh.svg)
 ## ت) عناصر گرمایش و دفع دود
 
-- آتشدان
-- شومینه
-- بخاری دیواری
-- محل آتش
-- دودکش
-- مجرای دفع دود
-- تون حمام
-- گلخن
-
+- آتشدان — [پیش‌نمایش SVG](drawings/031-atshdan.svg)
+- شومینه — [پیش‌نمایش SVG](drawings/032-shvmynh.svg)
+- بخاری دیواری — [پیش‌نمایش SVG](drawings/033-bkhary-dyvary.svg)
+- محل آتش — [پیش‌نمایش SVG](drawings/034-mhl-atsh.svg)
+- دودکش — [پیش‌نمایش SVG](drawings/035-dvdksh.svg)
+- مجرای دفع دود — [پیش‌نمایش SVG](drawings/036-mjray-dfa-dvd.svg)
+- تون حمام — [پیش‌نمایش SVG](drawings/037-tvn-hmam.svg)
+- گلخن — [پیش‌نمایش SVG](drawings/038-glkhn.svg)
 ## ث) عناصر انتقال و مدیریت آب
 
-- آب‌رو
-- ناودان
-- کانال انتقال آب
-- آب‌انبار
-- چاه
-- پایاب
-- مجرای تخلیه و زهکشی
+- آب‌رو — [پیش‌نمایش SVG](drawings/039-ab-rv.svg)
+- ناودان — [پیش‌نمایش SVG](drawings/040-navdan.svg)
+- کانال انتقال آب — [پیش‌نمایش SVG](drawings/041-kanal-antqal-ab.svg)
+- آب‌انبار — [پیش‌نمایش SVG](drawings/042-ab-anbar.svg)
+- چاه — [پیش‌نمایش SVG](drawings/043-chah.svg)
+- پایاب — [پیش‌نمایش SVG](drawings/044-payab.svg)
+- مجرای تخلیه و زهکشی — [پیش‌نمایش SVG](drawings/045-mjray-tkhlyh-v-zhkshy.svg)
+
+> **راهنمای ترسیم:** پیوند «پیش‌نمایش SVG» فایل برداری مستقل همین مدخل را باز می‌کند. ترسیم‌ها شماتیک آموزشی و فاقد مقیاس‌اند؛ برای انتساب تاریخی یا منطقه‌ای باید با نمونه و منبع مستند تطبیق داده شوند.
 
 ## اصول تحلیل عملکرد
 

@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" width="640" height="430" viewBox="0 0 640 430" role="img" aria-labelledby="ttl dsc">
+<title id="ttl">پنجرهٔ ارسی — ترسیم شماتیک</title>
+<desc id="dsc">دیاگرام آموزشی پنجرهٔ ارسی در معماری سنتی ایران. این ترسیم شماتیک عمومی است، مقیاس ندارد و به بنای تاریخی مشخصی منتسب نیست.</desc>
+<defs><pattern id="hatch" width="8" height="8" patternUnits="userSpaceOnUse"><path d="M0 8 L8 0" stroke="#9ca3af" stroke-width=".8"/></pattern></defs><rect width="640" height="430" fill="#fff"/>
+<text x="320" y="34" text-anchor="middle" direction="rtl" font-family="Vazirmatn, Noto Sans Arabic, sans-serif" font-size="21" font-weight="600" fill="#20252b">پنجرهٔ ارسی</text>
+<line x1="44" y1="48" x2="596" y2="48" stroke="#d1d5db"/>
+<line x1="80" y1="355" x2="560" y2="355" stroke="#252525" stroke-width="2" /><rect x="140" y="80" width="360" height="275" rx="0" fill="#fff" stroke="#252525" stroke-width="2"/><rect x="110" y="125" width="74" height="165" rx="0" fill="#d9e7ee" stroke="#252525" stroke-width="1.4"/><line x1="147" y1="125" x2="147" y2="290" stroke="#252525" stroke-width="1" /><rect x="194" y="125" width="74" height="165" rx="0" fill="#d9e7ee" stroke="#252525" stroke-width="1.4"/><line x1="231" y1="125" x2="231" y2="290" stroke="#252525" stroke-width="1" /><rect x="278" y="125" width="74" height="165" rx="0" fill="#d9e7ee" stroke="#252525" stroke-width="1.4"/><line x1="315" y1="125" x2="315" y2="290" stroke="#252525" stroke-width="1" /><rect x="362" y="125" width="74" height="165" rx="0" fill="#d9e7ee" stroke="#252525" stroke-width="1.4"/><line x1="399" y1="125" x2="399" y2="290" stroke="#252525" stroke-width="1" /><rect x="446" y="125" width="74" height="165" rx="0" fill="#d9e7ee" stroke="#252525" stroke-width="1.4"/><line x1="483" y1="125" x2="483" y2="290" stroke="#252525" stroke-width="1" />
+<line x1="44" y1="390" x2="596" y2="390" stroke="#d1d5db"/>
+<text x="320" y="414" text-anchor="middle" direction="rtl" font-family="Vazirmatn, Noto Sans Arabic, sans-serif" font-size="12" fill="#64748b">شماتیک آموزشی • فاقد مقیاس • گونهٔ عمومی</text>
+</svg>
