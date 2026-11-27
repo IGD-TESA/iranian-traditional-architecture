@@ -1,11 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<svg xmlns="http://www.w3.org/2000/svg" width="640" height="430" viewBox="0 0 640 430" role="img" aria-labelledby="ttl dsc">
-<title id="ttl">ترکیب مربع و مستطیل — ترسیم شماتیک</title>
-<desc id="dsc">دیاگرام آموزشی ترکیب مربع و مستطیل در معماری سنتی ایران. این ترسیم شماتیک عمومی است، مقیاس ندارد و به بنای تاریخی مشخصی منتسب نیست.</desc>
-<defs><pattern id="hatch" width="8" height="8" patternUnits="userSpaceOnUse"><path d="M0 8 L8 0" stroke="#9ca3af" stroke-width=".8"/></pattern></defs><rect width="640" height="430" fill="#fff"/>
+<svg xmlns="http://www.w3.org/2000/svg" width="640" height="430" viewBox="0 0 640 430" role="img" aria-labelledby="title desc">
+<title id="title">ترکیب مربع و مستطیل — ترسیم شماتیک بازبینی‌شده</title><desc id="desc">ترکیب دو واحد هندسی با نسبت‌های متفاوت؛ محل اتصال و هم‌محوری در نمونهٔ واقعی باید از پلان برداشت‌شده استخراج شود.</desc>
+<rect width="640" height="430" fill="#fff"/>
 <text x="320" y="34" text-anchor="middle" direction="rtl" font-family="Vazirmatn, Noto Sans Arabic, sans-serif" font-size="21" font-weight="600" fill="#20252b">ترکیب مربع و مستطیل</text>
-<line x1="44" y1="48" x2="596" y2="48" stroke="#d1d5db"/>
-<rect x="205" y="105" width="230" height="230" rx="0" fill="#e7edf1" stroke="#252525" stroke-width="2.4"/>
-<line x1="44" y1="390" x2="596" y2="390" stroke="#d1d5db"/>
+<line x1="44" y1="48" x2="596" y2="48" stroke="#d1d5db" stroke-width="1"/>
+<rect x="95" y="125" width="190" height="190" fill="#e7edf1" stroke="#252525" stroke-width="3"/><rect x="285" y="175" width="255" height="140" fill="#d9e7ee" stroke="#252525" stroke-width="3"/><line x1="285" y1="95" x2="285" y2="340" stroke="#64748b" stroke-width="1.5" stroke-dasharray="6 5"/><text x="190" y="225" text-anchor="middle" font-size="15" direction="rtl">مربع</text><text x="412" y="250" text-anchor="middle" font-size="15" direction="rtl">مستطیل</text>
+<line x1="44" y1="390" x2="596" y2="390" stroke="#d1d5db" stroke-width="1"/>
 <text x="320" y="414" text-anchor="middle" direction="rtl" font-family="Vazirmatn, Noto Sans Arabic, sans-serif" font-size="12" fill="#64748b">شماتیک آموزشی • فاقد مقیاس • گونهٔ عمومی</text>
 </svg>
