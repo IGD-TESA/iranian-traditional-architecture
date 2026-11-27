@@ -66,3 +66,18 @@
 **زبان اصلی مخزن:** فارسی  
 **دامنهٔ اصلی:** معماری سنتی ایران در مقیاس بنا و عناصر کالبدی  
 **وضعیت:** در حال توسعه
+
+
+## اطلس ترسیم‌های معماری
+
+برای مشاهدهٔ ترسیم‌های برداری هر گروه، از اطلس‌های تصویری زیر استفاده کنید:
+
+- [الگوهای فضایی](01-spatial-patterns/drawings/README.md)
+- [الگوهای هندسی](02-geometric-patterns/drawings/README.md)
+- [فضاها و اجزای کالبدی](03-architectural-spaces/drawings/README.md)
+- [بازشوها](04-openings/drawings/README.md)
+- [عناصر سازه‌ای](05-structural-elements/drawings/README.md)
+- [تزئینات](06-decorative-elements/drawings/README.md)
+- [عناصر اقلیمی](07-climatic-elements/drawings/README.md)
+- [عناصر آب](08-water-elements/drawings/README.md)
+- [بام و لبه‌ها](09-roof-elements/drawings/README.md)
