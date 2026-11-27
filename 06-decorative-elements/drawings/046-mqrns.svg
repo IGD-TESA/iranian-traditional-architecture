@@ -1,13 +1,108 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<svg xmlns="http://www.w3.org/2000/svg" width="900" height="560" viewBox="0 0 900 560" role="img" aria-labelledby="title desc">
-<title id="title">مقرنس — فاقد ترسیم معتبر</title>
-<desc id="desc">هیچ فرم معماری در این صفحه نمایش داده نشده است؛ تا زمان دستیابی به سند معتبر یک کیس مشخص، ترسیم انجام نمی‌شود.</desc>
-<rect width="900" height="560" fill="#fff"/><rect x="24" y="24" width="852" height="512" rx="6" fill="#faf9f6" stroke="#948a7d" stroke-width="2"/>
-<rect x="24" y="24" width="852" height="78" fill="#403b35"/><text x="450" y="74" text-anchor="middle" font-family="Vazirmatn,Noto Sans Arabic,sans-serif" font-size="30" fill="#fff">مقرنس</text>
-<text x="450" y="184" text-anchor="middle" font-family="Vazirmatn,Noto Sans Arabic,sans-serif" font-size="25" font-weight="700" fill="#8b3f32">ترسیم معتبر موجود نیست</text>
-<text x="450" y="230" text-anchor="middle" font-family="Vazirmatn,Noto Sans Arabic,sans-serif" font-size="19" fill="#292722">وضعیت: نیازمند کیس واقعی و سند قابل ارجاع</text>
-<line x1="100" y1="272" x2="800" y2="272" stroke="#c9c2b8" stroke-width="2"/>
-<text x="450" y="325" text-anchor="middle" font-family="Vazirmatn,Noto Sans Arabic,sans-serif" font-size="17" fill="#4a453e">نیازمند برداشت هندسی/سه‌بعدی و تصاویر همان مقرنس در یک بنای ایرانی مشخص.</text>
-<text x="450" y="380" text-anchor="middle" font-family="Vazirmatn,Noto Sans Arabic,sans-serif" font-size="16" fill="#4a453e">ابعاد، هندسه، نما، مقطع یا جزئیات از روی حدس ساخته نمی‌شوند.</text>
-<text x="450" y="435" text-anchor="middle" font-family="Vazirmatn,Noto Sans Arabic,sans-serif" font-size="14" fill="#6a6258">نسخهٔ پیشین در تاریخچهٔ Git باقی است، اما مرجع معتبر اطلس نیست.</text>
-<text x="450" y="488" text-anchor="middle" font-family="Vazirmatn,Noto Sans Arabic,sans-serif" font-size="13" fill="#8a8277">DOCUMENTATION REQUIRED — NO ASSUMPTIONS</text></svg>
+<svg xmlns="http://www.w3.org/2000/svg" width="1360" height="1040" viewBox="0 0 1360 1040" role="img" aria-labelledby="t d">
+<title id="t">مقرنس ایوان ورودی مسجد شاه اصفهان؛ اجزای سلولی و ردیف‌بندی</title>
+<desc id="d">شیت تحلیلیِ اجزای مقرنس بر پایهٔ مقالهٔ Gherardini و Leali (2016) دربارهٔ مقرنس گچی ایوان ورودی مسجد شاه/امام اصفهان. هر سلول از دو وجه عمودی و یک یا دو سطح پوشش تشکیل می‌شود؛ عنصر واسط میان پوشش دو سلول مجاور ممکن است یک مثلث یا دو مثلث باشد؛ سلول‌های مجاور با تراز پایهٔ برابر یک ردیف یا tier می‌سازند. مقاله برای نمونهٔ مسجد شاه ستاره‌های چهار، پنج، هفت و گاه هشت‌پر و چندضلعی‌های مقعر نامنظم را گزارش می‌کند و بازسازی فتوگرامتری را بر پایهٔ ۲۷ عکس انجام داده است. این شیت اجزای نظام را توضیح می‌دهد و هندسهٔ کامل یا ابعاد اجرایی مقرنس مسجد شاه را بازسازی نمی‌کند.</desc>
+<defs>
+ <style>
+ .bg{fill:#f8f7f3}.panel{fill:#fff;stroke:#c9c4ba;stroke-width:2}
+ .title{font-family:Vazirmatn,'Noto Sans Arabic',sans-serif;font-size:29px;font-weight:700;fill:#20282d}
+ .subtitle{font-family:Vazirmatn,'Noto Sans Arabic',sans-serif;font-size:16px;fill:#4d5960}
+ .head{font-family:Vazirmatn,'Noto Sans Arabic',sans-serif;font-size:21px;font-weight:700;fill:#29363c}
+ .body{font-family:Vazirmatn,'Noto Sans Arabic',sans-serif;font-size:16px;fill:#30383c}
+ .small{font-family:Vazirmatn,'Noto Sans Arabic',sans-serif;font-size:13px;fill:#5d686e}
+ .tiny{font-family:Vazirmatn,'Noto Sans Arabic',sans-serif;font-size:11px;fill:#727b80}
+ .facet{fill:#d8e2e4;stroke:#41545a;stroke-width:2}
+ .roof{fill:#b9cbd0;stroke:#41545a;stroke-width:2}
+ .inter{fill:#e2cda9;stroke:#896b40;stroke-width:2}
+ .base{stroke:#56656a;stroke-width:2.3;fill:none}
+ .guide{stroke:#9a8e7f;stroke-width:1.5;stroke-dasharray:7 5;fill:none}
+ .call{stroke:#69777b;stroke-width:1.5;fill:none}
+ .warn{fill:#f7f0e4;stroke:#d6c7ae;stroke-width:1.4}
+ </style>
+</defs>
+<rect width="1360" height="1040" class="bg"/>
+<rect x="28" y="22" width="1304" height="94" rx="10" fill="#293940"/>
+<text x="680" y="62" text-anchor="middle" class="title" style="fill:#fff" direction="rtl">مقرنس ایوان ورودی مسجد شاه / امام اصفهان</text>
+<text x="680" y="93" text-anchor="middle" class="subtitle" style="fill:#e2e8eb" direction="rtl">تجزیهٔ مستند به سلول، عنصر واسط و ردیف؛ بر اساس پژوهش سه‌بعدی Gherardini &amp; Leali (2016)</text>
+
+<!-- SINGLE CELL -->
+<rect x="35" y="140" width="620" height="410" rx="9" class="panel"/>
+<text x="345" y="180" text-anchor="middle" class="head" direction="rtl">۱ ـ سلول مقرنس (Cell)</text>
+<text x="345" y="207" text-anchor="middle" class="small" direction="rtl">دو وجه عمودی + یک یا دو سطحِ پوشش</text>
+<!-- floor/base -->
+<polygon points="175,405 335,455 500,398 340,348" fill="#f1eee7" stroke="#7b807d" stroke-width="1.5"/>
+<!-- facets -->
+<polygon points="175,405 270,300 270,390 175,475" class="facet"/>
+<polygon points="270,300 405,332 405,420 270,390" class="facet"/>
+<!-- roof panels -->
+<polygon points="270,300 335,230 470,260 405,332" class="roof"/>
+<polygon points="175,405 270,300 335,230 250,335" fill="#c7d5d8" stroke="#41545a" stroke-width="2"/>
+<!-- callouts -->
+<path d="M190 330L110 275H65" class="call"/>
+<text x="65" y="255" class="small" direction="rtl">وجه عمودی ۱</text>
+<path d="M335 362L500 350H625" class="call"/>
+<text x="625" y="330" text-anchor="end" class="small" direction="rtl">وجه عمودی ۲</text>
+<path d="M360 250L510 220H625" class="call"/>
+<text x="625" y="215" text-anchor="end" class="small" direction="rtl">سطح پوششِ سلول</text>
+<text x="345" y="500" text-anchor="middle" class="tiny" direction="rtl">آکسونومتری توضیحیِ اجزای یک سلول؛ نه برداشت هندسی از یک سلول مشخص مسجد شاه</text>
+
+<!-- INTERMEDIATE ELEMENT -->
+<rect x="675" y="140" width="650" height="410" rx="9" class="panel"/>
+<text x="1000" y="180" text-anchor="middle" class="head" direction="rtl">۲ ـ عنصر واسط (Intermediate Element)</text>
+<text x="1000" y="207" text-anchor="middle" class="small" direction="rtl">میان پوشش دو سلول مجاور؛ یک مثلث یا دو مثلث</text>
+<!-- adjacent roofs -->
+<polygon points="760,390 900,275 1025,390 900,440" class="roof"/>
+<polygon points="1025,390 1150,275 1270,390 1150,440" class="roof"/>
+<polygon points="900,275 1025,390 900,440" class="inter"/>
+<path d="M900 275L1025 390L900 440" stroke="#896b40" stroke-width="2.5" fill="none"/>
+<path d="M900 275L1025 390L1150 275" class="guide"/>
+<path d="M1015 350L1190 235H1295" class="call"/>
+<text x="1295" y="225" text-anchor="end" class="small" direction="rtl">سطح/سطوح واسط</text>
+<path d="M1070 315L1100 300" class="call"/>
+<text x="1088" y="292" text-anchor="end" class="tiny" direction="rtl">سلول مجاور</text>
+<text x="1000" y="500" text-anchor="middle" class="tiny" direction="rtl">نمودار مفهومی از توصیف مقاله؛ انحنای دقیق سطح واسط وابسته به نمونه است.</text>
+
+<!-- TIER -->
+<rect x="35" y="575" width="1290" height="240" rx="9" class="panel"/>
+<text x="680" y="615" text-anchor="middle" class="head" direction="rtl">۳ ـ ردیف یا طبقه (Tier)</text>
+<text x="680" y="642" text-anchor="middle" class="small" direction="rtl">سلول‌های مجاور که پایه‌هایشان روی یک تراز افقی قرار دارد</text>
+<!-- four cell elevations with intermediate triangular surfaces -->
+<line x1="115" y1="765" x2="1240" y2="765" class="base"/>
+<g>
+ <polygon points="130,765 155,700 255,700 280,765" class="facet"/>
+ <polygon points="155,700 190,670 290,670 255,700" class="roof"/>
+ <polygon points="280,765 305,700 405,700 430,765" class="facet"/>
+ <polygon points="305,700 340,670 440,670 405,700" class="roof"/>
+ <polygon points="430,765 455,700 555,700 580,765" class="facet"/>
+ <polygon points="455,700 490,670 590,670 555,700" class="roof"/>
+ <polygon points="580,765 605,700 705,700 730,765" class="facet"/>
+ <polygon points="605,700 640,670 740,670 705,700" class="roof"/>
+ <!-- intermediate elements -->
+ <polygon points="255,700 305,700 280,730" class="inter"/>
+ <polygon points="405,700 455,700 430,730" class="inter"/>
+ <polygon points="555,700 605,700 580,730" class="inter"/>
+ <text x="205" y="793" text-anchor="middle" class="tiny">سلول ۱</text>
+ <text x="355" y="793" text-anchor="middle" class="tiny">سلول ۲</text>
+ <text x="505" y="793" text-anchor="middle" class="tiny">سلول ۳</text>
+ <text x="655" y="793" text-anchor="middle" class="tiny">سلول ۴</text>
+</g>
+<path d="M280 718L820 688" class="call"/>
+<text x="930" y="680" text-anchor="middle" class="small" direction="rtl">عناصر واسط میان سلول‌ها</text>
+<path d="M830 700V765" class="guide"/>
+<text x="1030" y="735" text-anchor="middle" class="body" direction="rtl">پایه‌های هم‌تراز</text>
+<text x="1030" y="763" text-anchor="middle" class="small" direction="rtl">یک ردیف افقی را تعریف می‌کنند.</text>
+
+<!-- CASE CONTEXT -->
+<rect x="35" y="840" width="790" height="145" rx="9" class="panel"/>
+<text x="430" y="880" text-anchor="middle" class="head" direction="rtl">۴ ـ داده‌های کیس مسجد شاه / امام</text>
+<text x="430" y="913" text-anchor="middle" class="body" direction="rtl">ایوان ورودی مستطیل و پوشیده با نیم‌گنبد؛ مقرنس گچی همراه کاشی‌کاری.</text>
+<text x="430" y="943" text-anchor="middle" class="small" direction="rtl">ستاره‌های ۴، ۵ و ۷پر؛ برخی ۸پر؛ و چندضلعی‌های مقعر نامنظم گزارش شده‌اند.</text>
+<text x="430" y="969" text-anchor="middle" class="tiny" direction="rtl">۲۷ تصویر برای مدل فتوگرامتری بافت‌دار به کار رفته‌اند؛ این پروژه اسکن لیزری نبود.</text>
+
+<rect x="845" y="840" width="480" height="145" rx="9" class="warn"/>
+<text x="1085" y="880" text-anchor="middle" class="head" direction="rtl">محدودیت شیت</text>
+<text x="1085" y="913" text-anchor="middle" class="small" direction="rtl">ابعاد، ارتفاع طبقات، منحنی سلول و</text>
+<text x="1085" y="938" text-anchor="middle" class="small" direction="rtl">ترتیب کامل مقرنس مسجد شاه در این فایل</text>
+<text x="1085" y="963" text-anchor="middle" class="small" direction="rtl">بازسازی نشده‌اند؛ دیاگرام، شرح اجزای مستند است.</text>
+<text x="680" y="1020" text-anchor="middle" class="tiny">Gherardini &amp; Leali (2016), Nexus Network Journal 18, 133–167, DOI: 10.1007/s00004-015-0287-z, Figs. 2, 8–20.</text>
+</svg>
