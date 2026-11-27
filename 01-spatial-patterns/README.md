@@ -11,10 +11,10 @@
 - حیاط مرکزی — [پیش‌نمایش SVG](drawings/001-hyat-mrkzy.svg)؛ [کیس مستند: خانهٔ نادب، شکل ۱۰](../cases/خانه-نادب-یزد-اتاق-۲-۱.md)
 - خانهٔ درون‌گرا — [پیش‌نمایش SVG](drawings/002-khanh-drvn-gra.svg)
 - سازمان‌دهی پیرامون حیاط — [پیش‌نمایش SVG](drawings/003-sazman-dhy-pyramvn-hyat.svg)
-- حیاط اندرونی و بیرونی — [پیش‌نمایش SVG](drawings/004-hyat-andrvny-v-byrvny.svg)
+- حیاط اندرونی و بیرونی — [پیش‌نمایش SVG](drawings/004-hyat-andrvny-v-byrvny.svg)؛ [کیس مستند: دو حیاط اندرونی و بیرونی خانهٔ لاری‌ها، شکل ۳](../cases/خانه-لاری‌ها-پلان-فضایی-و-اجزای-خانه.md)
 - گودال‌باغچه و سازمان‌دهی پیرامون فضای فرورفته — [پیش‌نمایش SVG](drawings/005-gvdal-baghchh-v-sazman-dhy-pyramvn-fzay-fr.svg)
 ### ب) الگوهای مبتنی بر ایوان و صفه
-- الگوی چهارایوانی — [پیش‌نمایش SVG](drawings/006-algvy-chharayvany.svg)؛ [کیس مستند: چهار ایوان مسجد جامع اصفهان، Photo 2-13](../cases/مسجد-جامع-اصفهان-چهارایوان-پوشش‌ها.md)؛ [کیس مستند: چهار ایوان مسجد جامع اصفهان، Photo 2-13](../cases/مسجد-جامع-اصفهان-چهارایوان-پوشش‌ها.md)
+- الگوی چهارایوانی — [پیش‌نمایش SVG](drawings/006-algvy-chharayvany.svg)؛ [کیس مستند: چهار ایوان مسجد جامع اصفهان، Photo 2-13](../cases/مسجد-جامع-اصفهان-چهارایوان-پوشش‌ها.md)
 - الگوی دوایوانی — [پیش‌نمایش SVG](drawings/007-algvy-dvayvany.svg)
 - الگوی یک‌ایوانی — [پیش‌نمایش SVG](drawings/008-algvy-yk-ayvany.svg)
 - الگوی سه‌ایوانی — [پیش‌نمایش SVG](drawings/009-algvy-sh-ayvany.svg)
