@@ -49,7 +49,7 @@
 <!-- main dome chamber -->
 <rect x="890" y="520" width="300" height="250" class="wall"/>
 <rect x="905" y="535" width="270" height="220" fill="#fff" stroke="#77746b" stroke-width="2"/>
-<path d="M905 535 Q1040 250 1175 535" fill="none" stroke="#5a5550" stroke-width="4" stroke-dasharray="8 5"/>
+<path d="M905 535 Q1040 250 1175 535" class="dash"/>
 <polygon points="1040,250 1054,258 1054,274 1040,282 1026,274 1026,258" fill="#fff" stroke="#5a5550" stroke-width="2.5"/>
 <line x1="1040" y1="250" x2="1040" y2="535" class="dash"/>
 <text x="1065" y="252" class="small">نورگیر هشت‌ضلعی در رأس</text>
@@ -79,10 +79,10 @@
 <!-- floor levels -->
 <line x1="875" y1="770" x2="1385" y2="770" stroke="#343a3c" stroke-width="4"/>
 <line x1="1190" y1="746" x2="1360" y2="746" stroke="#795f3f" stroke-width="4"/>
-<path d="M1190 770 H1215 V758 H1240 V746 H1265" class="step"/>
+<path d="M1190 770 H1215 V746 H1360" class="step"/>
 <text x="890" y="795" class="small">کف اصلی +۰٫۰۰</text>
 <text x="1190" y="730" class="small">کف بخش عقب +۰٫۴۰</text>
-<text x="1355" y="715" class="small">کف اتاق مجاور +۰٫۶۰</text>
+<text x="1355" y="715" class="small">کف اتاق مجاور +۰٫۶۰؛ دو پله از تراز اصلی</text>
 <text x="820" y="790" class="tiny">خط پوستهٔ گنبد و ابعاد افقیِ مقطع شماتیک‌اند؛ فقط ارتفاع رأس و اختلاف ترازها عدد مستند دارند.</text>
 
 <rect x="45" y="845" width="1410" height="100" rx="8" class="note"/>
